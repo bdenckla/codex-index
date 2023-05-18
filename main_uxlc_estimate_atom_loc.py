@@ -2,7 +2,7 @@
 
 import argparse
 import my_uxlc
-import tanakh_book_names as my_tbn
+import my_tanakh_book_names as my_tbn
 import my_uxlc_page_break_info as page_break_info
 from my_uxlc_estimate_location import estimate_location
 
@@ -25,7 +25,7 @@ def _get_cite_e_from_args():
 
 def main():
     """
-    Convert various Changes files to JSON format.
+    Estimate the concrete location of the given atom.
     """
     cite_e = _get_cite_e_from_args()
     uxlc = _get_uxlc()

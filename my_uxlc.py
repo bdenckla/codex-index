@@ -2,15 +2,15 @@
 
 import xml.etree.ElementTree
 
-import tanakh_book_names as my_tbn
-import sef_cmn
+import my_tanakh_book_names as my_tbn
+import my_sef_cmn
 
 
 def read(book_id):
     """ Read book with id book_id into a list of chapters. """
     basename = (
         UXLC_BOOK_FILE_NAMES.get(book_id) or
-        sef_cmn.SEF_ENGLISH_BOOK_NAMES[book_id])
+        my_sef_cmn.SEF_ENGLISH_BOOK_NAMES[book_id])
     xml_path = f'in/UXLC/{basename}.xml'
     tree = xml.etree.ElementTree.parse(xml_path)
     root = tree.getroot()

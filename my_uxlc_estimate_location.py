@@ -5,7 +5,7 @@ import my_uxlc_lci_augrec as lci_augrec
 import my_uxlc_lci_rec as lci_rec
 import my_uxlc_bibdist as bibdist
 import my_uxlc_page_break_info as my_pbi
-import tanakh_book_names as my_tbn
+import my_tanakh_book_names as my_tbn
 
 
 def estimate_location(uxlc, pbi, cite_e):

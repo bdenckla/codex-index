@@ -1,6 +1,6 @@
 """ Exports some constants commonly needed for Sefaria-related work. """
 
-import tanakh_book_names as my_tbn
+import my_tanakh_book_names as my_tbn
 
 
 SEF_BOOK_PROPERTIES = {
