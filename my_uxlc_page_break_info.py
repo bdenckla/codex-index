@@ -58,8 +58,8 @@ def get_book_order(pbi):
 def _get_lcirs_at_high_resolution():
     lci_recs_path = 'in/UXLC-misc/lci_recs.json'
     with open(lci_recs_path, encoding='utf-8') as lci_recs_fp:
-        lci_recs = json.load(lci_recs_fp)
-    lci_recs = lci_rec.unflatten_many(lci_recs)
+        lci_recs_from_json = json.load(lci_recs_fp)
+    lci_recs = lci_rec.unflatten_many(lci_recs_from_json['body'])
     return lci_recs
 
 
