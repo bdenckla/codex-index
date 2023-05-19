@@ -1,6 +1,7 @@
 """
     Exports:
         read_in
+        read_lci_recs_dot_json
         get_lci_augrecs
         get_lci_augrecs_real
         get_page_lengths
@@ -55,11 +56,16 @@ def get_book_order(pbi):
     return pbi['_pbi_book_order']
 
 
-def _get_lcirs_at_high_resolution():
+def read_lci_recs_dot_json():
+    """ Read in lci_recs.json, raw """
     lci_recs_path = 'in/UXLC-misc/lci_recs.json'
     with open(lci_recs_path, encoding='utf-8') as lci_recs_fp:
-        lci_recs_from_json = json.load(lci_recs_fp)
-    lci_recs = lci_rec.unflatten_many(lci_recs_from_json['body'])
+        return json.load(lci_recs_fp)
+
+
+def _get_lcirs_at_high_resolution():
+    lci_recs_dot_json = read_lci_recs_dot_json()
+    lci_recs = lci_rec.unflatten_many(lci_recs_dot_json['body'])
     return lci_recs
 
 
