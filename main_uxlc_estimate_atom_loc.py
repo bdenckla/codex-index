@@ -28,6 +28,16 @@ def main():
     Estimate the concrete location of the given atom.
     """
     cite_e = _get_cite_e_from_args()
+    _main2(cite_e)
+
+
+def example_run():
+    """ Do an example run of the program, for main_0_mega.py. """
+    cite_e = my_tbn.BK_GENESIS, 27, 7, 3
+    _main2(cite_e)
+
+
+def _main2(cite_e):
     uxlc = _get_uxlc()
     pbi = page_break_info.read_in(uxlc)
     guess_page, guess_fline = estimate_location(uxlc, pbi, cite_e)
