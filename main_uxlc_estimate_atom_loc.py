@@ -8,12 +8,12 @@ from my_uxlc_estimate_location import estimate_location
 
 
 def _get_uxlc():
-    return {bkid: my_uxlc.read(bkid) for bkid in my_tbn.ALL_BOOK_NAMES}
+    return {bkid: my_uxlc.read(bkid) for bkid in my_tbn.ALL_BOOK_IDS}
 
 
 def _get_cite_e_from_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument('book_id', choices=my_tbn.ALL_BOOK_NAMES)
+    parser.add_argument('book_id', choices=my_tbn.ALL_BOOK_IDS)
     # e.g. 'Levit'
     parser.add_argument('chapter', type=int)
     parser.add_argument('verse', type=int)
