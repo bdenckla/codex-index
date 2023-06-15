@@ -9,7 +9,7 @@ import my_sef_cmn
 def read(book_id):
     """ Read book with id book_id into a list of chapters. """
     basename = (
-        UXLC_BOOK_FILE_NAMES.get(book_id) or
+        _UXLC_BOOK_FILE_NAMES.get(book_id) or
         my_sef_cmn.SEF_ENGLISH_BOOK_NAMES[book_id])
     xml_path = f'in/UXLC/{basename}.xml'
     tree = xml.etree.ElementTree.parse(xml_path)
@@ -26,7 +26,7 @@ def read(book_id):
     return chapters
 
 
-UXLC_BOOK_FILE_NAMES = {
+_UXLC_BOOK_FILE_NAMES = {
     my_tbn.BK_FST_SAMUEL: 'Samuel_1',
     my_tbn.BK_SND_SAMUEL: 'Samuel_2',
     my_tbn.BK_FST_KINGS: 'Kings_1',
