@@ -10,7 +10,7 @@ def read(book_id):
     """ Read book with id book_id into a list of chapters. """
     basename = (
         _UXLC_BOOK_FILE_NAMES.get(book_id) or
-        my_sef_cmn.SEF_ENGLISH_BOOK_NAMES[book_id])
+        my_sef_cmn.SEF_BKNA[book_id])
     xml_path = f'in/UXLC/{basename}.xml'
     tree = xml.etree.ElementTree.parse(xml_path)
     root = tree.getroot()
@@ -27,13 +27,13 @@ def read(book_id):
 
 
 _UXLC_BOOK_FILE_NAMES = {
-    my_tbn.BK_FST_SAMUEL: 'Samuel_1',
-    my_tbn.BK_SND_SAMUEL: 'Samuel_2',
-    my_tbn.BK_FST_KINGS: 'Kings_1',
-    my_tbn.BK_SND_KINGS: 'Kings_2',
-    my_tbn.BK_SONG_OF_SONGS: 'Song_of_Songs',
-    my_tbn.BK_FST_CHRONICLES: 'Chronicles_1',
-    my_tbn.BK_SND_CHRONICLES: 'Chronicles_2',
+    my_tbn.BK_FST_SAM: 'Samuel_1',
+    my_tbn.BK_SND_SAM: 'Samuel_2',
+    my_tbn.BK_FST_KGS: 'Kings_1',
+    my_tbn.BK_SND_KGS: 'Kings_2',
+    my_tbn.BK_SONG: 'Song_of_Songs',
+    my_tbn.BK_FST_CHR: 'Chronicles_1',
+    my_tbn.BK_SND_CHR: 'Chronicles_2',
 }
 
 # GOs have 6 types:
