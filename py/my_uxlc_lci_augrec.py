@@ -2,7 +2,7 @@
 
 import my_uxlc_lci_rec as lci_rec
 import my_uxlc_bibdist as bibdist
-from my_uxlc_lci_rec_flatten import lci_rec_flatten
+import my_uxlc_lci_rec_flatten as lci_rec_flatten
 
 
 def augment_lci_recs(uxlc, lci_recs):
@@ -82,7 +82,7 @@ def is_real(lci_augrec):
 
 
 def _flatten_one(lci_augrec):
-    lci_rec_f = lci_rec_flatten(get_lci_rec(lci_augrec))
+    lci_rec_f = lci_rec_flatten.flatten(get_lci_rec(lci_augrec))
     bibdists_f = _flatten_bibdists(get_bibdists_stasto(lci_augrec))
     lci_augrec_f = {**lci_rec_f, **bibdists_f}
     return lci_augrec_f

@@ -4,7 +4,7 @@ import argparse
 import my_uxlc
 import my_tanakh_book_names as my_tbn
 import my_uxlc_page_break_info as page_break_info
-from my_uxlc_estimate_location import estimate_location
+import my_uxlc_location
 
 
 def _get_uxlc():
@@ -40,7 +40,7 @@ def example_run():
 def _main2(cite_e):
     uxlc = _get_uxlc()
     pbi = page_break_info.read_in(uxlc)
-    guess_page, guess_fline = estimate_location(uxlc, pbi, cite_e)
+    guess_page, guess_fline = my_uxlc_location.estimate(uxlc, pbi, cite_e)
     guess_fline_str = f'{guess_fline:.1f}'
     print(guess_page, guess_fline_str)
 

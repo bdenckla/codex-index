@@ -8,7 +8,7 @@ import my_uxlc_page_break_info as my_pbi
 import my_tanakh_book_names as my_tbn
 
 
-def estimate_location(uxlc, pbi, cite_e):
+def estimate(uxlc, pbi, cite_e):
     """
     Given the atom specified by cite_e (book, chapter, verse, and atom),
     estimate the location of that atom in the LC (page and "flat line").

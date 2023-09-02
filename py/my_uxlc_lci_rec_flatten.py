@@ -4,7 +4,7 @@ import my_uxlc_lci_rec as lci_rec
 import my_uxlc_cvp as cvp
 
 
-def lci_rec_flatten(lcir):
+def flatten(lcir):
     """ Make one lci_rec more suitable for JSON export """
     cvp_range = lci_rec.get_cvp_range(lcir)
     cvp_range_f = _flatten_cvp_range(cvp_range)
