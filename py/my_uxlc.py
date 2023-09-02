@@ -2,7 +2,7 @@
 
 import xml.etree.ElementTree
 
-import my_tanakh_book_names as my_tbn
+import my_tanakh_book_names as tbn
 import my_sef_cmn
 
 
@@ -27,13 +27,13 @@ def read(book_id):
 
 
 _UXLC_BOOK_FILE_NAMES = {
-    my_tbn.BK_FST_SAM: 'Samuel_1',
-    my_tbn.BK_SND_SAM: 'Samuel_2',
-    my_tbn.BK_FST_KGS: 'Kings_1',
-    my_tbn.BK_SND_KGS: 'Kings_2',
-    my_tbn.BK_SONG: 'Song_of_Songs',
-    my_tbn.BK_FST_CHR: 'Chronicles_1',
-    my_tbn.BK_SND_CHR: 'Chronicles_2',
+    tbn.BK_FST_SAM: 'Samuel_1',
+    tbn.BK_SND_SAM: 'Samuel_2',
+    tbn.BK_FST_KGS: 'Kings_1',
+    tbn.BK_SND_KGS: 'Kings_2',
+    tbn.BK_SONG: 'Song_of_Songs',
+    tbn.BK_FST_CHR: 'Chronicles_1',
+    tbn.BK_SND_CHR: 'Chronicles_2',
 }
 
 # GOs have 6 types:

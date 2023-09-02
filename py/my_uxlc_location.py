@@ -4,8 +4,8 @@ import my_uxlc_cvp as cvp
 import my_uxlc_lci_augrec as lci_augrec
 import my_uxlc_lci_rec as lci_rec
 import my_uxlc_bibdist as bibdist
-import my_uxlc_page_break_info as my_pbi
-import my_tanakh_book_names as my_tbn
+import my_uxlc_page_break_info as page_break_info
+import my_tanakh_book_names as tbn
 
 
 def estimate(uxlc, pbi, cite_e):
@@ -20,7 +20,7 @@ def estimate(uxlc, pbi, cite_e):
 
 
 def _find_lciar_for_cite(pbi, citation):
-    lci_augrecs = my_pbi.get_lci_augrecs_real(pbi)
+    lci_augrecs = page_break_info.get_lci_augrecs_real(pbi)
     start_mid_stop = _add_mid(0, len(lci_augrecs))
     index = _find(pbi, citation, start_mid_stop)
     lciar = lci_augrecs[index]
@@ -30,7 +30,7 @@ def _find_lciar_for_cite(pbi, citation):
 def _find(pbi, citation, start_mid_stop):
     start, mid, stop = start_mid_stop
     if _degenerate(start_mid_stop):
-        lci_augrecs = my_pbi.get_lci_augrecs_real(pbi)
+        lci_augrecs = page_break_info.get_lci_augrecs_real(pbi)
         _lci_augrec = lci_augrecs[mid]
         assert _cite_is_in_range(pbi, citation, mid)
         return mid
@@ -58,8 +58,8 @@ def _add_mid(start_incl, stop_excl):
 
 
 def _get_comparables(pbi, citation, index, stasto='start'):
-    lci_augrecs = my_pbi.get_lci_augrecs_real(pbi)
-    book_order = my_pbi.get_book_order(pbi)
+    lci_augrecs = page_break_info.get_lci_augrecs_real(pbi)
+    book_order = page_break_info.get_book_order(pbi)
     ncva_from_cite = _get_ncva1(book_order, citation)
     lciar = lci_augrecs[index]
     ncva_from_lci_rec = _get_ncva2(book_order, lciar, stasto)
@@ -112,7 +112,7 @@ def _flines_fr_p0_to_p1(lciar):
 
 
 def _page_column_count(bkid):
-    if my_tbn.section(bkid) == my_tbn.SEC_SIF_EM:
+    if tbn.section(bkid) == tbn.SEC_SIF_EM:
         return 2
     return 3
 
@@ -144,7 +144,7 @@ def _sd_fr_p0_to_p1(pbi, lciar):
         bd_diff = bibdist.subtract(bd_stop, bd_start)
         return bibdist.get_word_count(bd_diff)
     guess_pgid = lci_augrec.get_pgid(lciar)
-    length_of_guess_page = my_pbi.get_page_lengths(pbi)[guess_pgid]
+    length_of_guess_page = page_break_info.get_page_lengths(pbi)[guess_pgid]
     return bibdist.get_word_count(length_of_guess_page)
 
 

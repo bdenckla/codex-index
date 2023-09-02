@@ -2,18 +2,18 @@
 
 import argparse
 import my_uxlc
-import my_tanakh_book_names as my_tbn
+import my_tanakh_book_names as tbn
 import my_uxlc_page_break_info as page_break_info
 import my_uxlc_location
 
 
 def _get_uxlc():
-    return {bkid: my_uxlc.read(bkid) for bkid in my_tbn.ALL_BOOK_IDS}
+    return {bkid: my_uxlc.read(bkid) for bkid in tbn.ALL_BOOK_IDS}
 
 
 def _get_cite_e_from_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument('book_id', choices=my_tbn.ALL_BOOK_IDS)
+    parser.add_argument('book_id', choices=tbn.ALL_BOOK_IDS)
     # e.g. 'Levit'
     parser.add_argument('chapter', type=int)
     parser.add_argument('verse', type=int)
@@ -33,7 +33,7 @@ def main():
 
 def example_run():
     """ Do an example run of the program, for main_0_mega.py. """
-    cite_e = my_tbn.BK_GENESIS, 27, 7, 3
+    cite_e = tbn.BK_GENESIS, 27, 7, 3
     _main2(cite_e)
 
 
