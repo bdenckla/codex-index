@@ -43,7 +43,7 @@ def make_zero():
 
 
 def get_word_count(bibdist):
-    """ return the word count """
+    """ Return the word count """
     return bibdist['_bibdist_word_count']
 
 

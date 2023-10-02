@@ -5,7 +5,7 @@ import my_uxlc_cvp as cvp
 
 
 def make(pgid, bkid, cvp_range, note):
-    """ Constructs an lci_rec with coli_range == None. """
+    """ Construct an lci_rec with coli_range == None. """
     return _make2((pgid, None), (bkid, cvp_range), note)
 
 
@@ -118,7 +118,7 @@ def unparse_pgid(leaf_int, ca_or_cb):
 
 
 def _make2(concrete, abstract, note):
-    """ Constructs an lci_rec. """
+    """ Construct an lci_rec. """
     return {
         '_lcir_concrete': concrete,
         '_lcir_abstract': abstract,
