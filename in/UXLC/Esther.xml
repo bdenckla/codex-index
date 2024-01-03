@@ -20,27 +20,29 @@
     </titleStmt>
     <editionStmt>
       <edition>Unicode/XML Leningrad Codex (UXLC)
-        <version>UXLC 1.8</version>
-        <date>1 Apr 2023</date>
-        <build>26.9</build>
-        <buildDateTime>5 Feb 2023  09:17</buildDateTime>
+        <version>UXLC 2.0</version>
+        <date>19 Oct 2023</date>
+        <build>27.1</build>
+        <buildDateTime>19 Oct 2023  00:00</buildDateTime>
       </edition>
 <respStmt>
-<resp>WLC2XML[5 Feb 2023] - Transcription from Michigan-Claremont encoding to Unicode with XML markings. See details in notes.</resp>
+<resp>WLC2XML[21 Apr 2023] - Transcription from Michigan-Claremont encoding to Unicode with XML markings. See details in notes.</resp>
 <resp>ScanReplace/EditWLC[30 Dec 2020] - Edits/removes transcription notes; removes MDs.</resp>
 <resp>ScanReplace/InsertCGJs[29 Dec 2020] - Places CGJ in Jerusalem VUV words and leading metegs.</resp>
-<resp>Updater[18 Sep 2022] - Changes.xml file dated 2020.02.19 . </resp>
-<resp>Updater[18 Sep 2022] - Changes.xml file dated 2020.10.19 . </resp>
-<resp>Updater[18 Sep 2022] - Changes.xml file dated 2021.04.01 . </resp>
-<resp>Updater[18 Sep 2022] - Changes.xml file dated 2021.10.19 . </resp>
-<resp>Updater[18 Sep 2022] - Changes.xml file dated 2022.04.01 . </resp>
-<resp>Updater[18 Sep 2022] - Changes.xml file dated 2022.07.04 . </resp>
-<resp>Updater[18 Sep 2022] - Changes.xml file dated 2022.10.19 . </resp>
-<resp>Updater[18 Sep 2022] - Changes.xml file dated 2022.12.07 . </resp>
-<resp>Updater[18 Sep 2022] - Changes.xml file dated 2023.04.01 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2020.02.19 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2020.10.19 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2021.04.01 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2021.10.19 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2022.04.01 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2022.07.04 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2022.10.19 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2022.12.07 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2023.04.01 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2023.07.04 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2023.10.19 . </resp>
 </respStmt>
     </editionStmt>
-    <extent>114304</extent>
+    <extent>115633</extent>
     <publicationStmt>
       <distributor>Via web site:
         <name>Christopher V. Kimball</name>
@@ -54,6 +56,14 @@
 The file has the MD5 hash: d31a 6a6e 9afa bf82 272c 2efb 0522 a12e 
 and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to the noted character (Lev 11:42.4, Judg 18:30.11, Isa 9.6.1, Ps 80:14.3, Job 38:13.5, Job 38:15.2) to produce the file wlc420_ps_td.txt for conversion to Unicode and XML by the program WLC2XML. The only other changes to the Groves Center text are: The book names in English and Hebrew of the Jewish Publication Society Tanach and book abbreviations from the New Revised Standard Version have been added. MC code 32 added as atnah hafukh by Steve Salisbury, 30 Sep 2021. The atnah hafukh codepoint, x05a2, has been added to the character table; it does not appear in WLC 4.20. </note>
     <correction>
+<citation>1:5.11</citation>
+<description>Move darga from under gimel to under dalet.</description>
+<author>Anonymous</author>
+<filedate>2023.04.01</filedate>
+<date>2023.02.04</date>
+<n>5</n>
+</correction>
+<correction>
 <citation>2:21.19</citation>
 <description>Move meteg (siluq) from vav to following resh.</description>
 <author>Jonah Rank</author>
@@ -70,12 +80,44 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
 <n>19</n>
 </correction>
 <correction>
+<citation>6:11.1</citation>
+<description>Remove dagesh from yod.</description>
+<author>Daniel Holman</author>
+<filedate>2023.10.19</filedate>
+<date>2023.09.11</date>
+<n>27</n>
+</correction>
+<correction>
 <citation>7:8.10</citation>
 <description>Change zaqef qatan on pe to revia, add note 't'.</description>
 <author>Stephen Salisbury</author>
 <filedate>2021.04.01</filedate>
 <date>2021.02.22</date>
 <n>26</n>
+</correction>
+<correction>
+<citation>8:9.1</citation>
+<description>Remove dagesh from yod.</description>
+<author>Daniel Holman</author>
+<filedate>2023.10.19</filedate>
+<date>2023.09.11</date>
+<n>28</n>
+</correction>
+<correction>
+<citation>9:4.2</citation>
+<description>Move mahapakh from under the gimel to under the dalet.</description>
+<author>Daniel Holman</author>
+<filedate>2023.10.19</filedate>
+<date>2023.09.11</date>
+<n>29</n>
+</correction>
+<correction>
+<citation>9:31.2</citation>
+<description>Change tsere under alef to segol.</description>
+<author>Daniel Holman</author>
+<filedate>2023.10.19</filedate>
+<date>2023.09.11</date>
+<n>30</n>
 </correction>
 </notesStmt>
     <sourceDesc>
@@ -210,7 +252,7 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
         <w>הַנִּמְצְאִים֩</w>
         <w>בְּשׁוּשַׁ֨ן</w>
         <w>הַבִּירָ֜ה</w>
-        <w>לְמִגָּ֧דוֹל</w>
+        <w>לְמִגָּד֧וֹל</w>
         <w>וְעַד־</w>
         <w>קָטָ֛ן</w>
         <w>מִשְׁתֶּ֖ה</w>
@@ -2219,7 +2261,7 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
         <w>דִּבַּֽרְתָּ׃</w>
       </v>
       <v n="11">
-        <w>וַיִּקַּ֤ח</w>
+        <w>וַיִקַּ֤ח</w>
         <w>הָמָן֙</w>
         <w>אֶת־</w>
         <w>הַלְּב֣וּשׁ</w>
@@ -2703,7 +2745,7 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
         <w>לְהָשִֽׁיב׃</w>
       </v>
       <v n="9">
-        <w>וַיִּקָּרְא֣וּ</w>
+        <w>וַיִקָּרְא֣וּ</w>
         <w>סֹפְרֵֽי־</w>
         <w>הַמֶּ֣לֶךְ</w>
         <w>בָּֽעֵת־</w>
@@ -2983,7 +3025,7 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
       </v>
       <v n="4">
         <w>כִּֽי־</w>
-        <w>גָ֤דוֹל</w>
+        <w>גָד֤וֹל</w>
         <w>מָרְדֳּכַי֙</w>
         <w>בְּבֵ֣ית</w>
         <w>הַמֶּ֔לֶךְ</w>
@@ -3491,7 +3533,7 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
       </v>
       <v n="31">
         <w>לְקַיֵּ֡ם</w>
-        <w>אֵת־</w>
+        <w>אֶת־</w>
         <w>יְמֵי֩</w>
         <w>הַפֻּרִ֨ים</w>
         <w>הָאֵ֜לֶּה</w>
@@ -3616,6 +3658,11 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
     <code>c</code>
     <gccode>c</gccode>
     <note>Text is correct relative to LC. Usually this marks a peculiarity of the LC relative to the other Masoretic texts.</note>
+  </note>
+  <note>
+    <code>d</code>
+    <gccode>d</gccode>
+    <note>This tipeha is a dehi in other texts.</note>
   </note>
   <note>
     <code>m</code>

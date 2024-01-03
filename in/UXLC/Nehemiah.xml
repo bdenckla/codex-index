@@ -20,27 +20,29 @@
     </titleStmt>
     <editionStmt>
       <edition>Unicode/XML Leningrad Codex (UXLC)
-        <version>UXLC 1.8</version>
-        <date>1 Apr 2023</date>
-        <build>26.9</build>
-        <buildDateTime>5 Feb 2023  09:17</buildDateTime>
+        <version>UXLC 2.0</version>
+        <date>19 Oct 2023</date>
+        <build>27.1</build>
+        <buildDateTime>19 Oct 2023  00:00</buildDateTime>
       </edition>
 <respStmt>
-<resp>WLC2XML[5 Feb 2023] - Transcription from Michigan-Claremont encoding to Unicode with XML markings. See details in notes.</resp>
+<resp>WLC2XML[21 Apr 2023] - Transcription from Michigan-Claremont encoding to Unicode with XML markings. See details in notes.</resp>
 <resp>ScanReplace/EditWLC[30 Dec 2020] - Edits/removes transcription notes; removes MDs.</resp>
 <resp>ScanReplace/InsertCGJs[29 Dec 2020] - Places CGJ in Jerusalem VUV words and leading metegs.</resp>
-<resp>Updater[18 Sep 2022] - Changes.xml file dated 2020.02.19 . </resp>
-<resp>Updater[18 Sep 2022] - Changes.xml file dated 2020.10.19 . </resp>
-<resp>Updater[18 Sep 2022] - Changes.xml file dated 2021.04.01 . </resp>
-<resp>Updater[18 Sep 2022] - Changes.xml file dated 2021.10.19 . </resp>
-<resp>Updater[18 Sep 2022] - Changes.xml file dated 2022.04.01 . </resp>
-<resp>Updater[18 Sep 2022] - Changes.xml file dated 2022.07.04 . </resp>
-<resp>Updater[18 Sep 2022] - Changes.xml file dated 2022.10.19 . </resp>
-<resp>Updater[18 Sep 2022] - Changes.xml file dated 2022.12.07 . </resp>
-<resp>Updater[18 Sep 2022] - Changes.xml file dated 2023.04.01 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2020.02.19 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2020.10.19 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2021.04.01 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2021.10.19 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2022.04.01 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2022.07.04 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2022.10.19 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2022.12.07 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2023.04.01 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2023.07.04 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2023.10.19 . </resp>
 </respStmt>
     </editionStmt>
-    <extent>201441</extent>
+    <extent>201705</extent>
     <publicationStmt>
       <distributor>Via web site:
         <name>Christopher V. Kimball</name>
@@ -6468,6 +6470,11 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
     <code>c</code>
     <gccode>c</gccode>
     <note>Text is correct relative to LC. Usually this marks a peculiarity of the LC relative to the other Masoretic texts.</note>
+  </note>
+  <note>
+    <code>d</code>
+    <gccode>d</gccode>
+    <note>This tipeha is a dehi in other texts.</note>
   </note>
   <note>
     <code>m</code>

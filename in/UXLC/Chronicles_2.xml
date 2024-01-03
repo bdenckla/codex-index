@@ -20,27 +20,29 @@
     </titleStmt>
     <editionStmt>
       <edition>Unicode/XML Leningrad Codex (UXLC)
-        <version>UXLC 1.8</version>
-        <date>1 Apr 2023</date>
-        <build>26.9</build>
-        <buildDateTime>5 Feb 2023  09:17</buildDateTime>
+        <version>UXLC 2.0</version>
+        <date>19 Oct 2023</date>
+        <build>27.1</build>
+        <buildDateTime>19 Oct 2023  00:00</buildDateTime>
       </edition>
 <respStmt>
-<resp>WLC2XML[5 Feb 2023] - Transcription from Michigan-Claremont encoding to Unicode with XML markings. See details in notes.</resp>
+<resp>WLC2XML[21 Apr 2023] - Transcription from Michigan-Claremont encoding to Unicode with XML markings. See details in notes.</resp>
 <resp>ScanReplace/EditWLC[30 Dec 2020] - Edits/removes transcription notes; removes MDs.</resp>
 <resp>ScanReplace/InsertCGJs[29 Dec 2020] - Places CGJ in Jerusalem VUV words and leading metegs.</resp>
-<resp>Updater[18 Sep 2022] - Changes.xml file dated 2020.02.19 . </resp>
-<resp>Updater[18 Sep 2022] - Changes.xml file dated 2020.10.19 . </resp>
-<resp>Updater[18 Sep 2022] - Changes.xml file dated 2021.04.01 . </resp>
-<resp>Updater[18 Sep 2022] - Changes.xml file dated 2021.10.19 . </resp>
-<resp>Updater[18 Sep 2022] - Changes.xml file dated 2022.04.01 . </resp>
-<resp>Updater[18 Sep 2022] - Changes.xml file dated 2022.07.04 . </resp>
-<resp>Updater[18 Sep 2022] - Changes.xml file dated 2022.10.19 . </resp>
-<resp>Updater[18 Sep 2022] - Changes.xml file dated 2022.12.07 . </resp>
-<resp>Updater[18 Sep 2022] - Changes.xml file dated 2023.04.01 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2020.02.19 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2020.10.19 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2021.04.01 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2021.10.19 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2022.04.01 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2022.07.04 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2022.10.19 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2022.12.07 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2023.04.01 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2023.07.04 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2023.10.19 . </resp>
 </respStmt>
     </editionStmt>
-    <extent>480327</extent>
+    <extent>483682</extent>
     <publicationStmt>
       <distributor>Via web site:
         <name>Christopher V. Kimball</name>
@@ -60,6 +62,118 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
 <filedate>2021.10.19</filedate>
 <date>2021.08.07</date>
 <n>25</n>
+</correction>
+<correction>
+<citation>20:1.2</citation>
+<description>Word is usually split with a maqaf between the yod and the kaf.  Add note 'c'.</description>
+<author>Dotan BHLA: CVK</author>
+<filedate>2023.10.19</filedate>
+<date>2023.08.10</date>
+<n>1</n>
+</correction>
+<correction>
+<citation>20:35.1</citation>
+<description>Word usually is split by a maqaf between the yod and the kaf.  Add note 'c'.</description>
+<author>Dotan BHLA: CVK</author>
+<filedate>2023.10.19</filedate>
+<date>2023.08.10</date>
+<n>2</n>
+</correction>
+<correction>
+<citation>23:4.8</citation>
+<description>Remove dagesh from shin.</description>
+<author>Dotan BHLA: CVK</author>
+<filedate>2023.10.19</filedate>
+<date>2023.08.10</date>
+<n>3</n>
+</correction>
+<correction>
+<citation>23:8.15</citation>
+<description>Remove dagesh from shin.</description>
+<author>Dotan BHLA: CVK</author>
+<filedate>2023.10.19</filedate>
+<date>2023.08.10</date>
+<n>4</n>
+</correction>
+<correction>
+<citation>23:8.18</citation>
+<description>Remove dagesh from shin.</description>
+<author>Dotan BHLA: CVK</author>
+<filedate>2023.10.19</filedate>
+<date>2023.08.10</date>
+<n>5</n>
+</correction>
+<correction>
+<citation>26:1.6</citation>
+<description>Remove dagesh from zayin.</description>
+<author>Dotan BHLA: CVK</author>
+<filedate>2023.10.19</filedate>
+<date>2023.08.10</date>
+<n>6</n>
+</correction>
+<correction>
+<citation>26:3.5</citation>
+<description>Remove dagesh from zayin and from yod.</description>
+<author>Dotan BHLA: CVK</author>
+<filedate>2023.10.19</filedate>
+<date>2023.08.10</date>
+<n>7</n>
+</correction>
+<correction>
+<citation>26:15.18</citation>
+<description>Examine possible dagesh in het.  Add note 't'.</description>
+<author>Dotan BHLA: CVK</author>
+<filedate>2023.10.19</filedate>
+<date>2023.08.10</date>
+<n>8</n>
+</correction>
+<correction>
+<citation>26:21.2</citation>
+<description>Remove dagesh from yod.</description>
+<author>Dotan BHLA: CVK</author>
+<filedate>2023.10.19</filedate>
+<date>2023.08.10</date>
+<n>9</n>
+</correction>
+<correction>
+<citation>27:4.7</citation>
+<description>Add yod after resh.</description>
+<author>Dotan BHLA: CVK</author>
+<filedate>2023.10.19</filedate>
+<date>2023.08.10</date>
+<n>10</n>
+</correction>
+<correction>
+<citation>30:11.8</citation>
+<description>Change qamats below shin to hataf-qamats. Add note 'c'.</description>
+<author>Dotan BHLA: CVK</author>
+<filedate>2023.10.19</filedate>
+<date>2023.08.10</date>
+<n>11</n>
+</correction>
+<correction>
+<citation>32:8.2</citation>
+<description>Remove patah from ayin.</description>
+<author>Dotan BHLA: CVK</author>
+<filedate>2023.10.19</filedate>
+<date>2023.08.10</date>
+<n>12</n>
+</correction>
+<correction>
+<citation>32:12.16</citation>
+<description>Add dagesh to first vav. Add note 't'.</description>
+<author>Dotan BHLA: CVK</author>
+<filedate>2023.10.19</filedate>
+<date>2023.08.10</date>
+<n>13</n>
+</correction>
+<correction>
+<citation>35:9.3</citation>
+<description>Add dagesh to yod.</description>
+<author>Dotan BHLA: CVK</author>
+<filedate>2023.10.19</filedate>
+<date>2023.08.10</date>
+<n>14</n>
 </correction>
 </notesStmt>
     <sourceDesc>
@@ -7313,7 +7427,7 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
     <c n="20">
       <v n="1">
         <w>וַיְהִ֣י</w>
-        <w>אֽ͏ַחֲרֵיכֵ֡ן</w>
+        <w>אֽ͏ַחֲרֵי<x>c</x>כֵ֡ן</w>
         <w>בָּ֣אוּ</w>
         <w>בְנֵי־</w>
         <w>מוֹאָב֩</w>
@@ -7916,7 +8030,7 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
         <w>יִשְׂרָאֵֽל׃</w>
       </v>
       <v n="35">
-        <w>וְאַחֲרֵיכֵ֗ן</w>
+        <w>וְאַחֲרֵי<x>c</x>כֵ֗ן</w>
         <w>אֶתְחַבַּר֙</w>
         <w>יְהוֹשָׁפָ֣ט</w>
         <w>מֶֽלֶךְ־</w>
@@ -8755,10 +8869,10 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
         <w>אֶת־</w>
         <w>אֲנָשָׁ֔יו</w>
         <w>בָּאֵ֣י</w>
-        <w>הַשַּׁבָּ֔ת</w>
+        <w>הַשַׁבָּ֔ת</w>
         <w>עִ֖ם</w>
         <w>יוֹצְאֵ֣י</w>
-        <w>הַשַּׁבָּ֑ת</w>
+        <w>הַשַׁבָּ֑ת</w>
         <w>כִּ֣י</w>
         <w>לֹ֥א</w>
         <w>פָטַ֛ר</w>
@@ -10124,7 +10238,7 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
         <w>עַ֤ם</w>
         <w>יְהוּדָה֙</w>
         <w>אֶת־</w>
-        <w>עֻזִּיָּ֔הוּ</w>
+        <w>עֻזִיָּ֔הוּ</w>
         <w>וְה֕וּא</w>
         <w>בֶּן־</w>
         <w>שֵׁ֥שׁ</w>
@@ -10155,7 +10269,7 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
         <w>שֵׁ֨שׁ</w>
         <w>עֶשְׂרֵ֤ה</w>
         <w>שָׁנָה֙</w>
-        <w>עֻזִּיָּ֣הוּ</w>
+        <w>עֻזִיָ֣הוּ</w>
         <w>בְמָלְכ֔וֹ</w>
         <w>וַחֲמִשִּׁ֤ים</w>
         <w>וּשְׁתַּ֙יִם֙</w>
@@ -10370,7 +10484,7 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
         <w>וַיֵּצֵ֤א</w>
         <w>שְׁמוֹ֙</w>
         <w>עַד־</w>
-        <w>לְמֵ֣רָח֔וֹק</w>
+        <w>לְמֵ֣רָח֔<x>t</x>וֹק</w>
         <w>כִּֽי־</w>
         <w>הִפְלִ֥יא</w>
         <w>לְהֵעָזֵ֖ר</w>
@@ -10481,7 +10595,7 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
       </v>
       <v n="21">
         <w>וַיְהִי֩</w>
-        <w>עֻזִּיָּ֨הוּ</w>
+        <w>עֻזִּיָ֨הוּ</w>
         <w>הַמֶּ֜לֶךְ</w>
         <w>מְצֹרָ֣ע ׀</w>
         <w>עַד־</w>
@@ -10602,7 +10716,7 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
         <w>יְהוּדָ֑ה</w>
         <w>וּבֶחֳרָשִׁ֣ים</w>
         <w>בָּנָ֔ה</w>
-        <w>בִּֽירָנִיּ֖וֹת</w>
+        <w>בִּֽירָינִיּ֖וֹת</w>
         <w>וּמִגְדָּלִֽים׃</w>
       </v>
       <v n="5">
@@ -12045,7 +12159,7 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
         <w>וּמִזְּבֻל֑וּן</w>
         <w>נִֽכְנְע֔וּ</w>
         <w>וַיָּבֹ֖אוּ</w>
-        <w>לִירוּשָׁלָֽ͏ִם׃</w>
+        <w>לִירוּשֳׁ<x>c</x>לָֽ͏ִם׃</w>
       </v>
       <v n="12">
         <w>גַּ֣ם</w>
@@ -12849,7 +12963,7 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
       </v>
       <v n="8">
         <w>עִמּוֹ֙</w>
-        <w>זְר֣וֹעַ</w>
+        <w>זְר֣וֹע</w>
         <w>בָּשָׂ֔ר</w>
         <w>וְעִמָּ֜נוּ</w>
         <w>יְהוָ֤ה</w>
@@ -12940,7 +13054,7 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
         <w>לִפְנֵ֨י</w>
         <w>מִזְבֵּ֧חַ</w>
         <w>אֶחָ֛ד</w>
-        <w>תִּֽשְׁתַּחֲו֖וּ</w>
+        <w>תִּֽשְׁתַּחֲוּ֖<x>t</x>וּ</w>
         <w>וְעָלָ֥יו</w>
         <w>תַּקְטִֽירוּ׃</w>
       </v>
@@ -14624,7 +14738,7 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
       <v n="9">
         <k>וכונניהו</k>
         <q>וְ֠כָֽנַנְיָהוּ</q>
-        <w>וּשְׁמַֽעְיָ֨הוּ</w>
+        <w>וּשְׁמַֽעְיָּ֨הוּ</w>
         <w>וּנְתַנְאֵ֜ל</w>
         <w>אֶחָ֗יו</w>
         <w>וַחֲשַׁבְיָ֧הוּ</w>
@@ -15426,6 +15540,11 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
     <code>c</code>
     <gccode>c</gccode>
     <note>Text is correct relative to LC. Usually this marks a peculiarity of the LC relative to the other Masoretic texts.</note>
+  </note>
+  <note>
+    <code>d</code>
+    <gccode>d</gccode>
+    <note>This tipeha is a dehi in other texts.</note>
   </note>
   <note>
     <code>m</code>

@@ -20,27 +20,29 @@
     </titleStmt>
     <editionStmt>
       <edition>Unicode/XML Leningrad Codex (UXLC)
-        <version>UXLC 1.8</version>
-        <date>1 Apr 2023</date>
-        <build>26.9</build>
-        <buildDateTime>5 Feb 2023  09:17</buildDateTime>
+        <version>UXLC 2.0</version>
+        <date>19 Oct 2023</date>
+        <build>27.1</build>
+        <buildDateTime>19 Oct 2023  00:00</buildDateTime>
       </edition>
 <respStmt>
-<resp>WLC2XML[5 Feb 2023] - Transcription from Michigan-Claremont encoding to Unicode with XML markings. See details in notes.</resp>
+<resp>WLC2XML[21 Apr 2023] - Transcription from Michigan-Claremont encoding to Unicode with XML markings. See details in notes.</resp>
 <resp>ScanReplace/EditWLC[30 Dec 2020] - Edits/removes transcription notes; removes MDs.</resp>
 <resp>ScanReplace/InsertCGJs[29 Dec 2020] - Places CGJ in Jerusalem VUV words and leading metegs.</resp>
-<resp>Updater[18 Sep 2022] - Changes.xml file dated 2020.02.19 . </resp>
-<resp>Updater[18 Sep 2022] - Changes.xml file dated 2020.10.19 . </resp>
-<resp>Updater[18 Sep 2022] - Changes.xml file dated 2021.04.01 . </resp>
-<resp>Updater[18 Sep 2022] - Changes.xml file dated 2021.10.19 . </resp>
-<resp>Updater[18 Sep 2022] - Changes.xml file dated 2022.04.01 . </resp>
-<resp>Updater[18 Sep 2022] - Changes.xml file dated 2022.07.04 . </resp>
-<resp>Updater[18 Sep 2022] - Changes.xml file dated 2022.10.19 . </resp>
-<resp>Updater[18 Sep 2022] - Changes.xml file dated 2022.12.07 . </resp>
-<resp>Updater[18 Sep 2022] - Changes.xml file dated 2023.04.01 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2020.02.19 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2020.10.19 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2021.04.01 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2021.10.19 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2022.04.01 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2022.07.04 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2022.10.19 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2022.12.07 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2023.04.01 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2023.07.04 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2023.10.19 . </resp>
 </respStmt>
     </editionStmt>
-    <extent>399400</extent>
+    <extent>400562</extent>
     <publicationStmt>
       <distributor>Via web site:
         <name>Christopher V. Kimball</name>
@@ -62,6 +64,22 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
 <n>27</n>
 </correction>
 <correction>
+<citation>12:7.2</citation>
+<description>Remove dagesh from shin.</description>
+<author>Dotan BHLA: CVK</author>
+<filedate>2023.10.19</filedate>
+<date>2023.08.09</date>
+<n>1</n>
+</correction>
+<correction>
+<citation>16:20.5</citation>
+<description>Move dagesh from second mem to third mem.</description>
+<author>Dotan BHLA: CVK</author>
+<filedate>2023.10.19</filedate>
+<date>2023.08.09</date>
+<n>2</n>
+</correction>
+<correction>
 <citation>16:40.1</citation>
 <description>Add CGJ to position early meteg correctly.</description>
 <author>Ben Denckla</author>
@@ -70,12 +88,28 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
 <n>4</n>
 </correction>
 <correction>
+<citation>20:4.2</citation>
+<description>Word is usually split with a maqaf between the yod and the kaf. Add note 'c'.</description>
+<author>Dotan BHLA: CVK</author>
+<filedate>2023.10.19</filedate>
+<date>2023.08.09</date>
+<n>3</n>
+</correction>
+<correction>
 <citation>22:4.5</citation>
 <description>Add maqaf to end of word.</description>
 <author>Moshe Greenberg</author>
 <filedate>2022.12.07</filedate>
 <date>2022.08.22</date>
 <n>2</n>
+</correction>
+<correction>
+<citation>27:25.16</citation>
+<description>Remove dagesh from zayin.</description>
+<author>Dotan BHLA: CVK</author>
+<filedate>2023.10.19</filedate>
+<date>2023.08.09</date>
+<n>4</n>
 </correction>
 <correction>
 <citation>29:16.3</citation>
@@ -5991,7 +6025,7 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
       </v>
       <v n="7">
         <w>אֶלְקָנָ֡ה</w>
-        <w>וְ֠יִשִּׁיָּהוּ</w>
+        <w>וְ֠יִשִׁיָּהוּ</w>
         <w>וַעֲזַרְאֵ֧ל</w>
         <w>וְיוֹעֶ֛זֶר</w>
         <w>וְיָשָׁבְעָ֖ם</w>
@@ -7656,7 +7690,7 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
         <w>מִגּ֣וֹי</w>
         <w>אֶל־</w>
         <w>גּ֔וֹי</w>
-        <w>וּמִמַּמְלָכָ֖ה</w>
+        <w>וּמִמַמְּלָכָ֖ה</w>
         <w>אֶל־</w>
         <w>עַ֥ם</w>
         <w>אַחֵֽר׃</w>
@@ -9145,7 +9179,7 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
       </v>
       <v n="4">
         <w>וַיְהִי֙</w>
-        <w>אַחֲרֵיכֵ֔ן</w>
+        <w>אַחֲרֵי<x>c</x>כֵ֔ן</w>
         <w>וַתַּעֲמֹ֧ד</w>
         <w>מִלְחָמָ֛ה</w>
         <w>בְּגֶ֖זֶר</w>
@@ -12064,7 +12098,7 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
         <w>וּבַמִּגְדָּל֔וֹת</w>
         <w>יְהוֹנָתָ֖ן</w>
         <w>בֶּן־</w>
-        <w>עֻזִּיָּֽהוּ׃</w>
+        <w>עֻזִיָּֽהוּ׃</w>
         <samekh/>
       </v>
       <v n="26">
@@ -13200,6 +13234,11 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
     <code>c</code>
     <gccode>c</gccode>
     <note>Text is correct relative to LC. Usually this marks a peculiarity of the LC relative to the other Masoretic texts.</note>
+  </note>
+  <note>
+    <code>d</code>
+    <gccode>d</gccode>
+    <note>This tipeha is a dehi in other texts.</note>
   </note>
   <note>
     <code>m</code>
