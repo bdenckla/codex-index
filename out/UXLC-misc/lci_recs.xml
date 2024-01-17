@@ -25,19 +25,19 @@
     </column-dictionary>
     <column-analysis>
       <type-counts>
-        <type-count col-name="page" string="961" />
-        <type-count col-name="startco" none="942" integer="19" />
-        <type-count col-name="startli" none="942" integer="19" />
-        <type-count col-name="stopco" none="942" integer="19" />
-        <type-count col-name="stopli" none="942" integer="19" />
-        <type-count col-name="bkid" string="958" none="3" />
-        <type-count col-name="startc" integer="958" none="3" />
-        <type-count col-name="startv" integer="958" none="3" />
-        <type-count col-name="startp" integer="958" none="3" />
-        <type-count col-name="stopc" integer="958" none="3" />
-        <type-count col-name="stopv" integer="958" none="3" />
-        <type-count col-name="stopp" integer="958" none="3" />
-        <type-count col-name="note" none="940" string="21" />
+        <type-count col-name="page" string="977" />
+        <type-count col-name="startco" none="932" integer="45" />
+        <type-count col-name="startli" none="932" integer="45" />
+        <type-count col-name="stopco" none="932" integer="45" />
+        <type-count col-name="stopli" none="932" integer="45" />
+        <type-count col-name="bkid" string="974" none="3" />
+        <type-count col-name="startc" integer="974" none="3" />
+        <type-count col-name="startv" integer="974" none="3" />
+        <type-count col-name="startp" integer="974" none="3" />
+        <type-count col-name="stopc" integer="974" none="3" />
+        <type-count col-name="stopv" integer="974" none="3" />
+        <type-count col-name="stopp" integer="974" none="3" />
+        <type-count col-name="note" none="947" string="30" />
       </type-counts>
       <bkid-val-counts>
         <bkid-val-count bkid="Genesis" count="61" />
@@ -66,19 +66,19 @@
         <bkid-val-count bkid="Haggai" count="3" />
         <bkid-val-count bkid="Zechariah" count="11" />
         <bkid-val-count bkid="Malachi" count="4" />
-        <bkid-val-count bkid="1Chronicles" count="35" />
-        <bkid-val-count bkid="2Chronicles" count="43" />
+        <bkid-val-count bkid="1Chronicles" count="37" />
+        <bkid-val-count bkid="2Chronicles" count="45" />
         <bkid-val-count bkid="Psalms" count="62" />
         <bkid-val-count bkid="Job" count="26" />
-        <bkid-val-count bkid="Proverbs" count="24" />
+        <bkid-val-count bkid="Proverbs" count="25" />
         <bkid-val-count bkid="Ruth" count="5" />
         <bkid-val-count bkid="Song of Songs" count="5" />
-        <bkid-val-count bkid="Ecclesiastes" count="10" />
+        <bkid-val-count bkid="Ecclesiastes" count="16" />
         <bkid-val-count bkid="Lamentations" count="6" />
-        <bkid-val-count bkid="Esther" count="11" />
+        <bkid-val-count bkid="Esther" count="13" />
         <bkid-val-count bkid="Daniel" count="20" />
         <bkid-val-count bkid="Ezra" count="14" />
-        <bkid-val-count bkid="Nehemiah" count="19" />
+        <bkid-val-count bkid="Nehemiah" count="22" />
       </bkid-val-counts>
     </column-analysis>
   </header>
@@ -4326,7 +4326,7 @@
       <stopc>5</stopc>
       <stopv>13</stopv>
       <stopp>6</stopp>
-      <note />
+      <note>column 1 of 1 is centered and about twice the width of a column on a normal 3-column page</note>
     </lci_rec>
     <lci_rec>
       <page>139A</page>
@@ -4341,7 +4341,7 @@
       <stopc>5</stopc>
       <stopv>28</stopv>
       <stopp>2</stopp>
-      <note />
+      <note>column 1 of 1 is centered and about twice the width of a column on a normal 3-column page</note>
     </lci_rec>
     <lci_rec>
       <page>139B</page>
@@ -5376,7 +5376,7 @@
       <stopc>6</stopc>
       <stopv>19</stopv>
       <stopp>11</stopp>
-      <note />
+      <note>column 2 starts 'late' due to a big erasure</note>
     </lci_rec>
     <lci_rec>
       <page>172A</page>
@@ -5691,7 +5691,7 @@
       <stopc>22</stopc>
       <stopv>24</stopv>
       <stopp>5</stopp>
-      <note />
+      <note>column 1 of 1 is about twice the width of a column on a normal 3-column page</note>
     </lci_rec>
     <lci_rec>
       <page>182B</page>
@@ -5706,7 +5706,7 @@
       <stopc>23</stopc>
       <stopv>3</stopv>
       <stopp>8</stopp>
-      <note />
+      <note>column 1 of 1 is about twice the width of a column on a normal 3-column page</note>
     </lci_rec>
     <lci_rec>
       <page>183A</page>
@@ -10585,14 +10585,44 @@
     </lci_rec>
     <lci_rec>
       <page>337A</page>
-      <startco />
-      <startli />
-      <stopco />
-      <stopli />
+      <startco>1</startco>
+      <startli>1</startli>
+      <stopco>1</stopco>
+      <stopli>27</stopli>
       <bkid>1Chronicles</bkid>
       <startc>15</startc>
       <startv>29</startv>
       <startp>19</startp>
+      <stopc>16</stopc>
+      <stopv>7</stopv>
+      <stopp>11</stopp>
+      <note>column 2 of 2 is a 2/3-width column</note>
+    </lci_rec>
+    <lci_rec>
+      <page>337A</page>
+      <startco>2</startco>
+      <startli>1</startli>
+      <stopco>2</stopco>
+      <stopli>15</stopli>
+      <bkid>1Chronicles</bkid>
+      <startc>16</startc>
+      <startv>8</startv>
+      <startp>1</startp>
+      <stopc>16</stopc>
+      <stopv>22</stopv>
+      <stopp>6</stopp>
+      <note />
+    </lci_rec>
+    <lci_rec>
+      <page>337A</page>
+      <startco>2</startco>
+      <startli>17</startli>
+      <stopco>2</stopco>
+      <stopli>27</stopli>
+      <bkid>1Chronicles</bkid>
+      <startc>16</startc>
+      <startv>23</startv>
+      <startp>1</startp>
       <stopc>16</stopc>
       <stopv>35</stopv>
       <stopp>5</stopp>
@@ -11455,18 +11485,48 @@
     </lci_rec>
     <lci_rec>
       <page>365B</page>
-      <startco />
-      <startli />
-      <stopco />
-      <stopli />
+      <startco>1</startco>
+      <startli>1</startli>
+      <stopco>1</stopco>
+      <stopli>27</stopli>
       <bkid>2Chronicles</bkid>
       <startc>36</startc>
       <startv>8</startv>
       <startp>18</startp>
       <stopc>36</stopc>
+      <stopv>15</stopv>
+      <stopp>4</stopp>
+      <note />
+    </lci_rec>
+    <lci_rec>
+      <page>365B</page>
+      <startco>2</startco>
+      <startli>1</startli>
+      <stopco>2</stopco>
+      <stopli>27</stopli>
+      <bkid>2Chronicles</bkid>
+      <startc>36</startc>
+      <startv>15</startv>
+      <startp>5</startp>
+      <stopc>36</stopc>
+      <stopv>21</stopv>
+      <stopp>7</stopp>
+      <note />
+    </lci_rec>
+    <lci_rec>
+      <page>365B</page>
+      <startco>3</startco>
+      <startli>1</startli>
+      <stopco>3</stopco>
+      <stopli>16</stopli>
+      <bkid>2Chronicles</bkid>
+      <startc>36</startc>
+      <startv>21</startv>
+      <startp>8</startp>
+      <stopc>36</stopc>
       <stopv>23</stopv>
       <stopp>30</stopp>
-      <note />
+      <note>column 3 ends with an 11-line space containing only a short Masorah note; presumably the scribe wanted to start the next book (Psalms) on a fresh page.</note>
     </lci_rec>
     <lci_rec>
       <page>366A</page>
@@ -12775,10 +12835,10 @@
     </lci_rec>
     <lci_rec>
       <page>409B</page>
-      <startco />
-      <startli />
-      <stopco />
-      <stopli />
+      <startco>1</startco>
+      <startli>1</startli>
+      <stopco>1</stopco>
+      <stopli>26</stopli>
       <bkid>Job</bkid>
       <startc>42</startc>
       <startv>7</startv>
@@ -12790,13 +12850,28 @@
     </lci_rec>
     <lci_rec>
       <page>409B</page>
-      <startco />
-      <startli />
-      <stopco />
-      <stopli />
+      <startco>2</startco>
+      <startli>5</startli>
+      <stopco>2</stopco>
+      <stopli>12</stopli>
       <bkid>Proverbs</bkid>
       <startc>1</startc>
       <startv>1</startv>
+      <startp>1</startp>
+      <stopc>1</stopc>
+      <stopv>7</stopv>
+      <stopp>8</stopp>
+      <note>column 2 of 2 starts with a 4-line space containing only a short Masorah note concluding the book of Job.</note>
+    </lci_rec>
+    <lci_rec>
+      <page>409B</page>
+      <startco>2</startco>
+      <startli>14</startli>
+      <stopco>2</stopco>
+      <stopli>27</stopli>
+      <bkid>Proverbs</bkid>
+      <startc>1</startc>
+      <startv>8</startv>
       <startp>1</startp>
       <stopc>1</stopc>
       <stopv>19</stopv>
@@ -13330,14 +13405,74 @@
     </lci_rec>
     <lci_rec>
       <page>426A</page>
-      <startco />
-      <startli />
-      <stopco />
-      <stopli />
+      <startco>1</startco>
+      <startli>1</startli>
+      <stopco>1</stopco>
+      <stopli>26</stopli>
       <bkid>Ecclesiastes</bkid>
       <startc>2</startc>
       <startv>17</startv>
       <startp>1</startp>
+      <stopc>2</stopc>
+      <stopv>24</stopv>
+      <stopp>9</stopp>
+      <note />
+    </lci_rec>
+    <lci_rec>
+      <page>426A</page>
+      <startco>2</startco>
+      <startli>1</startli>
+      <stopco>2</stopco>
+      <stopli>10</stopli>
+      <bkid>Ecclesiastes</bkid>
+      <startc>2</startc>
+      <startv>24</startv>
+      <startp>10</startp>
+      <stopc>3</stopc>
+      <stopv>2</stopv>
+      <stopp>1</stopp>
+      <note />
+    </lci_rec>
+    <lci_rec>
+      <page>426A</page>
+      <startco>2</startco>
+      <startli>11</startli>
+      <stopco>2</stopco>
+      <stopli>26</stopli>
+      <bkid>Ecclesiastes</bkid>
+      <startc>3</startc>
+      <startv>2</startv>
+      <startp>2</startp>
+      <stopc>3</stopc>
+      <stopv>6</stopv>
+      <stopp>1</stopp>
+      <note />
+    </lci_rec>
+    <lci_rec>
+      <page>426A</page>
+      <startco>3</startco>
+      <startli>1</startli>
+      <stopco>3</stopco>
+      <stopli>12</stopli>
+      <bkid>Ecclesiastes</bkid>
+      <startc>3</startc>
+      <startv>6</startv>
+      <startp>2</startp>
+      <stopc>3</stopc>
+      <stopv>9</stopv>
+      <stopp>1</stopp>
+      <note />
+    </lci_rec>
+    <lci_rec>
+      <page>426A</page>
+      <startco>3</startco>
+      <startli>13</startli>
+      <stopco>3</stopco>
+      <stopli>26</stopli>
+      <bkid>Ecclesiastes</bkid>
+      <startc>3</startc>
+      <startv>9</startv>
+      <startp>2</startp>
       <stopc>3</stopc>
       <stopv>13</stopv>
       <stopp>11</stopp>
@@ -13430,19 +13565,49 @@
       <startp>10</startp>
       <stopc>11</stopc>
       <stopv>3</stopv>
-      <stopp>7</stopp>
+      <stopp>11</stopp>
       <note />
     </lci_rec>
     <lci_rec>
       <page>429B</page>
-      <startco />
-      <startli />
-      <stopco />
-      <stopli />
+      <startco>1</startco>
+      <startli>1</startli>
+      <stopco>1</stopco>
+      <stopli>26</stopli>
       <bkid>Ecclesiastes</bkid>
       <startc>11</startc>
       <startv>3</startv>
-      <startp>8</startp>
+      <startp>12</startp>
+      <stopc>12</stopc>
+      <stopv>1</stopv>
+      <stopp>2</stopp>
+      <note />
+    </lci_rec>
+    <lci_rec>
+      <page>429B</page>
+      <startco>2</startco>
+      <startli>1</startli>
+      <stopco>2</stopco>
+      <stopli>26</stopli>
+      <bkid>Ecclesiastes</bkid>
+      <startc>12</startc>
+      <startv>1</startv>
+      <startp>3</startp>
+      <stopc>12</stopc>
+      <stopv>6</stopv>
+      <stopp>17</stopp>
+      <note />
+    </lci_rec>
+    <lci_rec>
+      <page>429B</page>
+      <startco>3</startco>
+      <startli>1</startli>
+      <stopco>3</stopco>
+      <stopli>24</stopli>
+      <bkid>Ecclesiastes</bkid>
+      <startc>12</startc>
+      <startv>7</startv>
+      <startp>1</startp>
       <stopc>12</stopc>
       <stopv>14</stopv>
       <stopp>14</stopp>
@@ -13690,14 +13855,44 @@
     </lci_rec>
     <lci_rec>
       <page>437B</page>
-      <startco />
-      <startli />
-      <stopco />
-      <stopli />
+      <startco>1</startco>
+      <startli>1</startli>
+      <stopco>1</stopco>
+      <stopli>27</stopli>
       <bkid>Esther</bkid>
       <startc>9</startc>
       <startv>24</startv>
       <startp>3</startp>
+      <stopc>9</stopc>
+      <stopv>29</stopv>
+      <stopp>3</stopp>
+      <note />
+    </lci_rec>
+    <lci_rec>
+      <page>437B</page>
+      <startco>2</startco>
+      <startli>1</startli>
+      <stopco>2</stopco>
+      <stopli>27</stopli>
+      <bkid>Esther</bkid>
+      <startc>9</startc>
+      <startv>29</startv>
+      <startp>4</startp>
+      <stopc>10</stopc>
+      <stopv>3</stopv>
+      <stopp>11</stopp>
+      <note />
+    </lci_rec>
+    <lci_rec>
+      <page>437B</page>
+      <startco>3</startco>
+      <startli>1</startli>
+      <stopco>3</stopco>
+      <stopli>2</stopli>
+      <bkid>Esther</bkid>
+      <startc>10</startc>
+      <startv>3</startv>
+      <startp>12</startp>
       <stopc>10</stopc>
       <stopv>3</stopv>
       <stopp>18</stopp>
@@ -13705,10 +13900,10 @@
     </lci_rec>
     <lci_rec>
       <page>437B</page>
-      <startco />
-      <startli />
-      <stopco />
-      <stopli />
+      <startco>3</startco>
+      <startli>7</startli>
+      <stopco>3</stopco>
+      <stopli>27</stopli>
       <bkid>Daniel</bkid>
       <startc>1</startc>
       <startv>1</startv>
@@ -13716,7 +13911,7 @@
       <stopc>1</stopc>
       <stopv>5</stopv>
       <stopp>3</stopp>
-      <note />
+      <note>column 3 lines 3-6 contain only a short Masorah note concluding the book of Ester</note>
     </lci_rec>
     <lci_rec>
       <page>438A</page>
@@ -14335,14 +14530,44 @@
     </lci_rec>
     <lci_rec>
       <page>458A</page>
-      <startco />
-      <startli />
-      <stopco />
-      <stopli />
+      <startco>1</startco>
+      <startli>1</startli>
+      <stopco>1</stopco>
+      <stopli>27</stopli>
       <bkid>Nehemiah</bkid>
       <startc>7</startc>
       <startv>26</startv>
       <startp>1</startp>
+      <stopc>7</stopc>
+      <stopv>38</stopv>
+      <stopp>5</stopp>
+      <note />
+    </lci_rec>
+    <lci_rec>
+      <page>458A</page>
+      <startco>2</startco>
+      <startli>1</startli>
+      <stopco>2</stopco>
+      <stopli>27</stopli>
+      <bkid>Nehemiah</bkid>
+      <startc>7</startc>
+      <startv>38</startv>
+      <startp>6</startp>
+      <stopc>7</stopc>
+      <stopv>53</stopv>
+      <stopp>3</stopp>
+      <note />
+    </lci_rec>
+    <lci_rec>
+      <page>458A</page>
+      <startco>3</startco>
+      <startli>1</startli>
+      <stopco>3</stopco>
+      <stopli>27</stopli>
+      <bkid>Nehemiah</bkid>
+      <startc>7</startc>
+      <startv>53</startv>
+      <startp>4</startp>
       <stopc>7</stopc>
       <stopv>65</stopv>
       <stopp>1</stopp>
@@ -14485,18 +14710,33 @@
     </lci_rec>
     <lci_rec>
       <page>463A</page>
-      <startco />
-      <startli />
-      <stopco />
-      <stopli />
+      <startco>1</startco>
+      <startli>1</startli>
+      <stopco>1</stopco>
+      <stopli>27</stopli>
       <bkid>Nehemiah</bkid>
       <startc>13</startc>
       <startv>19</startv>
       <startp>20</startp>
       <stopc>13</stopc>
+      <stopv>25</stopv>
+      <stopp>18</stopp>
+      <note />
+    </lci_rec>
+    <lci_rec>
+      <page>463A</page>
+      <startco>2</startco>
+      <startli>1</startli>
+      <stopco>2</stopco>
+      <stopli>23</stopli>
+      <bkid>Nehemiah</bkid>
+      <startc>13</startc>
+      <startv>26</startv>
+      <startp>1</startp>
+      <stopc>13</stopc>
       <stopv>31</stopv>
       <stopp>9</stopp>
-      <note>Masoretic lists: Number of verses and the sections in the writings</note>
+      <note>Masoretic lists start at the top of the 3rd column of this page and continue on following pages. These lists include the number of verses and the sections in the Writings.</note>
     </lci_rec>
   </body>
 </lcindex>
