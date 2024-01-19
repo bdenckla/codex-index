@@ -11,10 +11,10 @@
 </titleStmt>
 <editionStmt>
 <edition>Unicode/XML Leningrad Codex
-<version>UXLC 2.0</version>
-<date>19 Oct 2023</date>
-<build>27.1</build>
-<buildDateTime>19 Oct 2023  00:00</buildDateTime>
+<version>UXLC 2.1</version>
+<date>1 Apr 2024</date>
+<build>27.2</build>
+<buildDateTime>18 Jan 2024  07:18</buildDateTime>
 </edition>
 <respStmt>
 <resp>WLC2XML[21 Apr 2023] - Transcription from Michigan-Claremont encoding to Unicode with XML markings. See details in notes.</resp>
@@ -32,12 +32,13 @@
 <resp>Updater[15 Sep 2023] - Changes.xml file dated 2023.04.01 . </resp>
 <resp>Updater[15 Sep 2023] - Changes.xml file dated 2023.07.04 . </resp>
 <resp>Updater[15 Sep 2023] - Changes.xml file dated 2023.10.19 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2024.04.01 . </resp>
 </respStmt>
 </editionStmt>
 <notesStmt>
 <note>From WLC 4.20 provided by the Groves Center.</note>
 </notesStmt>
-  <extent>32196</extent>
+  <extent>32268</extent>
 </fileDesc>
 </teiHeader>
 <tanach>

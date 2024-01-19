@@ -20,10 +20,10 @@
     </titleStmt>
     <editionStmt>
       <edition>Unicode/XML Leningrad Codex (UXLC)
-        <version>UXLC 2.0</version>
-        <date>19 Oct 2023</date>
-        <build>27.1</build>
-        <buildDateTime>19 Oct 2023  00:00</buildDateTime>
+        <version>UXLC 2.1</version>
+        <date>1 Apr 2024</date>
+        <build>27.2</build>
+        <buildDateTime>18 Jan 2024  07:18</buildDateTime>
       </edition>
 <respStmt>
 <resp>WLC2XML[21 Apr 2023] - Transcription from Michigan-Claremont encoding to Unicode with XML markings. See details in notes.</resp>
@@ -40,9 +40,10 @@
 <resp>Updater[15 Sep 2023] - Changes.xml file dated 2023.04.01 . </resp>
 <resp>Updater[15 Sep 2023] - Changes.xml file dated 2023.07.04 . </resp>
 <resp>Updater[15 Sep 2023] - Changes.xml file dated 2023.10.19 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2024.04.01 . </resp>
 </respStmt>
     </editionStmt>
-    <extent>220889</extent>
+    <extent>225264</extent>
     <publicationStmt>
       <distributor>Via web site:
         <name>Christopher V. Kimball</name>
@@ -62,6 +63,22 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
 <filedate>2021.10.19</filedate>
 <date>2021.05.19</date>
 <n>1</n>
+</correction>
+<correction>
+<citation>2:16.8</citation>
+<description>Note possible dagesh in the first nun and weak dot in tsere under the tav.  Add note 't'.</description>
+<author>Daniel Holman</author>
+<filedate>2024.04.01</filedate>
+<date>2023.09.12</date>
+<n>1</n>
+</correction>
+<correction>
+<citation>2:17.2</citation>
+<description>Remove meteg under dalet and remove dagesh from yod.</description>
+<author>Daniel Holman</author>
+<filedate>2024.04.01</filedate>
+<date>2023.09.12</date>
+<n>2</n>
 </correction>
 <correction>
 <citation>2:20.7</citation>
@@ -112,12 +129,76 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
 <n>2</n>
 </correction>
 <correction>
+<citation>2:41.18</citation>
+<description>Change merkha to meteg under dalet. Ignore possible dagesh.</description>
+<author>Daniel Holman</author>
+<filedate>2024.04.01</filedate>
+<date>2023.09.12</date>
+<n>3</n>
+</correction>
+<correction>
+<citation>2:45.12</citation>
+<description>Segol under the dalet has a weak lower dot. Add a note 't'.</description>
+<author>Daniel Holman</author>
+<filedate>2024.04.01</filedate>
+<date>2023.09.12</date>
+<n>4</n>
+</correction>
+<correction>
+<citation>3:29.30</citation>
+<description>Add dagesh to he.</description>
+<author>Daniel Holman</author>
+<filedate>2024.04.01</filedate>
+<date>2023.09.12</date>
+<n>5</n>
+</correction>
+<correction>
+<citation>4:5.8</citation>
+<description>Add dagesh to tet.</description>
+<author>Daniel Holman</author>
+<filedate>2024.04.01</filedate>
+<date>2023.09.12</date>
+<n>6</n>
+</correction>
+<correction>
+<citation>4:15.9</citation>
+<description>Add dagesh to tet.</description>
+<author>Daniel Holman</author>
+<filedate>2024.04.01</filedate>
+<date>2023.09.12</date>
+<n>7</n>
+</correction>
+<correction>
+<citation>4:16.14</citation>
+<description>Add dagesh to tet.</description>
+<author>Daniel Holman</author>
+<filedate>2024.04.01</filedate>
+<date>2023.09.12</date>
+<n>8</n>
+</correction>
+<correction>
+<citation>4:16.16</citation>
+<description>Change hiriq to sheva under pe.</description>
+<author>Daniel Holman</author>
+<filedate>2024.04.01</filedate>
+<date>2023.09.12</date>
+<n>9</n>
+</correction>
+<correction>
 <citation>4:27.14</citation>
 <description>Change patah on qof to qamats.</description>
 <author>Moshe Greenberg</author>
 <filedate>2022.12.07</filedate>
 <date>2022.09.07</date>
 <n>1</n>
+</correction>
+<correction>
+<citation>5:7.22</citation>
+<description>Remove dagesh from vav.</description>
+<author>Daniel Holman</author>
+<filedate>2024.04.01</filedate>
+<date>2023.09.12</date>
+<n>10</n>
 </correction>
 <correction>
 <citation>5:20.12</citation>
@@ -128,12 +209,92 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
 <n>1</n>
 </correction>
 <correction>
+<citation>6:11.33</citation>
+<description>Add dagesh to he.</description>
+<author>Daniel Holman</author>
+<filedate>2024.04.01</filedate>
+<date>2023.09.12</date>
+<n>11</n>
+</correction>
+<correction>
+<citation>6:27.27</citation>
+<description>Ambiguous vowel under the bet. Add note 't'.</description>
+<author>Daniel Holman</author>
+<filedate>2024.04.01</filedate>
+<date>2023.09.12</date>
+<n>14</n>
+</correction>
+<correction>
 <citation>6:28.2</citation>
 <description>Change revia on tsadi to zaqef qatan.</description>
 <author>Moshe Greenberg</author>
 <filedate>2023.04.01</filedate>
 <date>2022.12.07</date>
 <n>1</n>
+</correction>
+<correction>
+<citation>7:14.1</citation>
+<description>Remove dagesh from he.</description>
+<author>Daniel Holman</author>
+<filedate>2024.04.01</filedate>
+<date>2023.09.12</date>
+<n>15</n>
+</correction>
+<correction>
+<citation>7:19.3</citation>
+<description>Examine accent over bet. Add note 't'.</description>
+<author>Daniel Holman</author>
+<filedate>2024.04.01</filedate>
+<date>2023.09.12</date>
+<n>16</n>
+</correction>
+<correction>
+<citation>7:19.17</citation>
+<description>Remove maqaf from end of word.</description>
+<author>Daniel Holman</author>
+<filedate>2024.04.01</filedate>
+<date>2023.09.12</date>
+<n>17</n>
+</correction>
+<correction>
+<citation>7:25.7</citation>
+<description>Add dagesh to nun.</description>
+<author>Daniel Holman</author>
+<filedate>2024.04.01</filedate>
+<date>2023.09.12</date>
+<n>18</n>
+</correction>
+<correction>
+<citation>8:7.4</citation>
+<description>Change hiriq under yod to sheva.</description>
+<author>Daniel Holman</author>
+<filedate>2024.04.01</filedate>
+<date>2023.09.12</date>
+<n>19</n>
+</correction>
+<correction>
+<citation>8:7.9</citation>
+<description>Change zaqef-qatan to revia over alef.</description>
+<author>Daniel Holman</author>
+<filedate>2024.04.01</filedate>
+<date>2023.09.12</date>
+<n>20</n>
+</correction>
+<correction>
+<citation>8:25.11</citation>
+<description>Remove maqaf from end of word.</description>
+<author>Daniel Holman</author>
+<filedate>2024.04.01</filedate>
+<date>2023.09.12</date>
+<n>21</n>
+</correction>
+<correction>
+<citation>10:19.13</citation>
+<description>Add dagesh to he.</description>
+<author>Daniel Holman</author>
+<filedate>2024.04.01</filedate>
+<date>2023.09.12</date>
+<n>24</n>
 </correction>
 </notesStmt>
     <sourceDesc>
@@ -828,7 +989,7 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
         <w>מַלְכָּ֑א</w>
         <w>דִּ֚י</w>
         <w>זְמָ֣ן</w>
-        <w>יִנְתֵּן־</w>
+        <w>יִנְ<x>t</x>תֵּן־</w>
         <w>לֵ֔הּ</w>
         <w>וּפִשְׁרָ֖א</w>
         <w>לְהַֽחֲוָיָ֥ה</w>
@@ -837,7 +998,7 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
       </v>
       <v n="17">
         <w>אֱדַ֥יִן</w>
-        <w>דָּֽנִיֵּ֖אל</w>
+        <w>דָּנִיֵ֖אל</w>
         <w>לְבַיְתֵ֣הּ</w>
         <w>אֲזַ֑ל</w>
         <w>וְ֠לַחֲנַנְיָה</w>
@@ -1316,7 +1477,7 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
         <w>תֶּהֱוֵ֔ה</w>
         <w>וּמִן־</w>
         <w>נִצְבְּתָ֥א</w>
-        <w>דִ֥י</w>
+        <w>דִֽי</w>
         <w>פַרְזְלָ֖א</w>
         <w>לֶֽהֱוֵא־</w>
         <w>בַ֑הּ</w>
@@ -1412,7 +1573,7 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
         <w>דִּי־</w>
         <w>לָ֣א</w>
         <w>בִידַ֗יִן</w>
-        <w>וְ֠הַדֶּקֶת</w>
+        <w>וְ֠הַדֶּ<x>t</x>קֶת</w>
         <w>פַּרְזְלָ֨א</w>
         <w>נְחָשָׁ֤א</w>
         <w>חַסְפָּא֙</w>
@@ -2174,7 +2335,7 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
         <w>דִּ֣י</w>
         <w>לָ֤א</w>
         <w>אִיתַי֙</w>
-        <w>אֱלָ֣ה</w>
+        <w>אֱלָ֣הּ</w>
         <w>אָחֳרָ֔ן</w>
         <w>דִּֽי־</w>
         <w>יִכֻּ֥ל</w>
@@ -2299,7 +2460,7 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
         <w>דָּנִיֵּ֜אל</w>
         <w>דִּֽי־</w>
         <w>שְׁמֵ֤הּ</w>
-        <w>בֵּלְטְשַׁאצַּר֙</w>
+        <w>בֵּלְטְּשַׁאצַּר֙</w>
         <w>כְּשֻׁ֣ם</w>
         <w>אֱלָהִ֔י</w>
         <w>וְדִ֛י</w>
@@ -2493,7 +2654,7 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
         <w>נְבוּכַדְנֶצַּ֑ר</w>
         <k>ואנתה</k>
         <q>וְאַ֨נְתְּ</q>
-        <w>בֵּלְטְשַׁאצַּ֜ר</w>
+        <w>בֵּלְטְּשַׁאצַּ֜ר</w>
         <w>פִּשְׁרֵ֣א ׀</w>
         <w>אֱמַ֗ר</w>
         <w>כָּל־</w>
@@ -2529,9 +2690,9 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
         <w>עָנֵ֨ה</w>
         <w>מַלְכָּ֜א</w>
         <w>וְאָמַ֗ר</w>
-        <w>בֵּלְטְשַׁאצַּר֙</w>
+        <w>בֵּלְטְּשַׁאצַּר֙</w>
         <w>חֶלְמָ֤א</w>
-        <w>וּפִשְׁרֵא֙</w>
+        <w>וּפְשְׁרֵא֙</w>
         <w>אַֽל־</w>
         <w>יְבַהֲלָ֔ךְ</w>
         <w>עָנֵ֤ה</w>
@@ -3065,7 +3226,7 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
         <w>כְּתָבָ֣ה</w>
         <w>דְנָ֗ה</w>
         <w>וּפִשְׁרֵהּ֙</w>
-        <w>יְחַוִּנַּ֔נִי</w>
+        <w>יְחַוִנַּ֔נִי</w>
         <w>אַרְגְּוָנָ֣א</w>
         <w>יִלְבַּ֗שׁ</w>
         <k>והמונכא</k>
@@ -3773,7 +3934,7 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
         <w>עָבֵ֔ד</w>
         <w>מִן־</w>
         <w>קַדְמַ֖ת</w>
-        <w>דְּנָֽה׃</w>
+        <w>דְּנָֽהּ׃</w>
         <samekh/>
       </v>
       <v n="12">
@@ -4135,7 +4296,7 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
         <w>וּמַלְכוּתֵהּ֙</w>
         <w>דִּֽי־</w>
         <w>לָ֣א</w>
-        <w>תִתְחַבַּ֔ל</w>
+        <w>תִתְחַבַּ<x>t</x>֔ל</w>
         <w>וְשָׁלְטָנֵ֖הּ</w>
         <w>עַד־</w>
         <w>סוֹפָֽא׃</w>
@@ -4462,7 +4623,7 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
         <w>הַקְרְבֽוּהִי׃</w>
       </v>
       <v n="14">
-        <w>וְלֵ֨הּ</w>
+        <w>וְלֵ֨ה</w>
         <w>יְהִ֤יב</w>
         <w>שָׁלְטָן֙</w>
         <w>וִיקָ֣ר</w>
@@ -4543,7 +4704,7 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
       <v n="19">
         <w>אֱדַ֗יִן</w>
         <w>צְבִית֙</w>
-        <w>לְיַצָּבָ֔א</w>
+        <w>לְיַצָּבָ֔<x>t</x>א</w>
         <w>עַל־</w>
         <w>חֵֽיוְתָא֙</w>
         <w>רְבִיעָ֣יְתָ֔א</w>
@@ -4557,7 +4718,7 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
         <w>יַתִּ֗ירָה</w>
         <k>שניה</k>
         <q>שִׁנַּ֤הּ</q>
-        <w>דִּֽי־</w>
+        <w>דִּֽי</w>
         <w>פַרְזֶל֙</w>
         <w>וְטִפְרַ֣יהּ</w>
         <w>דִּֽי־</w>
@@ -4670,7 +4831,7 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
         <q>עִלָּאָה֙</q>
         <w>יְמַלִּ֔ל</w>
         <w>וּלְקַדִּישֵׁ֥י</w>
-        <w>עֶלְיוֹנִ֖ין</w>
+        <w>עֶלְיוֹנִּ֖ין</w>
         <w>יְבַלֵּ֑א</w>
         <w>וְיִסְבַּ֗ר</w>
         <w>לְהַשְׁנָיָה֙</w>
@@ -4858,12 +5019,12 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
         <w>וּרְאִיתִ֞יו</w>
         <w>מַגִּ֣יעַ ׀</w>
         <w>אֵ֣צֶל</w>
-        <w>הָאַ֗יִל</w>
+        <w>הָאַ֗יְל</w>
         <w>וַיִּתְמַרְמַ֤ר</w>
         <w>אֵלָיו֙</w>
         <w>וַיַּ֣ךְ</w>
         <w>אֶת־</w>
-        <w>הָאַ֔יִל</w>
+        <w>הָאַ֗יִל</w>
         <w>וַיְשַׁבֵּר֙</w>
         <w>אֶת־</w>
         <w>שְׁתֵּ֣י</w>
@@ -5136,7 +5297,7 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
         <w>וּבְשַׁלְוָ֖ה</w>
         <w>יַשְׁחִ֣ית</w>
         <w>רַבִּ֑ים</w>
-        <w>וְעַ֤ל־</w>
+        <w>וְעַ֤ל</w>
         <w>שַׂר־</w>
         <w>שָׂרִים֙</w>
         <w>יַעֲמֹ֔ד</w>
@@ -6046,7 +6207,7 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
         <w>וּֽבְדַבְּר֤וֹ</w>
         <w>עִמִּי֙</w>
         <w>הִתְחַזַּ֔קְתִּי</w>
-        <w>וָאֹֽמְרָ֛ה</w>
+        <w>וָאֹֽמְרָ֛הּ</w>
         <w>יְדַבֵּ֥ר</w>
         <w>אֲדֹנִ֖י</w>
         <w>כִּ֥י</w>

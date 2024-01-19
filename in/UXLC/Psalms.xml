@@ -20,10 +20,10 @@
     </titleStmt>
     <editionStmt>
       <edition>Unicode/XML Leningrad Codex (UXLC)
-        <version>UXLC 2.0</version>
-        <date>19 Oct 2023</date>
-        <build>27.1</build>
-        <buildDateTime>19 Oct 2023  00:00</buildDateTime>
+        <version>UXLC 2.1</version>
+        <date>1 Apr 2024</date>
+        <build>27.2</build>
+        <buildDateTime>18 Jan 2024  07:18</buildDateTime>
       </edition>
 <respStmt>
 <resp>WLC2XML[21 Apr 2023] - Transcription from Michigan-Claremont encoding to Unicode with XML markings. See details in notes.</resp>
@@ -41,9 +41,10 @@
 <resp>Updater[15 Sep 2023] - Changes.xml file dated 2023.04.01 . </resp>
 <resp>Updater[15 Sep 2023] - Changes.xml file dated 2023.07.04 . </resp>
 <resp>Updater[15 Sep 2023] - Changes.xml file dated 2023.10.19 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2024.04.01 . </resp>
 </respStmt>
     </editionStmt>
-    <extent>778292</extent>
+    <extent>779602</extent>
     <publicationStmt>
       <distributor>Via web site:
         <name>Christopher V. Kimball</name>
@@ -556,6 +557,14 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
 <n>8</n>
 </correction>
 <correction>
+<citation>55:20.3</citation>
+<description>Change order of meteg/sheva on vav to improve robustness of display. </description>
+<author>Ben Denckla</author>
+<filedate>2024.04.01</filedate>
+<date>2024.01.17</date>
+<n>1</n>
+</correction>
+<correction>
 <citation>55:24.8</citation>
 <description>Replace dehi under vav with tipeha. Add note 'd'.</description>
 <author>Daniel Holman</author>
@@ -868,6 +877,14 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
 <n>7</n>
 </correction>
 <correction>
+<citation>83:19.1</citation>
+<description>Change order of meteg/sheva on vav to improve robustness of display. </description>
+<author>Ben Denckla</author>
+<filedate>2024.04.01</filedate>
+<date>2024.01.17</date>
+<n>2</n>
+</correction>
+<correction>
 <citation>84:3.6</citation>
 <description>Add note 't' for unknown markings over yod.</description>
 <author>Daniel Holman</author>
@@ -980,6 +997,14 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
 <n>89</n>
 </correction>
 <correction>
+<citation>102:27.10</citation>
+<description>Change order of meteg/sheva on vav to improve robustness of display. </description>
+<author>Ben Denckla</author>
+<filedate>2024.04.01</filedate>
+<date>2024.01.17</date>
+<n>3</n>
+</correction>
+<correction>
 <citation>103:2.1</citation>
 <description>Change hataf-patah under resh to sheva.</description>
 <author>Daniel Holman</author>
@@ -1034,6 +1059,14 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
 <filedate>2023.07.04</filedate>
 <date>2023.03.25</date>
 <n>95</n>
+</correction>
+<correction>
+<citation>104:32.6</citation>
+<description>Change order of meteg/sheva on vav to improve robustness of display. </description>
+<author>Ben Denckla</author>
+<filedate>2024.04.01</filedate>
+<date>2024.01.17</date>
+<n>4</n>
 </correction>
 <correction>
 <citation>105:1.4</citation>
@@ -1401,6 +1434,14 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
 <author>Ben Denckla</author>
 <filedate>2022.04.01</filedate>
 <date>2021.11.12</date>
+<n>5</n>
+</correction>
+<correction>
+<citation>144:5.7</citation>
+<description>Change order of meteg/sheva on vav to improve robustness of display. </description>
+<author>Ben Denckla</author>
+<filedate>2024.04.01</filedate>
+<date>2024.01.17</date>
 <n>5</n>
 </correction>
 <correction>
@@ -10351,7 +10392,7 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
       <v n="20">
         <w>יִשְׁמַ֤ע ׀</w>
         <w>אֵ֨ל ׀</w>
-        <w>וְֽיַעֲנֵם֮</w>
+        <w>וְֽיַעֲנֵם֮</w>
         <w>וְיֹ֤שֵׁ֥ב</w>
         <w>קֶ֗דֶם</w>
         <w>סֶ֥לָה</w>
@@ -15679,7 +15720,7 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
         <w>וְיֹאבֵֽדוּ׃</w>
       </v>
       <v n="19">
-        <w>וְֽיֵדְע֗וּ</w>
+        <w>וְֽיֵדְע֗וּ</w>
         <w>כִּֽי־</w>
         <w>אַתָּ֬ה</w>
         <w>שִׁמְךָ֣</w>
@@ -18640,7 +18681,7 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
         <w>יִבְל֑וּ</w>
         <w>כַּלְּב֖וּשׁ</w>
         <w>תַּחֲלִיפֵ֣ם</w>
-        <w>וְֽיַחֲלֹֽפוּ׃</w>
+        <w>וְֽיַחֲלֹֽפוּ׃</w>
       </v>
       <v n="28">
         <w>וְאַתָּה־</w>
@@ -19183,7 +19224,7 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
         <w>וַתִּרְעָ֑ד</w>
         <w>יִגַּ֖ע</w>
         <w>בֶּהָרִ֣ים</w>
-        <w>וְֽיֶעֱשָֽׁנוּ׃</w>
+        <w>וְֽיֶעֱשָֽׁנוּ׃</w>
       </v>
       <v n="33">
         <w>אָשִׁ֣ירָה</w>
@@ -25803,7 +25844,7 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
         <w>וְתֵרֵ֑ד</w>
         <w>גַּ֖ע</w>
         <w>בֶּהָרִ֣ים</w>
-        <w>וְֽיֶעֱשָֽׁנוּ׃</w>
+        <w>וְֽיֶעֱשָֽׁנוּ׃</w>
       </v>
       <v n="6">
         <w>בְּר֣וֹק</w>

@@ -20,10 +20,10 @@
     </titleStmt>
     <editionStmt>
       <edition>Unicode/XML Leningrad Codex (UXLC)
-        <version>UXLC 2.0</version>
-        <date>19 Oct 2023</date>
-        <build>27.1</build>
-        <buildDateTime>19 Oct 2023  00:00</buildDateTime>
+        <version>UXLC 2.1</version>
+        <date>1 Apr 2024</date>
+        <build>27.2</build>
+        <buildDateTime>18 Jan 2024  07:18</buildDateTime>
       </edition>
 <respStmt>
 <resp>WLC2XML[21 Apr 2023] - Transcription from Michigan-Claremont encoding to Unicode with XML markings. See details in notes.</resp>
@@ -40,9 +40,10 @@
 <resp>Updater[15 Sep 2023] - Changes.xml file dated 2023.04.01 . </resp>
 <resp>Updater[15 Sep 2023] - Changes.xml file dated 2023.07.04 . </resp>
 <resp>Updater[15 Sep 2023] - Changes.xml file dated 2023.10.19 . </resp>
+<resp>Updater[15 Sep 2023] - Changes.xml file dated 2024.04.01 . </resp>
 </respStmt>
     </editionStmt>
-    <extent>474521</extent>
+    <extent>475104</extent>
     <publicationStmt>
       <distributor>Via web site:
         <name>Christopher V. Kimball</name>
@@ -102,6 +103,14 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
 <filedate>2022.12.07</filedate>
 <date>2022.08.29</date>
 <n>4</n>
+</correction>
+<correction>
+<citation>9:1.5</citation>
+<description>Remove sheva from under first nun. Add note 'c'.</description>
+<author>Ben Denckla</author>
+<filedate>2024.04.01</filedate>
+<date>2024.01.14</date>
+<n>1</n>
 </correction>
 <correction>
 <citation>9:13.16</citation>
@@ -262,6 +271,14 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
 <filedate>2022.12.07</filedate>
 <date>2022.08.29</date>
 <n>24</n>
+</correction>
+<correction>
+<citation>24:9.6</citation>
+<description>Examine weak maqaf following the final nun, the second consonant, in the LC word. Add note 't'.</description>
+<author>Ben Denckla</author>
+<filedate>2024.04.01</filedate>
+<date>2024.01.14</date>
+<n>2</n>
 </correction>
 <correction>
 <citation>24:9.18</citation>
@@ -3611,7 +3628,7 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
         <w>אִ֣ישׁ</w>
         <k>מבן־</k>
         <k>ימין</k>
-        <q>מִבִּנְיָמִ֗ין</q>
+        <q>מִבִּנ<x>c</x>יָמִ֗ין</q>
         <w>וּ֠שְׁמוֹ</w>
         <w>קִ֣ישׁ</w>
         <w>בֶּן־</w>
@@ -12158,7 +12175,8 @@ and was dated 25 Jan 2016. Six transcription notes (5,7,F) have been moved to th
         <w>אַחֲרֵי־</w>
         <w>כֵ֗ן</w>
         <w>וַיֵּצֵא֙</w>
-        <k>מן־</k>
+        <k>מן־<x>t</x>
+</k>
         <k>המערה</k>
         <q>מֵֽהַמְּעָרָ֔ה</q>
         <w>וַיִּקְרָ֧א</w>
