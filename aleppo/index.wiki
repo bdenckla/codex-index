@@ -1,4 +1,4 @@
-Deut
+=== ספר דברים ===
 {'de_text_range': (('Deut', 28, 17), ('Deut', 28, 45)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_001r', 'de_gap': 'Before'}
 {'de_text_range': (('Deut', 28, 45), ('Deut', 28, 66)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_001v', 'de_gap': None}
 {'de_text_range': (('Deut', 28, 66), ('Deut', 29, 19)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_002r', 'de_gap': None}
@@ -10,7 +10,7 @@ Deut
 {'de_text_range': (('Deut', 32, 33), ('Deut', 32, 50)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_005r', 'de_gap': None}
 {'de_text_range': (('Deut', 32, 50), ('Deut', 33, 29)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_005v', 'de_gap': None}
 {'de_text_range': (('Deut', 33, 29), ('Deut', 34, 12)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_006r', 'de_gap': None}
-Josh
+=== ספר יהושע ===
 {'de_text_range': (('Josh', 1, 1), ('Josh', 2, 4)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_006v', 'de_gap': None}
 {'de_text_range': (('Josh', 2, 4), ('Josh', 3, 3)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_007r', 'de_gap': None}
 {'de_text_range': (('Josh', 3, 3), ('Josh', 4, 6)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_007v', 'de_gap': None}
@@ -41,7 +41,7 @@ Josh
 {'de_text_range': (('Josh', 23, 4), ('Josh', 24, 6)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_020r', 'de_gap': None}
 {'de_text_range': (('Josh', 24, 7), ('Josh', 24, 26)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_020v', 'de_gap': None}
 {'de_text_range': (('Josh', 24, 26), ('Judg', 1, 15)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_021r', 'de_gap': None}
-Judg
+=== ספר שופטים ===
 {'de_text_range': (('Josh', 24, 26), ('Judg', 1, 15)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_021r', 'de_gap': None}
 {'de_text_range': (('Judg', 1, 15), ('Judg', 2, 1)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_021v', 'de_gap': None}
 {'de_text_range': (('Judg', 2, 1), ('Judg', 2, 22)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_022r', 'de_gap': None}
@@ -73,7 +73,7 @@ Judg
 {'de_text_range': (('Judg', 20, 20), ('Judg', 20, 40)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_035r', 'de_gap': None}
 {'de_text_range': (('Judg', 20, 40), ('Judg', 21, 15)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_035v', 'de_gap': None}
 {'de_text_range': (('Judg', 21, 15), ('1 Sam', 1, 13)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_036r', 'de_gap': None}
-1 Sam
+=== שמואל א ===
 {'de_text_range': (('Judg', 21, 15), ('1 Sam', 1, 13)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_036r', 'de_gap': None}
 {'de_text_range': (('1 Sam', 1, 13), ('1 Sam', 2, 11)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_036v', 'de_gap': None}
 {'de_text_range': (('1 Sam', 2, 11), ('1 Sam', 2, 33)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_037r', 'de_gap': None}
@@ -114,7 +114,7 @@ Judg
 {'de_text_range': (('1 Sam', 30, 1), ('1 Sam', 30, 22)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_054v', 'de_gap': None}
 {'de_text_range': (('1 Sam', 30, 22), ('1 Sam', 31, 12)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_055r', 'de_gap': None}
 {'de_text_range': (('1 Sam', 31, 13), ('2 Sam', 1, 25)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_055v', 'de_gap': None}
-2 Sam
+=== שמואל ב ===
 {'de_text_range': (('1 Sam', 31, 13), ('2 Sam', 1, 25)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_055v', 'de_gap': None}
 {'de_text_range': (('2 Sam', 1, 26), ('2 Sam', 2, 21)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_056r', 'de_gap': None}
 {'de_text_range': (('2 Sam', 2, 21), ('2 Sam', 3, 10)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_056v', 'de_gap': None}
@@ -147,7 +147,7 @@ Judg
 {'de_text_range': (('2 Sam', 23, 3), ('2 Sam', 23, 28)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_070r', 'de_gap': None}
 {'de_text_range': (('2 Sam', 23, 28), ('2 Sam', 24, 13)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_070v', 'de_gap': None}
 {'de_text_range': (('2 Sam', 24, 14), ('1 Kgs', 1, 9)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_071r', 'de_gap': None}
-1 Kgs
+=== מלכים א ===
 {'de_text_range': (('2 Sam', 24, 14), ('1 Kgs', 1, 9)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_071r', 'de_gap': None}
 {'de_text_range': (('1 Kgs', 1, 9), ('1 Kgs', 1, 33)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_071v', 'de_gap': None}
 {'de_text_range': (('1 Kgs', 1, 33), ('1 Kgs', 2, 3)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_072r', 'de_gap': None}
@@ -187,7 +187,7 @@ Judg
 {'de_text_range': (('1 Kgs', 21, 18), ('1 Kgs', 22, 10)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_089r', 'de_gap': None}
 {'de_text_range': (('1 Kgs', 22, 10), ('1 Kgs', 22, 32)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_089v', 'de_gap': None}
 {'de_text_range': (('1 Kgs', 22, 32), ('2 Kgs', 1, 3)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_090r', 'de_gap': None}
-2 Kgs
+=== מלכים ב ===
 {'de_text_range': (('1 Kgs', 22, 32), ('2 Kgs', 1, 3)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_090r', 'de_gap': None}
 {'de_text_range': (('2 Kgs', 1, 3), ('2 Kgs', 1, 18)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_090v', 'de_gap': None}
 {'de_text_range': (('2 Kgs', 2, 1), ('2 Kgs', 2, 19)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_091r', 'de_gap': None}
@@ -219,7 +219,7 @@ Judg
 {'de_text_range': (('2 Kgs', 24, 3), ('2 Kgs', 25, 6)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_104r', 'de_gap': None}
 {'de_text_range': (('2 Kgs', 25, 7), ('2 Kgs', 25, 27)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_104v', 'de_gap': None}
 {'de_text_range': (('2 Kgs', 25, 27), ('Isa', 1, 24)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_105r', 'de_gap': None}
-Isa
+=== ספר ישעיהו ===
 {'de_text_range': (('2 Kgs', 25, 27), ('Isa', 1, 24)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_105r', 'de_gap': None}
 {'de_text_range': (('Isa', 1, 25), ('Isa', 3, 4)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_105v', 'de_gap': None}
 {'de_text_range': (('Isa', 3, 4), ('Isa', 5, 2)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_106r', 'de_gap': None}
@@ -272,7 +272,7 @@ Isa
 {'de_text_range': (('Isa', 65, 4), ('Isa', 65, 25)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_129v', 'de_gap': None}
 {'de_text_range': (('Isa', 65, 25), ('Isa', 66, 20)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_130r', 'de_gap': None}
 {'de_text_range': (('Isa', 66, 20), ('Jer', 1, 17)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_130v', 'de_gap': None}
-Jer
+=== ספר ירמיהו ===
 {'de_text_range': (('Isa', 66, 20), ('Jer', 1, 17)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_130v', 'de_gap': None}
 {'de_text_range': (('Jer', 1, 17), ('Jer', 2, 20)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_131r', 'de_gap': None}
 {'de_text_range': (('Jer', 2, 20), ('Jer', 3, 5)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_131v', 'de_gap': None}
@@ -338,7 +338,7 @@ Jer
 {'de_text_range': (('Jer', 51, 49), ('Jer', 52, 6)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_161v', 'de_gap': None}
 {'de_text_range': (('Jer', 52, 6), ('Jer', 52, 25)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_162r', 'de_gap': None}
 {'de_text_range': (('Jer', 52, 25), ('Ezek', 1, 13)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_162v', 'de_gap': None}
-Ezek
+=== ספר יחזקאל ===
 {'de_text_range': (('Jer', 52, 25), ('Ezek', 1, 13)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_162v', 'de_gap': None}
 {'de_text_range': (('Ezek', 1, 13), ('Ezek', 2, 8)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_163r', 'de_gap': None}
 {'de_text_range': (('Ezek', 2, 8), ('Ezek', 3, 21)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_163v', 'de_gap': None}
@@ -395,7 +395,7 @@ Ezek
 {'de_text_range': (('Ezek', 46, 24), ('Ezek', 47, 22)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_189r', 'de_gap': None}
 {'de_text_range': (('Ezek', 47, 22), ('Ezek', 48, 20)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_189v', 'de_gap': None}
 {'de_text_range': (('Ezek', 48, 20), ('Hos', 1, 6)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_190r', 'de_gap': None}
-Hos
+=== הושע ===
 {'de_text_range': (('Ezek', 48, 20), ('Hos', 1, 6)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_190r', 'de_gap': None}
 {'de_text_range': (('Hos', 1, 6), ('Hos', 2, 20)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_190v', 'de_gap': None}
 {'de_text_range': (('Hos', 2, 20), ('Hos', 4, 16)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_191r', 'de_gap': None}
@@ -404,44 +404,44 @@ Hos
 {'de_text_range': (('Hos', 9, 3), ('Hos', 10, 11)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_192v', 'de_gap': None}
 {'de_text_range': (('Hos', 10, 11), ('Hos', 12, 15)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_193r', 'de_gap': None}
 {'de_text_range': (('Hos', 12, 15), ('Joel', 1, 4)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_193v', 'de_gap': None}
-Joel
+=== יואל ===
 {'de_text_range': (('Hos', 12, 15), ('Joel', 1, 4)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_193v', 'de_gap': None}
 {'de_text_range': (('Joel', 1, 4), ('Joel', 2, 10)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_194r', 'de_gap': None}
 {'de_text_range': (('Joel', 2, 10), ('Joel', 4, 1)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_194v', 'de_gap': None}
 {'de_text_range': (('Joel', 4, 1), ('Amos', 1, 3)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_195r', 'de_gap': None}
-Amos
+=== עמוס ===
 {'de_text_range': (('Joel', 4, 1), ('Amos', 1, 3)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_195r', 'de_gap': None}
 {'de_text_range': (('Amos', 1, 4), ('Amos', 2, 10)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_195v', 'de_gap': None}
 {'de_text_range': (('Amos', 2, 10), ('Amos', 4, 6)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_196r', 'de_gap': None}
 {'de_text_range': (('Amos', 4, 6), ('Amos', 5, 19)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_196v', 'de_gap': None}
 {'de_text_range': (('Amos', 5, 19), ('Amos', 7, 7)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_197r', 'de_gap': None}
 {'de_text_range': (('Amos', 7, 8), ('Amos', 8, 12)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_197v', 'de_gap': 'After'}
-Mic
+=== מיכה ===
 {'de_text_range': (('Mic', 5, 1), ('Mic', 6, 14)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_198r', 'de_gap': 'Before'}
 {'de_text_range': (('Mic', 6, 14), ('Nah', 1, 4)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_198v', 'de_gap': None}
-Nah
+=== נחום ===
 {'de_text_range': (('Mic', 6, 14), ('Nah', 1, 4)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_198v', 'de_gap': None}
 {'de_text_range': (('Nah', 1, 4), ('Nah', 3, 4)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_199r', 'de_gap': None}
 {'de_text_range': (('Nah', 3, 4), ('Hab', 1, 12)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_199v', 'de_gap': None}
-Hab
+=== חבקוק ===
 {'de_text_range': (('Nah', 3, 4), ('Hab', 1, 12)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_199v', 'de_gap': None}
 {'de_text_range': (('Hab', 1, 12), ('Hab', 3, 1)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_200r', 'de_gap': None}
 {'de_text_range': (('Hab', 3, 1), ('Zeph', 1, 8)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_200v', 'de_gap': None}
-Zeph
+=== צפניה ===
 {'de_text_range': (('Hab', 3, 1), ('Zeph', 1, 8)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_200v', 'de_gap': None}
 {'de_text_range': (('Zeph', 1, 8), ('Zeph', 2, 13)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_201r', 'de_gap': None}
 {'de_text_range': (('Zeph', 2, 13), ('Zeph', 3, 20)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_201v', 'de_gap': 'After'}
-Zech
+=== זכריה ===
 {'de_text_range': (('Zech', 9, 17), ('Zech', 11, 13)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_202r', 'de_gap': 'Before'}
 {'de_text_range': (('Zech', 11, 13), ('Zech', 13, 2)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_202v', 'de_gap': None}
 {'de_text_range': (('Zech', 13, 2), ('Zech', 14, 13)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_203r', 'de_gap': None}
 {'de_text_range': (('Zech', 14, 13), ('Mal', 1, 12)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_203v', 'de_gap': None}
-Mal
+=== מלאכי ===
 {'de_text_range': (('Zech', 14, 13), ('Mal', 1, 12)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_203v', 'de_gap': None}
 {'de_text_range': (('Mal', 1, 12), ('Mal', 3, 2)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_204r', 'de_gap': None}
 {'de_text_range': (('Mal', 3, 2), ('Mal', 3, 24)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_204v', 'de_gap': None}
 {'de_text_range': (('Mal', 3, 24), ('Mal', 3, 24)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_205r', 'de_gap': None}
-1 Chron
+=== דברי הימים א ===
 {'de_text_range': (('1 Chron', 1, 1), ('1 Chron', 1, 45)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_205v', 'de_gap': None}
 {'de_text_range': (('1 Chron', 1, 45), ('1 Chron', 2, 26)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_206r', 'de_gap': None}
 {'de_text_range': (('1 Chron', 2, 26), ('1 Chron', 3, 4)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_206v', 'de_gap': None}
@@ -476,7 +476,7 @@ Mal
 {'de_text_range': (('1 Chron', 28, 3), ('1 Chron', 28, 21)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_221r', 'de_gap': None}
 {'de_text_range': (('1 Chron', 28, 21), ('1 Chron', 29, 20)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_221v', 'de_gap': None}
 {'de_text_range': (('1 Chron', 29, 20), ('2 Chron', 1, 11)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_222r', 'de_gap': None}
-2 Chron
+=== דברי הימים ב ===
 {'de_text_range': (('1 Chron', 29, 20), ('2 Chron', 1, 11)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_222r', 'de_gap': None}
 {'de_text_range': (('2 Chron', 1, 11), ('2 Chron', 2, 11)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_222v', 'de_gap': None}
 {'de_text_range': (('2 Chron', 2, 11), ('2 Chron', 3, 13)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_223r', 'de_gap': None}
@@ -520,7 +520,7 @@ Mal
 {'de_text_range': (('2 Chron', 35, 7), ('2 Chron', 35, 25)), 'de_url': None, 'de_gap': None}
 {'de_text_range': (('2 Chron', 35, 25), ('2 Chron', 36, 19)), 'de_url': None, 'de_gap': None}
 {'de_text_range': (('2 Chron', 36, 19), ('Ps', 4, 5)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_242r', 'de_gap': None}
-Ps
+=== ספר תהלים ===
 {'de_text_range': (('2 Chron', 36, 19), ('Ps', 4, 5)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_242r', 'de_gap': None}
 {'de_text_range': (('Ps', 4, 6), ('Ps', 7, 18)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_242v', 'de_gap': None}
 {'de_text_range': (('Ps', 8, 1), ('Ps', 10, 14)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_243r', 'de_gap': None}
@@ -578,7 +578,7 @@ Ps
 {'de_text_range': (('Ps', 143, 5), ('Ps', 145, 20)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_269r', 'de_gap': None}
 {'de_text_range': (('Ps', 145, 21), ('Ps', 148, 14)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_269v', 'de_gap': None}
 {'de_text_range': (('Ps', 149, 1), ('Job', 1, 16)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_270r', 'de_gap': None}
-Job
+=== ספר איוב ===
 {'de_text_range': (('Ps', 149, 1), ('Job', 1, 16)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_270r', 'de_gap': None}
 {'de_text_range': (('Job', 1, 16), ('Job', 3, 6)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_270v', 'de_gap': None}
 {'de_text_range': (('Job', 3, 6), ('Job', 5, 10)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_271r', 'de_gap': None}
@@ -603,7 +603,7 @@ Job
 {'de_text_range': (('Job', 38, 31), ('Job', 40, 5)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_280v', 'de_gap': None}
 {'de_text_range': (('Job', 40, 6), ('Job', 41, 22)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_281r', 'de_gap': None}
 {'de_text_range': (('Job', 41, 23), ('Prov', 1, 8)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_281v', 'de_gap': None}
-Prov
+=== ספר משלי ===
 {'de_text_range': (('Job', 41, 23), ('Prov', 1, 8)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_281v', 'de_gap': None}
 {'de_text_range': (('Prov', 1, 9), ('Prov', 2, 16)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_282r', 'de_gap': None}
 {'de_text_range': (('Prov', 2, 16), ('Prov', 4, 1)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_282v', 'de_gap': None}
@@ -626,11 +626,11 @@ Prov
 {'de_text_range': (('Prov', 28, 2), ('Prov', 29, 16)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_291r', 'de_gap': None}
 {'de_text_range': (('Prov', 29, 17), ('Prov', 30, 24)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_291v', 'de_gap': None}
 {'de_text_range': (('Prov', 30, 25), ('Prov', 31, 31)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_292r', 'de_gap': None}
-Ruth
+=== מגילת רות ===
 {'de_text_range': (('Ruth', 1, 1), ('Ruth', 2, 3)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_292v', 'de_gap': None}
 {'de_text_range': (('Ruth', 2, 3), ('Ruth', 3, 2)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_293r', 'de_gap': None}
 {'de_text_range': (('Ruth', 3, 2), ('Ruth', 4, 7)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_293v', 'de_gap': None}
 {'de_text_range': (('Ruth', 4, 7), ('Song', 1, 12)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_294r', 'de_gap': None}
-Song
+=== מגילת שיר השירים ===
 {'de_text_range': (('Ruth', 4, 7), ('Song', 1, 12)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_294r', 'de_gap': None}
 {'de_text_range': (('Song', 1, 12), ('Song', 3, 11)), 'de_url': 'https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_294v', 'de_gap': 'After'}

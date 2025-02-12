@@ -1,4 +1,4 @@
-import mam_book_names as mbn
+import py.mam_book_names as mbn
 
 LATIN_TO_HEBREW = {
     # BS_GENESIS
