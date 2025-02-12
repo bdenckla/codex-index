@@ -43,13 +43,14 @@ _URL_BASE = "https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_"  # append url
 _PATT_FOR_BK = r"((?:[12] )?[A-Z][a-z]+)"  # E.g. "1 Sam", "Deut"
 _PATT_FOR_CV = r"(\d+):(\d+)"
 _PATT_FOR_BCV = _PATT_FOR_BK + " " + _PATT_FOR_CV
-_PATT_FOR_1BK_RANGE = _PATT_FOR_BCV + "–" + _PATT_FOR_CV
-_PATT_FOR_2BK_RANGE = _PATT_FOR_BCV + "–" + _PATT_FOR_BCV
+_EN_DASH = "–"
+_PATT_FOR_1BK_RANGE = _PATT_FOR_BCV + _EN_DASH + _PATT_FOR_CV
+_PATT_FOR_2BK_RANGE = _PATT_FOR_BCV + _EN_DASH + _PATT_FOR_BCV
 
 
 def _cv_strs_to_ints_3(three):
-    bkna, chnu_str, vrnu_str = three
-    return bkna, int(chnu_str), int(vrnu_str)
+    bkna, str_chnu, str_vrnu = three
+    return bkna, int(str_chnu), int(str_vrnu)
 
 
 def _cv_strs_to_ints_33(three_and_three):

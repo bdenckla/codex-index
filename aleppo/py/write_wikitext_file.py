@@ -1,4 +1,5 @@
 import py.my_open as my_open
+import py.hebrew_verse_numerals as hvn
 from py.book_names import LATIN_TO_HEBREW
 from py.my_utils import sl_map
 from py.my_utils import sum_of_map
@@ -20,6 +21,8 @@ def _lines_for_one_book(bkna_and_entries):
 
 def _lines_for_one_entry(entry):
     url = entry["de_url"]
+    if not url:
+        return '# N/A'
     visible = _heb_range(entry["de_text_range"])
     anchor = f"[{url} {visible}]"
     daf_num_ab = _rv_ab(entry["de_leaf"])
@@ -28,8 +31,28 @@ def _lines_for_one_entry(entry):
 
 
 def _heb_range(text_range):
-    start, stop = text_range
-    return str(text_range)
+    start_bcv, stop_bcv = text_range
+    sta = _heb_bcv(start_bcv)
+    sto = _heb_bcv(stop_bcv)
+    sta_str = f'{sta[0]} {sta[1]},{sta[2]}'
+    abbr_stop_str = _abbreviated_stop(sta, sto)
+    return f"{sta_str}{_EN_DASH}{abbr_stop_str}"
+
+
+def _abbreviated_stop(sta, sto):
+    if sta[0] == sto[0]:
+        if sta[1] == sto[1]:
+            return sto[2]
+        return f'{sto[1]},{sto[2]}'
+    return f'{sto[0]} {sto[1]},{sto[2]}'
+
+
+def _heb_bcv(bcv):
+    lat_bkna, int_chnu, int_vrnu = bcv
+    heb_bkna = LATIN_TO_HEBREW[lat_bkna]
+    heb_chnu = hvn.INT_TO_STR_DIC[int_chnu]
+    heb_vrnu = hvn.INT_TO_STR_DIC[int_vrnu]
+    return heb_bkna, heb_chnu, heb_vrnu
 
 
 def _rv_ab(leaf):  # r becomes א; v becomes ב
@@ -41,6 +64,7 @@ def _write_callback(lines, out_fp):
         out_fp.write(line + "\n")
 
 
+_EN_DASH = "–"
 _RV_AB = {
     'r': 'א',
     'v': 'ב',
