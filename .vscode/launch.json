@@ -5,10 +5,17 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "UXLC estimate atom location",
-            "type": "python",
+            "name": "Aleppo make Wikisource page",
+            "type": "debugpy",
             "request": "launch",
-            "program": "py/main_uxlc_estimate_atom_loc.py",
+            "program": "aleppo/main_make_wikisouce_page.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "UXLC estimate atom location",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "leningrad/py/main_uxlc_estimate_atom_loc.py",
             "args": ["Genesis", "24", "24", "3"],
             "console": "integratedTerminal"
         }
