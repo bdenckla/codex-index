@@ -22,15 +22,15 @@ def main():
 
 
 def _make_json_header(data_entries):
-    rows_with_null_url = list(filter(_url_is_none, data_entries))
+    rows_sans_url = list(filter(_lacks_url, data_entries))
     rows_with_gap = list(filter(_has_gap, data_entries))
     return {
-        "rows_with_null_url": rows_with_null_url,
+        "rows_sans_url": rows_sans_url,
         "rows_with_gap": rows_with_gap,
     }
 
 
-def _url_is_none(data_entry):
+def _lacks_url(data_entry):
     return data_entry["de_url"] is None
 
 
