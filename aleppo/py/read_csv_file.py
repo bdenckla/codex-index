@@ -33,7 +33,7 @@ _EXPECTED_CSV_HEADER_VALS = (
     "Bar Hama 2",
     "Gap",
     "Notes",
-    "URL-suffix"
+    "URL-suffix",
 )
 _ROW_FIELD_NAMES = "text_range,leaf,page,bar_hama_2,gap,notes,url_suffix"
 _ROW = collections.namedtuple("_ROW", _ROW_FIELD_NAMES)
@@ -54,7 +54,9 @@ def _cv_strs_to_ints_3(three):
 
 def _cv_strs_to_ints_33(three_and_three):
     assert len(three_and_three) == 2
-    return _cv_strs_to_ints_3(three_and_three[0]), _cv_strs_to_ints_3(three_and_three[1])
+    return _cv_strs_to_ints_3(three_and_three[0]), _cv_strs_to_ints_3(
+        three_and_three[1]
+    )
 
 
 def _parse_text_range(text_range):
@@ -83,6 +85,7 @@ def _make_data_entry(data_row):
         assert data_row.bar_hama_2 == ""
     return {
         "de_text_range": text_range_p,
+        "de_leaf": data_row.leaf,
         "de_url": syn_url,
         "de_gap": data_row.gap or None,
     }
@@ -118,5 +121,5 @@ def _make_json_header(data_entries):
     return {
         "rows_sans_url": rows_sans_url,
         "rows_with_gap": rows_with_gap,
-        "books": books
+        "books": books,
     }
