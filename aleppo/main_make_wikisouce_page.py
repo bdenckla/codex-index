@@ -4,30 +4,76 @@ import csv
 import collections
 import re
 import py.my_open as my_open
+from py.my_utils import sum_of_map
+from py.my_utils import my_groupby
+from py.my_utils import dv_map
+from py.my_utils import sl_map
 
 
 def main():
     with open(_CSV_IN_PATH, encoding="utf-8") as csv_in_fp:
-        rows = list(map(_ROW._make, csv.reader(csv_in_fp)))
+        rows = sl_map(_ROW._make, csv.reader(csv_in_fp))
     assert rows[0] == _EXPECTED_CSV_HEADER
     data_rows = rows[1:]
     assert len(data_rows) == _EXPECTED_LEN_CSV_DATA
-    data_entries = list(map(_make_data_entry, data_rows))
+    data_entries = sl_map(_make_data_entry, data_rows)
     json_header = _make_json_header(data_entries)
     dic_to_dump = {
         "header": json_header,
         "body": data_entries,
     }
     my_open.json_dump_to_file_path(dic_to_dump, _JSON_OUT_PATH)
+    assigned = sum_of_map(_assign_to_1_or_2_bks, data_entries)
+    grouped = my_groupby(assigned, _get_assigned_book)
+    unassigned = dv_map(_unassign, grouped)
+    pass
+
+
+def _unassign(lis_ade):
+    return sl_map(_get_data_entry, lis_ade)
+
+
+def _get_data_entry(ade):  # ade: [book-]assigned data entry
+    _assigned_book, data_entry = ade
+    return data_entry
+
+
+def _get_assigned_book(ade):  # ade: [book-]assigned data entry
+    assigned_book, _data_entry = ade
+    return assigned_book
+
+
+def _assign_to_1_or_2_bks(data_entry):
+    start_bcv, stop_bcv = data_entry["de_text_range"]
+    if start_bcv[0] == stop_bcv[0]:
+        return [(start_bcv[0], data_entry)]
+    return [(start_bcv[0], data_entry), (stop_bcv[0], data_entry)]
 
 
 def _make_json_header(data_entries):
     rows_sans_url = list(filter(_lacks_url, data_entries))
     rows_with_gap = list(filter(_has_gap, data_entries))
+    books = _op_unique(sum_of_map(_get_books, data_entries))
     return {
         "rows_sans_url": rows_sans_url,
         "rows_with_gap": rows_with_gap,
+        "books": books
     }
+
+
+def _get_books(data_entry):
+    start_bcv, stop_bcv = data_entry["de_text_range"]
+    return [start_bcv[0], stop_bcv[0]]
+
+
+def _op_unique(lis):  # order-preserving unique
+    # Normally, we'd just use set() to remove duplicates,
+    # and perhaps sort after, to get a stable (and sensible) order.
+    # but here we want to preserve order.
+    dic = {}
+    for elem in lis:
+        dic[elem] = True
+    return list(dic.keys())
 
 
 def _lacks_url(data_entry):

@@ -227,6 +227,34 @@
         "de_url": "https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_294v",
         "de_gap": "After"
       }
+    ],
+    "books": [
+      "Deut",
+      "Josh",
+      "Judg",
+      "1 Sam",
+      "2 Sam",
+      "1 Kgs",
+      "2 Kgs",
+      "Isa",
+      "Jer",
+      "Ezek",
+      "Hos",
+      "Joel",
+      "Amos",
+      "Mic",
+      "Nah",
+      "Hab",
+      "Zeph",
+      "Zech",
+      "Mal",
+      "1 Chron",
+      "2 Chron",
+      "Ps",
+      "Job",
+      "Prov",
+      "Ruth",
+      "Song"
     ]
   },
   "body": [
