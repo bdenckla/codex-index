@@ -1,7 +1,8 @@
 """ Exports main """
 
-from py.group_by_book import group_by_book
 from py.read_csv_file import read_csv_file
+from py.group_by_book import group_by_book
+from py.write_wikitext_file import write_wikitext_file
 
 
 def main():
