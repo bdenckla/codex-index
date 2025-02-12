@@ -22,10 +22,11 @@ def main():
         "header": json_header,
         "body": data_entries,
     }
-    my_open.json_dump_to_file_path(dic_to_dump, _JSON_OUT_PATH)
+    my_open.json_dump_to_file_path(dic_to_dump, _JSON_OUT_PATH_1)
     assigned = sum_of_map(_assign_to_1_or_2_bks, data_entries)
     grouped = my_groupby(assigned, _get_assigned_book)
     unassigned = dv_map(_unassign, grouped)
+    my_open.json_dump_to_file_path(unassigned, _JSON_OUT_PATH_2)
     pass
 
 
@@ -132,7 +133,8 @@ _PATT_FOR_BCV = _PATT_FOR_BK + " " + _PATT_FOR_CV
 _PATT_FOR_1BK_RANGE = _PATT_FOR_BCV + "–" + _PATT_FOR_CV
 _PATT_FOR_2BK_RANGE = _PATT_FOR_BCV + "–" + _PATT_FOR_BCV
 _CSV_IN_PATH = "aleppo/J David Stark Aleppo Codex Index.csv"
-_JSON_OUT_PATH = "aleppo/J David Stark Aleppo Codex Index.json"
+_JSON_OUT_PATH_1 = "aleppo/J David Stark Aleppo Codex Index.json"
+_JSON_OUT_PATH_2 = "aleppo/index-grouped-by-book.json"
 _ROW_FIELD_NAMES = "text_range,leaf,page,bar_hama_2,gap,notes,url_suffix"
 _ROW = collections.namedtuple("_ROW", _ROW_FIELD_NAMES)
 _EXPECTED_CSV_HEADER_VALS = (
