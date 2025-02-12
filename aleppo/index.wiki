@@ -1,6 +1,7 @@
 
 === ספר דברים ===
 '''ספר דברים ...'''
+# gap
 #[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_001r ספר דברים כח,יז–מה] (דף 1א)
 #[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_001v ספר דברים כח,מה–סו] (דף 1ב)
 #[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_002r ספר דברים כח,סו–כט,יט] (דף 2א)
@@ -222,6 +223,8 @@
 #[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_098v מלכים ב יב,ח–יג,ו] (דף 98ב)
 #[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_099r מלכים ב יג,ו–יד,א] (דף 99א)
 #[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_099v מלכים ב יד,א–כא] (דף 99ב)
+# gap
+# gap
 #[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_100r מלכים ב יח,יג–לב] (דף 100א)
 #[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_100v מלכים ב יח,לב–יט,יט] (דף 100ב)
 #[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_101r מלכים ב יט,יט–כ,ו] (דף 101א)
@@ -326,6 +329,8 @@
 #[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_146v ספר ירמיהו כו,יט–כז,יב] (דף 146ב)
 #[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_147r ספר ירמיהו כז,יב–כח,ז] (דף 147א)
 #[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_147v ספר ירמיהו כח,ז–כט,ט] (דף 147ב)
+# gap
+# gap
 #[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_148r ספר ירמיהו לא,לה–לב,יד] (דף 148א)
 #[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_148v ספר ירמיהו לב,יט–לה] (דף 148ב)
 #[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_149r ספר ירמיהו לב,לה–לג,י] (דף 149א)
@@ -442,9 +447,11 @@
 #[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_196v עמוס ד,ו–ה,יט] (דף 196ב)
 #[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_197r עמוס ה,יט–ז,ז] (דף 197א)
 #[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_197v עמוס ז,ח–ח,יב] (דף 197ב)
+# gap
 
 === מיכה ===
 '''מיכה ...'''
+# gap
 #[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_198r מיכה ה,א–ו,יד] (דף 198א)
 #[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_198v מיכה ו,יד–נחום א,ד] (דף 198ב)
 
@@ -465,9 +472,11 @@
 #[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_200v חבקוק ג,א–צפניה א,ח] (דף 200ב)
 #[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_201r צפניה א,ח–ב,יג] (דף 201א)
 #[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_201v צפניה ב,יג–ג,כ] (דף 201ב)
+# gap
 
 === זכריה ===
 '''זכריה ...'''
+# gap
 #[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_202r זכריה ט,יז–יא,יג] (דף 202א)
 #[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_202v זכריה יא,יג–יג,ב] (דף 202ב)
 #[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_203r זכריה יג,ב–יד,יג] (דף 203א)
@@ -569,6 +578,8 @@
 #[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_242v ספר תהלים ד,ו–ז,יח] (דף 242ב)
 #[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_243r ספר תהלים ח,א–י,יד] (דף 243א)
 #[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_243v ספר תהלים י,יד–יד,ז] (דף 243ב)
+# gap
+# gap
 #[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_244r ספר תהלים כה,ב–כז,יא] (דף 244א)
 #[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_244v ספר תהלים כז,יא–לא,ה] (דף 244ב)
 #[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_245r ספר תהלים לא,ו–לג,יב] (דף 245א)
@@ -686,3 +697,4 @@
 '''מגילת שיר השירים ...'''
 #[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_294r מגילת רות ד,ז–מגילת שיר השירים א,יב] (דף 294א)
 #[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_294v מגילת שיר השירים א,יב–ג,יא] (דף 294ב)
+# gap
