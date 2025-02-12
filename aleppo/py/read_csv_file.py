@@ -13,13 +13,17 @@ def read_csv_file(csv_in_path, json_out_path):
     data_rows = rows[1:]
     assert len(data_rows) == _EXPECTED_LEN_CSV_DATA
     data_entries = sl_map(_make_data_entry, data_rows)
+    my_open.json_dump_to_file_path(_dic_to_dump(data_entries), json_out_path)
+    return data_entries
+
+
+def _dic_to_dump(data_entries):
     json_header = _make_json_header(data_entries)
     dic_to_dump = {
         "header": json_header,
         "body": data_entries,
     }
-    my_open.json_dump_to_file_path(dic_to_dump, json_out_path)
-    return data_entries
+    return dic_to_dump
 
 
 _EXPECTED_CSV_HEADER_VALS = (

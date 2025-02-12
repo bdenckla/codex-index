@@ -8,6 +8,7 @@ def group_by_book(data_entries, json_out_path):
     grouped = my_groupby(assigned, _get_assigned_book)
     unassigned = dv_map(_unassign, grouped)
     my_open.json_dump_to_file_path(unassigned, json_out_path)
+    return unassigned
 
 
 def _get_assigned_book(ade):  # ade: [book-]assigned data entry
