@@ -21,11 +21,12 @@ def _lines_for_one_book(bkna_and_entries):
 
 def _lines_for_one_entry(entry):
     url = entry["de_url"]
+    leaf = entry["de_leaf"]
     if not url:
-        return '# N/A'
+        return f'# {leaf} N/A'
     visible = _heb_range(entry["de_text_range"])
     anchor = f"[{url} {visible}]"
-    daf_num_ab = _rv_ab(entry["de_leaf"])
+    daf_num_ab = _rv_ab(leaf)
     daf = f"(דף {daf_num_ab})"
     return "#" + anchor + " " + daf
 

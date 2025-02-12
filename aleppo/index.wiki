@@ -559,8 +559,8 @@
 #[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_240v דברי הימים ב לג,ח–לד,ד] (דף 240ב)
 #[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_241r דברי הימים ב לד,ד–כב] (דף 241א)
 #[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_241v דברי הימים ב לד,כב–לה,ז] (דף 241ב)
-# N/A
-# N/A
+# 241ar N/A
+# 241av N/A
 #[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_242r דברי הימים ב לו,יט–ספר תהלים ד,ה] (דף 242א)
 
 === ספר תהלים ===
