@@ -1,688 +1,125 @@
 
 === ספר דברים ===
 '''ספר דברים ...'''
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_001r (('Deut', 28, 17), ('Deut', 28, 45))] דף 1r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_001v (('Deut', 28, 45), ('Deut', 28, 66))] דף 1v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_002r (('Deut', 28, 66), ('Deut', 29, 19))] דף 2r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_002v (('Deut', 29, 19), ('Deut', 30, 11))] דף 2v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_003r (('Deut', 30, 11), ('Deut', 31, 12))] דף 3r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_003v (('Deut', 31, 12), ('Deut', 31, 28))] דף 3v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_004r (('Deut', 31, 28), ('Deut', 32, 14))] דף 4r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_004v (('Deut', 32, 14), ('Deut', 32, 33))] דף 4v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_005r (('Deut', 32, 33), ('Deut', 32, 50))] דף 5r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_005v (('Deut', 32, 50), ('Deut', 33, 29))] דף 5v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_006r (('Deut', 33, 29), ('Deut', 34, 12))] דף 6r
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_001r (('Deut', 28, 17), ('Deut', 28, 45))] (דף 1א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_001v (('Deut', 28, 45), ('Deut', 28, 66))] (דף 1ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_002r (('Deut', 28, 66), ('Deut', 29, 19))] (דף 2א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_002v (('Deut', 29, 19), ('Deut', 30, 11))] (דף 2ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_003r (('Deut', 30, 11), ('Deut', 31, 12))] (דף 3א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_003v (('Deut', 31, 12), ('Deut', 31, 28))] (דף 3ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_004r (('Deut', 31, 28), ('Deut', 32, 14))] (דף 4א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_004v (('Deut', 32, 14), ('Deut', 32, 33))] (דף 4ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_005r (('Deut', 32, 33), ('Deut', 32, 50))] (דף 5א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_005v (('Deut', 32, 50), ('Deut', 33, 29))] (דף 5ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_006r (('Deut', 33, 29), ('Deut', 34, 12))] (דף 6א)
 
 === ספר יהושע ===
 '''ספר יהושע ...'''
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_006v (('Josh', 1, 1), ('Josh', 2, 4))] דף 6v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_007r (('Josh', 2, 4), ('Josh', 3, 3))] דף 7r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_007v (('Josh', 3, 3), ('Josh', 4, 6))] דף 7v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_008r (('Josh', 4, 6), ('Josh', 5, 3))] דף 8r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_008v (('Josh', 5, 3), ('Josh', 6, 8))] דף 8v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_009r (('Josh', 6, 8), ('Josh', 6, 26))] דף 9r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_009v (('Josh', 6, 26), ('Josh', 7, 21))] דף 9v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_010r (('Josh', 7, 21), ('Josh', 8, 15))] דף 10r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_010v (('Josh', 8, 15), ('Josh', 8, 35))] דף 10v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_011r (('Josh', 8, 35), ('Josh', 9, 23))] דף 11r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_011v (('Josh', 9, 23), ('Josh', 10, 15))] דף 11v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_012r (('Josh', 10, 15), ('Josh', 10, 34))] דף 12r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_012v (('Josh', 10, 34), ('Josh', 11, 11))] דף 12v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_013r (('Josh', 11, 11), ('Josh', 12, 7))] דף 13r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_013v (('Josh', 12, 7), ('Josh', 13, 14))] דף 13v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_014r (('Josh', 13, 14), ('Josh', 14, 6))] דף 14r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_014v (('Josh', 14, 6), ('Josh', 15, 10))] דף 14v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_015r (('Josh', 15, 10), ('Josh', 15, 53))] דף 15r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_015v (('Josh', 15, 53), ('Josh', 17, 7))] דף 15v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_016r (('Josh', 17, 7), ('Josh', 18, 8))] דף 16r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_016v (('Josh', 18, 9), ('Josh', 19, 7))] דף 16v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_017r (('Josh', 19, 7), ('Josh', 19, 36))] דף 17r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_017v (('Josh', 19, 36), ('Josh', 21, 1))] דף 17v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_018r (('Josh', 21, 1), ('Josh', 21, 25))] דף 18r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_018v (('Josh', 21, 25), ('Josh', 22, 5))] דף 18v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_019r (('Josh', 22, 5), ('Josh', 22, 21))] דף 19r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_019v (('Josh', 22, 21), ('Josh', 23, 4))] דף 19v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_020r (('Josh', 23, 4), ('Josh', 24, 6))] דף 20r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_020v (('Josh', 24, 7), ('Josh', 24, 26))] דף 20v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_021r (('Josh', 24, 26), ('Judg', 1, 15))] דף 21r
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_006v (('Josh', 1, 1), ('Josh', 2, 4))] (דף 6ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_007r (('Josh', 2, 4), ('Josh', 3, 3))] (דף 7א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_007v (('Josh', 3, 3), ('Josh', 4, 6))] (דף 7ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_008r (('Josh', 4, 6), ('Josh', 5, 3))] (דף 8א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_008v (('Josh', 5, 3), ('Josh', 6, 8))] (דף 8ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_009r (('Josh', 6, 8), ('Josh', 6, 26))] (דף 9א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_009v (('Josh', 6, 26), ('Josh', 7, 21))] (דף 9ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_010r (('Josh', 7, 21), ('Josh', 8, 15))] (דף 10א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_010v (('Josh', 8, 15), ('Josh', 8, 35))] (דף 10ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_011r (('Josh', 8, 35), ('Josh', 9, 23))] (דף 11א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_011v (('Josh', 9, 23), ('Josh', 10, 15))] (דף 11ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_012r (('Josh', 10, 15), ('Josh', 10, 34))] (דף 12א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_012v (('Josh', 10, 34), ('Josh', 11, 11))] (דף 12ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_013r (('Josh', 11, 11), ('Josh', 12, 7))] (דף 13א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_013v (('Josh', 12, 7), ('Josh', 13, 14))] (דף 13ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_014r (('Josh', 13, 14), ('Josh', 14, 6))] (דף 14א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_014v (('Josh', 14, 6), ('Josh', 15, 10))] (דף 14ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_015r (('Josh', 15, 10), ('Josh', 15, 53))] (דף 15א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_015v (('Josh', 15, 53), ('Josh', 17, 7))] (דף 15ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_016r (('Josh', 17, 7), ('Josh', 18, 8))] (דף 16א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_016v (('Josh', 18, 9), ('Josh', 19, 7))] (דף 16ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_017r (('Josh', 19, 7), ('Josh', 19, 36))] (דף 17א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_017v (('Josh', 19, 36), ('Josh', 21, 1))] (דף 17ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_018r (('Josh', 21, 1), ('Josh', 21, 25))] (דף 18א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_018v (('Josh', 21, 25), ('Josh', 22, 5))] (דף 18ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_019r (('Josh', 22, 5), ('Josh', 22, 21))] (דף 19א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_019v (('Josh', 22, 21), ('Josh', 23, 4))] (דף 19ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_020r (('Josh', 23, 4), ('Josh', 24, 6))] (דף 20א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_020v (('Josh', 24, 7), ('Josh', 24, 26))] (דף 20ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_021r (('Josh', 24, 26), ('Judg', 1, 15))] (דף 21א)
 
 === ספר שופטים ===
 '''ספר שופטים ...'''
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_021r (('Josh', 24, 26), ('Judg', 1, 15))] דף 21r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_021v (('Judg', 1, 15), ('Judg', 2, 1))] דף 21v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_022r (('Judg', 2, 1), ('Judg', 2, 22))] דף 22r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_022v (('Judg', 2, 22), ('Judg', 3, 20))] דף 22v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_023r (('Judg', 3, 20), ('Judg', 4, 10))] דף 23r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_023v (('Judg', 4, 10), ('Judg', 5, 10))] דף 23v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_024r (('Judg', 5, 10), ('Judg', 5, 25))] דף 24r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_024v (('Judg', 5, 25), ('Judg', 6, 10))] דף 24v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_025r (('Judg', 6, 11), ('Judg', 6, 30))] דף 25r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_025v (('Judg', 6, 30), ('Judg', 7, 9))] דף 25v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_026r (('Judg', 7, 9), ('Judg', 8, 2))] דף 26r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_026v (('Judg', 8, 2), ('Judg', 8, 24))] דף 26v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_027r (('Judg', 8, 25), ('Judg', 9, 12))] דף 27r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_027v (('Judg', 9, 12), ('Judg', 9, 33))] דף 27v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_028r (('Judg', 9, 33), ('Judg', 9, 56))] דף 28r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_028v (('Judg', 9, 56), ('Judg', 11, 2))] דף 28v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_029r (('Judg', 11, 2), ('Judg', 11, 22))] דף 29r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_029v (('Judg', 11, 23), ('Judg', 12, 3))] דף 29v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_030r (('Judg', 12, 3), ('Judg', 13, 9))] דף 30r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_030v (('Judg', 13, 9), ('Judg', 14, 6))] דף 30v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_031r (('Judg', 14, 6), ('Judg', 15, 6))] דף 31r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_031v (('Judg', 15, 6), ('Judg', 16, 6))] דף 31v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_032r (('Judg', 16, 6), ('Judg', 16, 25))] דף 32r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_032v (('Judg', 16, 25), ('Judg', 18, 1))] דף 32v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_033r (('Judg', 18, 1), ('Judg', 18, 20))] דף 33r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_033v (('Judg', 18, 20), ('Judg', 19, 10))] דף 33v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_034r (('Judg', 19, 10), ('Judg', 19, 30))] דף 34r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_034v (('Judg', 19, 30), ('Judg', 20, 20))] דף 34v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_035r (('Judg', 20, 20), ('Judg', 20, 40))] דף 35r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_035v (('Judg', 20, 40), ('Judg', 21, 15))] דף 35v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_036r (('Judg', 21, 15), ('1 Sam', 1, 13))] דף 36r
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_021r (('Josh', 24, 26), ('Judg', 1, 15))] (דף 21א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_021v (('Judg', 1, 15), ('Judg', 2, 1))] (דף 21ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_022r (('Judg', 2, 1), ('Judg', 2, 22))] (דף 22א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_022v (('Judg', 2, 22), ('Judg', 3, 20))] (דף 22ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_023r (('Judg', 3, 20), ('Judg', 4, 10))] (דף 23א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_023v (('Judg', 4, 10), ('Judg', 5, 10))] (דף 23ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_024r (('Judg', 5, 10), ('Judg', 5, 25))] (דף 24א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_024v (('Judg', 5, 25), ('Judg', 6, 10))] (דף 24ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_025r (('Judg', 6, 11), ('Judg', 6, 30))] (דף 25א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_025v (('Judg', 6, 30), ('Judg', 7, 9))] (דף 25ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_026r (('Judg', 7, 9), ('Judg', 8, 2))] (דף 26א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_026v (('Judg', 8, 2), ('Judg', 8, 24))] (דף 26ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_027r (('Judg', 8, 25), ('Judg', 9, 12))] (דף 27א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_027v (('Judg', 9, 12), ('Judg', 9, 33))] (דף 27ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_028r (('Judg', 9, 33), ('Judg', 9, 56))] (דף 28א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_028v (('Judg', 9, 56), ('Judg', 11, 2))] (דף 28ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_029r (('Judg', 11, 2), ('Judg', 11, 22))] (דף 29א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_029v (('Judg', 11, 23), ('Judg', 12, 3))] (דף 29ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_030r (('Judg', 12, 3), ('Judg', 13, 9))] (דף 30א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_030v (('Judg', 13, 9), ('Judg', 14, 6))] (דף 30ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_031r (('Judg', 14, 6), ('Judg', 15, 6))] (דף 31א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_031v (('Judg', 15, 6), ('Judg', 16, 6))] (דף 31ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_032r (('Judg', 16, 6), ('Judg', 16, 25))] (דף 32א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_032v (('Judg', 16, 25), ('Judg', 18, 1))] (דף 32ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_033r (('Judg', 18, 1), ('Judg', 18, 20))] (דף 33א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_033v (('Judg', 18, 20), ('Judg', 19, 10))] (דף 33ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_034r (('Judg', 19, 10), ('Judg', 19, 30))] (דף 34א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_034v (('Judg', 19, 30), ('Judg', 20, 20))] (דף 34ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_035r (('Judg', 20, 20), ('Judg', 20, 40))] (דף 35א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_035v (('Judg', 20, 40), ('Judg', 21, 15))] (דף 35ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_036r (('Judg', 21, 15), ('1 Sam', 1, 13))] (דף 36א)
 
 === שמואל א ===
 '''שמואל א ...'''
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_036r (('Judg', 21, 15), ('1 Sam', 1, 13))] דף 36r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_036v (('1 Sam', 1, 13), ('1 Sam', 2, 11))] דף 36v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_037r (('1 Sam', 2, 11), ('1 Sam', 2, 33))] דף 37r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_037v (('1 Sam', 2, 33), ('1 Sam', 3, 21))] דף 37v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_038r (('1 Sam', 3, 21), ('1 Sam', 4, 19))] דף 38r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_038v (('1 Sam', 4, 20), ('1 Sam', 6, 5))] דף 38v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_039r (('1 Sam', 6, 5), ('1 Sam', 7, 1))] דף 39r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_039v (('1 Sam', 7, 1), ('1 Sam', 8, 4))] דף 39v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_040r (('1 Sam', 8, 4), ('1 Sam', 9, 6))] דף 40r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_040v (('1 Sam', 9, 6), ('1 Sam', 9, 25))] דף 40v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_041r (('1 Sam', 9, 25), ('1 Sam', 10, 18))] דף 41r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_041v (('1 Sam', 10, 18), ('1 Sam', 11, 10))] דף 41v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_042r (('1 Sam', 11, 11), ('1 Sam', 12, 15))] דף 42r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_042v (('1 Sam', 12, 15), ('1 Sam', 13, 11))] דף 42v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_043r (('1 Sam', 13, 11), ('1 Sam', 14, 9))] דף 43r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_043v (('1 Sam', 14, 9), ('1 Sam', 14, 30))] דף 43v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_044r (('1 Sam', 14, 30), ('1 Sam', 14, 52))] דף 44r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_044v (('1 Sam', 14, 52), ('1 Sam', 15, 20))] דף 44v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_045r (('1 Sam', 15, 20), ('1 Sam', 16, 7))] דף 45r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_045v (('1 Sam', 16, 7), ('1 Sam', 17, 7))] דף 45v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_046r (('1 Sam', 17, 7), ('1 Sam', 17, 27))] דף 46r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_046v (('1 Sam', 17, 27), ('1 Sam', 17, 47))] דף 46v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_047r (('1 Sam', 17, 47), ('1 Sam', 18, 12))] דף 47r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_047v (('1 Sam', 18, 12), ('1 Sam', 19, 5))] דף 47v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_048r (('1 Sam', 19, 5), ('1 Sam', 20, 2))] דף 48r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_048v (('1 Sam', 20, 2), ('1 Sam', 20, 25))] דף 48v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_049r (('1 Sam', 20, 25), ('1 Sam', 21, 3))] דף 49r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_049v (('1 Sam', 21, 3), ('1 Sam', 22, 7))] דף 49v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_050r (('1 Sam', 22, 7), ('1 Sam', 23, 5))] דף 50r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_050v (('1 Sam', 23, 5), ('1 Sam', 23, 26))] דף 50v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_051r (('1 Sam', 23, 27), ('1 Sam', 24, 19))] דף 51r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_051v (('1 Sam', 24, 19), ('1 Sam', 25, 20))] דף 51v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_052r (('1 Sam', 25, 20), ('1 Sam', 25, 40))] דף 52r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_052v (('1 Sam', 25, 40), ('1 Sam', 26, 16))] דף 52v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_053r (('1 Sam', 26, 16), ('1 Sam', 27, 12))] דף 53r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_053v (('1 Sam', 27, 12), ('1 Sam', 28, 19))] דף 53v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_054r (('1 Sam', 28, 19), ('1 Sam', 30, 1))] דף 54r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_054v (('1 Sam', 30, 1), ('1 Sam', 30, 22))] דף 54v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_055r (('1 Sam', 30, 22), ('1 Sam', 31, 12))] דף 55r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_055v (('1 Sam', 31, 13), ('2 Sam', 1, 25))] דף 55v
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_036r (('Judg', 21, 15), ('1 Sam', 1, 13))] (דף 36א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_036v (('1 Sam', 1, 13), ('1 Sam', 2, 11))] (דף 36ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_037r (('1 Sam', 2, 11), ('1 Sam', 2, 33))] (דף 37א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_037v (('1 Sam', 2, 33), ('1 Sam', 3, 21))] (דף 37ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_038r (('1 Sam', 3, 21), ('1 Sam', 4, 19))] (דף 38א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_038v (('1 Sam', 4, 20), ('1 Sam', 6, 5))] (דף 38ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_039r (('1 Sam', 6, 5), ('1 Sam', 7, 1))] (דף 39א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_039v (('1 Sam', 7, 1), ('1 Sam', 8, 4))] (דף 39ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_040r (('1 Sam', 8, 4), ('1 Sam', 9, 6))] (דף 40א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_040v (('1 Sam', 9, 6), ('1 Sam', 9, 25))] (דף 40ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_041r (('1 Sam', 9, 25), ('1 Sam', 10, 18))] (דף 41א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_041v (('1 Sam', 10, 18), ('1 Sam', 11, 10))] (דף 41ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_042r (('1 Sam', 11, 11), ('1 Sam', 12, 15))] (דף 42א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_042v (('1 Sam', 12, 15), ('1 Sam', 13, 11))] (דף 42ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_043r (('1 Sam', 13, 11), ('1 Sam', 14, 9))] (דף 43א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_043v (('1 Sam', 14, 9), ('1 Sam', 14, 30))] (דף 43ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_044r (('1 Sam', 14, 30), ('1 Sam', 14, 52))] (דף 44א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_044v (('1 Sam', 14, 52), ('1 Sam', 15, 20))] (דף 44ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_045r (('1 Sam', 15, 20), ('1 Sam', 16, 7))] (דף 45א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_045v (('1 Sam', 16, 7), ('1 Sam', 17, 7))] (דף 45ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_046r (('1 Sam', 17, 7), ('1 Sam', 17, 27))] (דף 46א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_046v (('1 Sam', 17, 27), ('1 Sam', 17, 47))] (דף 46ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_047r (('1 Sam', 17, 47), ('1 Sam', 18, 12))] (דף 47א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_047v (('1 Sam', 18, 12), ('1 Sam', 19, 5))] (דף 47ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_048r (('1 Sam', 19, 5), ('1 Sam', 20, 2))] (דף 48א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_048v (('1 Sam', 20, 2), ('1 Sam', 20, 25))] (דף 48ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_049r (('1 Sam', 20, 25), ('1 Sam', 21, 3))] (דף 49א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_049v (('1 Sam', 21, 3), ('1 Sam', 22, 7))] (דף 49ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_050r (('1 Sam', 22, 7), ('1 Sam', 23, 5))] (דף 50א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_050v (('1 Sam', 23, 5), ('1 Sam', 23, 26))] (דף 50ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_051r (('1 Sam', 23, 27), ('1 Sam', 24, 19))] (דף 51א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_051v (('1 Sam', 24, 19), ('1 Sam', 25, 20))] (דף 51ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_052r (('1 Sam', 25, 20), ('1 Sam', 25, 40))] (דף 52א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_052v (('1 Sam', 25, 40), ('1 Sam', 26, 16))] (דף 52ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_053r (('1 Sam', 26, 16), ('1 Sam', 27, 12))] (דף 53א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_053v (('1 Sam', 27, 12), ('1 Sam', 28, 19))] (דף 53ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_054r (('1 Sam', 28, 19), ('1 Sam', 30, 1))] (דף 54א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_054v (('1 Sam', 30, 1), ('1 Sam', 30, 22))] (דף 54ב)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_055r (('1 Sam', 30, 22), ('1 Sam', 31, 12))] (דף 55א)
+#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_055v (('1 Sam', 31, 13), ('2 Sam', 1, 25))] (דף 55ב)
 
-=== שמואל ב ===
-'''שמואל ב ...'''
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_055v (('1 Sam', 31, 13), ('2 Sam', 1, 25))] דף 55v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_056r (('2 Sam', 1, 26), ('2 Sam', 2, 21))] דף 56r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_056v (('2 Sam', 2, 21), ('2 Sam', 3, 10))] דף 56v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_057r (('2 Sam', 3, 11), ('2 Sam', 3, 31))] דף 57r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_057v (('2 Sam', 3, 31), ('2 Sam', 4, 12))] דף 57v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_058r (('2 Sam', 4, 12), ('2 Sam', 5, 23))] דף 58r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_058v (('2 Sam', 5, 23), ('2 Sam', 6, 20))] דף 58v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_059r (('2 Sam', 6, 20), ('2 Sam', 7, 19))] דף 59r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_059v (('2 Sam', 7, 19), ('2 Sam', 8, 11))] דף 59v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_060r (('2 Sam', 8, 11), ('2 Sam', 10, 2))] דף 60r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_060v (('2 Sam', 10, 2), ('2 Sam', 11, 3))] דף 60v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_061r (('2 Sam', 11, 3), ('2 Sam', 11, 25))] דף 61r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_061v (('2 Sam', 11, 25), ('2 Sam', 12, 20))] דף 61v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_062r (('2 Sam', 12, 20), ('2 Sam', 13, 12))] דף 62r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_062v (('2 Sam', 13, 13), ('2 Sam', 13, 34))] דף 62v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_063r (('2 Sam', 13, 34), ('2 Sam', 14, 18))] דף 63r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_063v (('2 Sam', 14, 18), ('2 Sam', 15, 6))] דף 63v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_064r (('2 Sam', 15, 6), ('2 Sam', 15, 27))] דף 64r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_064v (('2 Sam', 15, 27), ('2 Sam', 16, 11))] דף 64v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_065r (('2 Sam', 16, 11), ('2 Sam', 17, 11))] דף 65r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_065v (('2 Sam', 17, 12), ('2 Sam', 18, 2))] דף 65v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_066r (('2 Sam', 18, 2), ('2 Sam', 18, 22))] דף 66r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_066v (('2 Sam', 18, 22), ('2 Sam', 19, 9))] דף 66v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_067r (('2 Sam', 19, 9), ('2 Sam', 19, 29))] דף 67r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_067v (('2 Sam', 19, 29), ('2 Sam', 20, 4))] דף 67v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_068r (('2 Sam', 20, 4), ('2 Sam', 20, 26))] דף 68r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_068v (('2 Sam', 20, 26), ('2 Sam', 21, 18))] דף 68v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_069r (('2 Sam', 21, 18), ('2 Sam', 22, 23))] דף 69r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_069v (('2 Sam', 22, 24), ('2 Sam', 23, 3))] דף 69v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_070r (('2 Sam', 23, 3), ('2 Sam', 23, 28))] דף 70r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_070v (('2 Sam', 23, 28), ('2 Sam', 24, 13))] דף 70v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_071r (('2 Sam', 24, 14), ('1 Kgs', 1, 9))] דף 71r
-
-=== מלכים א ===
-'''מלכים א ...'''
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_071r (('2 Sam', 24, 14), ('1 Kgs', 1, 9))] דף 71r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_071v (('1 Kgs', 1, 9), ('1 Kgs', 1, 33))] דף 71v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_072r (('1 Kgs', 1, 33), ('1 Kgs', 2, 3))] דף 72r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_072v (('1 Kgs', 2, 3), ('1 Kgs', 2, 23))] דף 72v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_073r (('1 Kgs', 2, 23), ('1 Kgs', 2, 42))] דף 73r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_073v (('1 Kgs', 2, 42), ('1 Kgs', 3, 18))] דף 73v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_074r (('1 Kgs', 3, 18), ('1 Kgs', 4, 16))] דף 74r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_074v (('1 Kgs', 4, 16), ('1 Kgs', 5, 19))] דף 74v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_075r (('1 Kgs', 5, 19), ('1 Kgs', 6, 7))] דף 75r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_075v (('1 Kgs', 6, 7), ('1 Kgs', 6, 33))] דף 75v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_076r (('1 Kgs', 6, 33), ('1 Kgs', 7, 18))] דף 76r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_076v (('1 Kgs', 7, 18), ('1 Kgs', 7, 38))] דף 76v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_077r (('1 Kgs', 7, 38), ('1 Kgs', 8, 7))] דף 77r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_077v (('1 Kgs', 8, 7), ('1 Kgs', 8, 29))] דף 77v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_078r (('1 Kgs', 8, 29), ('1 Kgs', 8, 48))] דף 78r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_078v (('1 Kgs', 8, 48), ('1 Kgs', 9, 1))] דף 78v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_079r (('1 Kgs', 9, 2), ('1 Kgs', 9, 22))] דף 79r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_079v (('1 Kgs', 9, 22), ('1 Kgs', 10, 15))] דף 79v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_080r (('1 Kgs', 10, 15), ('1 Kgs', 11, 8))] דף 80r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_080v (('1 Kgs', 11, 8), ('1 Kgs', 11, 29))] דף 80v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_081r (('1 Kgs', 11, 29), ('1 Kgs', 12, 7))] דף 81r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_081v (('1 Kgs', 12, 8), ('1 Kgs', 12, 26))] דף 81v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_082r (('1 Kgs', 12, 26), ('1 Kgs', 13, 11))] דף 82r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_082v (('1 Kgs', 13, 11), ('1 Kgs', 13, 33))] דף 82v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_083r (('1 Kgs', 13, 33), ('1 Kgs', 14, 19))] דף 83r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_083v (('1 Kgs', 14, 20), ('1 Kgs', 15, 13))] דף 83v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_084r (('1 Kgs', 15, 13), ('1 Kgs', 15, 33))] דף 84r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_084v (('1 Kgs', 15, 33), ('1 Kgs', 16, 20))] דף 84v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_085r (('1 Kgs', 16, 20), ('1 Kgs', 17, 9))] דף 85r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_085v (('1 Kgs', 17, 9), ('1 Kgs', 18, 7))] דף 85v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_086r (('1 Kgs', 18, 7), ('1 Kgs', 18, 27))] דף 86r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_086v (('1 Kgs', 18, 27), ('1 Kgs', 19, 3))] דף 86v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_087r (('1 Kgs', 19, 3), ('1 Kgs', 20, 2))] דף 87r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_087v (('1 Kgs', 20, 2), ('1 Kgs', 20, 23))] דף 87v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_088r (('1 Kgs', 20, 23), ('1 Kgs', 20, 41))] דף 88r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_088v (('1 Kgs', 20, 41), ('1 Kgs', 21, 18))] דף 88v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_089r (('1 Kgs', 21, 18), ('1 Kgs', 22, 10))] דף 89r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_089v (('1 Kgs', 22, 10), ('1 Kgs', 22, 32))] דף 89v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_090r (('1 Kgs', 22, 32), ('2 Kgs', 1, 3))] דף 90r
-
-=== מלכים ב ===
-'''מלכים ב ...'''
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_090r (('1 Kgs', 22, 32), ('2 Kgs', 1, 3))] דף 90r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_090v (('2 Kgs', 1, 3), ('2 Kgs', 1, 18))] דף 90v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_091r (('2 Kgs', 2, 1), ('2 Kgs', 2, 19))] דף 91r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_091v (('2 Kgs', 2, 19), ('2 Kgs', 3, 14))] דף 91v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_092r (('2 Kgs', 3, 14), ('2 Kgs', 4, 8))] דף 92r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_092v (('2 Kgs', 4, 8), ('2 Kgs', 4, 33))] דף 92v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_093r (('2 Kgs', 4, 33), ('2 Kgs', 5, 11))] דף 93r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_093v (('2 Kgs', 5, 11), ('2 Kgs', 6, 5))] דף 93v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_094r (('2 Kgs', 6, 5), ('2 Kgs', 6, 28))] דף 94r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_094v (('2 Kgs', 6, 28), ('2 Kgs', 7, 12))] דף 94v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_095r (('2 Kgs', 7, 12), ('2 Kgs', 8, 9))] דף 95r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_095v (('2 Kgs', 8, 9), ('2 Kgs', 9, 1))] דף 95v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_096r (('2 Kgs', 9, 1), ('2 Kgs', 9, 21))] דף 96r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_096v (('2 Kgs', 9, 21), ('2 Kgs', 10, 5))] דף 96v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_097r (('2 Kgs', 10, 5), ('2 Kgs', 10, 23))] דף 97r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_097v (('2 Kgs', 10, 23), ('2 Kgs', 11, 8))] דף 97v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_098r (('2 Kgs', 11, 8), ('2 Kgs', 12, 8))] דף 98r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_098v (('2 Kgs', 12, 8), ('2 Kgs', 13, 6))] דף 98v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_099r (('2 Kgs', 13, 6), ('2 Kgs', 14, 1))] דף 99r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_099v (('2 Kgs', 14, 1), ('2 Kgs', 14, 21))] דף 99v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_100r (('2 Kgs', 18, 13), ('2 Kgs', 18, 32))] דף 100r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_100v (('2 Kgs', 18, 32), ('2 Kgs', 19, 19))] דף 100v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_101r (('2 Kgs', 19, 19), ('2 Kgs', 20, 6))] דף 101r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_101v (('2 Kgs', 20, 6), ('2 Kgs', 21, 7))] דף 101v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_102r (('2 Kgs', 21, 7), ('2 Kgs', 22, 4))] דף 102r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_102v (('2 Kgs', 22, 4), ('2 Kgs', 23, 3))] דף 102v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_103r (('2 Kgs', 23, 3), ('2 Kgs', 23, 20))] דף 103r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_103v (('2 Kgs', 23, 20), ('2 Kgs', 24, 3))] דף 103v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_104r (('2 Kgs', 24, 3), ('2 Kgs', 25, 6))] דף 104r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_104v (('2 Kgs', 25, 7), ('2 Kgs', 25, 27))] דף 104v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_105r (('2 Kgs', 25, 27), ('Isa', 1, 24))] דף 105r
-
-=== ספר ישעיהו ===
-'''ספר ישעיהו ...'''
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_105r (('2 Kgs', 25, 27), ('Isa', 1, 24))] דף 105r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_105v (('Isa', 1, 25), ('Isa', 3, 4))] דף 105v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_106r (('Isa', 3, 4), ('Isa', 5, 2))] דף 106r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_106v (('Isa', 5, 2), ('Isa', 5, 29))] דף 106v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_107r (('Isa', 5, 29), ('Isa', 7, 12))] דף 107r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_107v (('Isa', 7, 12), ('Isa', 8, 14))] דף 107v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_108r (('Isa', 8, 14), ('Isa', 9, 17))] דף 108r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_108v (('Isa', 9, 17), ('Isa', 10, 24))] דף 108v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_109r (('Isa', 10, 24), ('Isa', 12, 3))] דף 109r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_109v (('Isa', 12, 3), ('Isa', 14, 4))] דף 109v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_110r (('Isa', 14, 4), ('Isa', 15, 3))] דף 110r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_110v (('Isa', 15, 3), ('Isa', 17, 7))] דף 110v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_111r (('Isa', 17, 7), ('Isa', 19, 11))] דף 111r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_111v (('Isa', 19, 11), ('Isa', 21, 3))] דף 111v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_112r (('Isa', 21, 3), ('Isa', 22, 14))] דף 112r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_112v (('Isa', 22, 14), ('Isa', 23, 17))] דף 112v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_113r (('Isa', 23, 17), ('Isa', 25, 5))] דף 113r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_113v (('Isa', 25, 5), ('Isa', 26, 21))] דף 113v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_114r (('Isa', 26, 21), ('Isa', 28, 10))] דף 114r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_114v (('Isa', 28, 10), ('Isa', 29, 8))] דף 114v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_115r (('Isa', 29, 8), ('Isa', 30, 8))] דף 115r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_115v (('Isa', 30, 8), ('Isa', 30, 30))] דף 115v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_116r (('Isa', 30, 30), ('Isa', 32, 13))] דף 116r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_116v (('Isa', 32, 13), ('Isa', 33, 23))] דף 116v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_117r (('Isa', 33, 23), ('Isa', 35, 10))] דף 117r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_117v (('Isa', 35, 10), ('Isa', 36, 18))] דף 117v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_118r (('Isa', 36, 18), ('Isa', 37, 19))] דף 118r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_118v (('Isa', 37, 19), ('Isa', 38, 3))] דף 118v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_119r (('Isa', 38, 4), ('Isa', 39, 7))] דף 119r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_119v (('Isa', 39, 7), ('Isa', 40, 26))] דף 119v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_120r (('Isa', 40, 26), ('Isa', 41, 20))] דף 120r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_120v (('Isa', 41, 20), ('Isa', 42, 16))] דף 120v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_121r (('Isa', 42, 16), ('Isa', 43, 19))] דף 121r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_121v (('Isa', 43, 19), ('Isa', 44, 16))] דף 121v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_122r (('Isa', 44, 16), ('Isa', 45, 11))] דף 122r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_122v (('Isa', 45, 11), ('Isa', 46, 10))] דף 122v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_123r (('Isa', 46, 10), ('Isa', 48, 6))] דף 123r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_123v (('Isa', 48, 6), ('Isa', 49, 7))] דף 123v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_124r (('Isa', 49, 8), ('Isa', 50, 4))] דף 124r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_124v (('Isa', 50, 4), ('Isa', 51, 15))] דף 124v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_125r (('Isa', 51, 15), ('Isa', 53, 2))] דף 125r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_125v (('Isa', 53, 2), ('Isa', 54, 14))] דף 125v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_126r (('Isa', 54, 14), ('Isa', 56, 6))] דף 126r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_126v (('Isa', 56, 6), ('Isa', 57, 19))] דף 126v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_127r (('Isa', 57, 19), ('Isa', 59, 7))] דף 127r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_127v (('Isa', 59, 7), ('Isa', 60, 10))] דף 127v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_128r (('Isa', 60, 10), ('Isa', 61, 9))] דף 128r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_128v (('Isa', 61, 9), ('Isa', 63, 9))] דף 128v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_129r (('Isa', 63, 9), ('Isa', 65, 4))] דף 129r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_129v (('Isa', 65, 4), ('Isa', 65, 25))] דף 129v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_130r (('Isa', 65, 25), ('Isa', 66, 20))] דף 130r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_130v (('Isa', 66, 20), ('Jer', 1, 17))] דף 130v
-
-=== ספר ירמיהו ===
-'''ספר ירמיהו ...'''
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_130v (('Isa', 66, 20), ('Jer', 1, 17))] דף 130v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_131r (('Jer', 1, 17), ('Jer', 2, 20))] דף 131r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_131v (('Jer', 2, 20), ('Jer', 3, 5))] דף 131v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_132r (('Jer', 3, 5), ('Jer', 3, 24))] דף 132r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_132v (('Jer', 3, 24), ('Jer', 4, 20))] דף 132v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_133r (('Jer', 4, 20), ('Jer', 5, 12))] דף 133r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_133v (('Jer', 5, 12), ('Jer', 6, 4))] דף 133v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_134r (('Jer', 6, 4), ('Jer', 6, 24))] דף 134r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_134v (('Jer', 6, 24), ('Jer', 7, 15))] דף 134v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_135r (('Jer', 7, 16), ('Jer', 7, 34))] דף 135r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_135v (('Jer', 7, 34), ('Jer', 8, 18))] דף 135v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_136r (('Jer', 8, 18), ('Jer', 9, 16))] דף 136r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_136v (('Jer', 9, 16), ('Jer', 10, 12))] דף 136v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_137r (('Jer', 10, 12), ('Jer', 11, 8))] דף 137r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_137v (('Jer', 11, 8), ('Jer', 12, 4))] דף 137v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_138r (('Jer', 12, 4), ('Jer', 13, 9))] דף 138r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_138v (('Jer', 13, 9), ('Jer', 14, 2))] דף 138v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_139r (('Jer', 14, 2), ('Jer', 14, 20))] דף 139r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_139v (('Jer', 14, 20), ('Jer', 15, 19))] דף 139v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_140r (('Jer', 15, 19), ('Jer', 16, 16))] דף 140r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_140v (('Jer', 16, 16), ('Jer', 17, 19))] דף 140v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_141r (('Jer', 17, 19), ('Jer', 18, 11))] דף 141r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_141v (('Jer', 18, 11), ('Jer', 19, 7))] דף 141v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_142r (('Jer', 19, 7), ('Jer', 20, 9))] דף 142r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_142v (('Jer', 20, 9), ('Jer', 21, 12))] דף 142v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_143r (('Jer', 21, 12), ('Jer', 22, 19))] דף 143r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_143v (('Jer', 22, 19), ('Jer', 23, 8))] דף 143v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_144r (('Jer', 23, 9), ('Jer', 23, 30))] דף 144r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_144v (('Jer', 23, 30), ('Jer', 24, 9))] דף 144v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_145r (('Jer', 24, 9), ('Jer', 25, 17))] דף 145r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_145v (('Jer', 25, 17), ('Jer', 26, 1))] דף 145v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_146r (('Jer', 26, 1), ('Jer', 26, 19))] דף 146r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_146v (('Jer', 26, 19), ('Jer', 27, 12))] דף 146v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_147r (('Jer', 27, 12), ('Jer', 28, 7))] דף 147r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_147v (('Jer', 28, 7), ('Jer', 29, 9))] דף 147v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_148r (('Jer', 31, 35), ('Jer', 32, 14))] דף 148r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_148v (('Jer', 32, 19), ('Jer', 32, 35))] דף 148v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_149r (('Jer', 32, 35), ('Jer', 33, 10))] דף 149r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_149v (('Jer', 33, 10), ('Jer', 34, 4))] דף 149v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_150r (('Jer', 34, 4), ('Jer', 34, 22))] דף 150r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_150v (('Jer', 34, 22), ('Jer', 35, 18))] דף 150v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_151r (('Jer', 35, 18), ('Jer', 36, 16))] דף 151r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_151v (('Jer', 36, 16), ('Jer', 37, 2))] דף 151v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_152r (('Jer', 37, 2), ('Jer', 38, 2))] דף 152r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_152v (('Jer', 38, 2), ('Jer', 38, 18))] דף 152v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_153r (('Jer', 38, 18), ('Jer', 39, 9))] דף 153r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_153v (('Jer', 39, 9), ('Jer', 40, 7))] דף 153v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_154r (('Jer', 40, 7), ('Jer', 41, 6))] דף 154r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_154v (('Jer', 41, 7), ('Jer', 42, 4))] דף 154v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_155r (('Jer', 42, 4), ('Jer', 43, 1))] דף 155r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_155v (('Jer', 43, 1), ('Jer', 44, 5))] דף 155v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_156r (('Jer', 44, 5), ('Jer', 44, 20))] דף 156r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_156v (('Jer', 44, 20), ('Jer', 45, 5))] דף 156v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_157r (('Jer', 45, 5), ('Jer', 46, 25))] דף 157r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_157v (('Jer', 46, 25), ('Jer', 48, 11))] דף 157v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_158r (('Jer', 48, 11), ('Jer', 48, 40))] דף 158r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_158v (('Jer', 48, 40), ('Jer', 49, 18))] דף 158v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_159r (('Jer', 49, 18), ('Jer', 49, 39))] דף 159r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_159v (('Jer', 49, 39), ('Jer', 50, 21))] דף 159v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_160r (('Jer', 50, 21), ('Jer', 50, 45))] דף 160r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_160v (('Jer', 50, 45), ('Jer', 51, 25))] דף 160v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_161r (('Jer', 51, 25), ('Jer', 51, 49))] דף 161r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_161v (('Jer', 51, 49), ('Jer', 52, 6))] דף 161v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_162r (('Jer', 52, 6), ('Jer', 52, 25))] דף 162r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_162v (('Jer', 52, 25), ('Ezek', 1, 13))] דף 162v
-
-=== ספר יחזקאל ===
-'''ספר יחזקאל ...'''
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_162v (('Jer', 52, 25), ('Ezek', 1, 13))] דף 162v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_163r (('Ezek', 1, 13), ('Ezek', 2, 8))] דף 163r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_163v (('Ezek', 2, 8), ('Ezek', 3, 21))] דף 163v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_164r (('Ezek', 3, 21), ('Ezek', 4, 14))] דף 164r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_164v (('Ezek', 4, 14), ('Ezek', 5, 16))] דף 164v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_165r (('Ezek', 5, 16), ('Ezek', 7, 8))] דף 165r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_165v (('Ezek', 7, 8), ('Ezek', 8, 4))] דף 165v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_166r (('Ezek', 8, 4), ('Ezek', 9, 4))] דף 166r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_166v (('Ezek', 9, 4), ('Ezek', 10, 14))] דף 166v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_167r (('Ezek', 10, 14), ('Ezek', 11, 15))] דף 167r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_167v (('Ezek', 11, 15), ('Ezek', 12, 12))] דף 167v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_168r (('Ezek', 12, 12), ('Ezek', 13, 9))] דף 168r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_168v (('Ezek', 13, 9), ('Ezek', 14, 6))] דף 168v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_169r (('Ezek', 14, 6), ('Ezek', 15, 4))] דף 169r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_169v (('Ezek', 15, 4), ('Ezek', 16, 24))] דף 169v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_170r (('Ezek', 16, 24), ('Ezek', 16, 50))] דף 170r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_170v (('Ezek', 16, 50), ('Ezek', 17, 13))] דף 170v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_171r (('Ezek', 17, 13), ('Ezek', 18, 15))] דף 171r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_171v (('Ezek', 18, 15), ('Ezek', 19, 9))] דף 171v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_172r (('Ezek', 19, 9), ('Ezek', 20, 19))] דף 172r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_172v (('Ezek', 20, 19), ('Ezek', 20, 40))] דף 172v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_173r (('Ezek', 20, 40), ('Ezek', 21, 19))] דף 173r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_173v (('Ezek', 21, 20), ('Ezek', 22, 7))] דף 173v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_174r (('Ezek', 22, 7), ('Ezek', 23, 4))] דף 174r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_174v (('Ezek', 23, 4), ('Ezek', 23, 30))] דף 174v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_175r (('Ezek', 23, 30), ('Ezek', 24, 7))] דף 175r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_175v (('Ezek', 24, 7), ('Ezek', 25, 4))] דף 175v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_176r (('Ezek', 25, 4), ('Ezek', 26, 11))] דף 176r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_176v (('Ezek', 26, 11), ('Ezek', 27, 17))] דף 176v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_177r (('Ezek', 27, 17), ('Ezek', 28, 13))] דף 177r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_177v (('Ezek', 28, 13), ('Ezek', 29, 10))] דף 177v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_178r (('Ezek', 29, 10), ('Ezek', 30, 12))] דף 178r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_178v (('Ezek', 30, 12), ('Ezek', 31, 9))] דף 178v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_179r (('Ezek', 31, 9), ('Ezek', 32, 12))] דף 179r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_179v (('Ezek', 32, 12), ('Ezek', 33, 2))] דף 179v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_180r (('Ezek', 33, 2), ('Ezek', 33, 25))] דף 180r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_180v (('Ezek', 33, 25), ('Ezek', 34, 13))] דף 180v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_181r (('Ezek', 34, 13), ('Ezek', 35, 9))] דף 181r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_181v (('Ezek', 35, 9), ('Ezek', 36, 15))] דף 181v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_182r (('Ezek', 36, 15), ('Ezek', 36, 37))] דף 182r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_182v (('Ezek', 36, 38), ('Ezek', 37, 22))] דף 182v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_183r (('Ezek', 37, 22), ('Ezek', 38, 16))] דף 183r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_183v (('Ezek', 38, 16), ('Ezek', 39, 15))] דף 183v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_184r (('Ezek', 39, 15), ('Ezek', 40, 7))] דף 184r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_184v (('Ezek', 40, 8), ('Ezek', 40, 33))] דף 184v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_185r (('Ezek', 40, 33), ('Ezek', 41, 6))] דף 185r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_185v (('Ezek', 41, 6), ('Ezek', 42, 3))] דף 185v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_186r (('Ezek', 42, 3), ('Ezek', 43, 7))] דף 186r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_186v (('Ezek', 43, 7), ('Ezek', 43, 27))] דף 186v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_187r (('Ezek', 43, 27), ('Ezek', 44, 19))] דף 187r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_187v (('Ezek', 44, 19), ('Ezek', 45, 8))] דף 187v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_188r (('Ezek', 45, 8), ('Ezek', 46, 3))] דף 188r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_188v (('Ezek', 46, 3), ('Ezek', 46, 23))] דף 188v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_189r (('Ezek', 46, 24), ('Ezek', 47, 22))] דף 189r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_189v (('Ezek', 47, 22), ('Ezek', 48, 20))] דף 189v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_190r (('Ezek', 48, 20), ('Hos', 1, 6))] דף 190r
-
-=== הושע ===
-'''הושע ...'''
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_190r (('Ezek', 48, 20), ('Hos', 1, 6))] דף 190r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_190v (('Hos', 1, 6), ('Hos', 2, 20))] דף 190v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_191r (('Hos', 2, 20), ('Hos', 4, 16))] דף 191r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_191v (('Hos', 4, 16), ('Hos', 7, 2))] דף 191v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_192r (('Hos', 7, 2), ('Hos', 9, 3))] דף 192r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_192v (('Hos', 9, 3), ('Hos', 10, 11))] דף 192v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_193r (('Hos', 10, 11), ('Hos', 12, 15))] דף 193r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_193v (('Hos', 12, 15), ('Joel', 1, 4))] דף 193v
-
-=== יואל ===
-'''יואל ...'''
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_193v (('Hos', 12, 15), ('Joel', 1, 4))] דף 193v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_194r (('Joel', 1, 4), ('Joel', 2, 10))] דף 194r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_194v (('Joel', 2, 10), ('Joel', 4, 1))] דף 194v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_195r (('Joel', 4, 1), ('Amos', 1, 3))] דף 195r
-
-=== עמוס ===
-'''עמוס ...'''
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_195r (('Joel', 4, 1), ('Amos', 1, 3))] דף 195r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_195v (('Amos', 1, 4), ('Amos', 2, 10))] דף 195v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_196r (('Amos', 2, 10), ('Amos', 4, 6))] דף 196r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_196v (('Amos', 4, 6), ('Amos', 5, 19))] דף 196v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_197r (('Amos', 5, 19), ('Amos', 7, 7))] דף 197r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_197v (('Amos', 7, 8), ('Amos', 8, 12))] דף 197v
-
-=== מיכה ===
-'''מיכה ...'''
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_198r (('Mic', 5, 1), ('Mic', 6, 14))] דף 198r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_198v (('Mic', 6, 14), ('Nah', 1, 4))] דף 198v
-
-=== נחום ===
-'''נחום ...'''
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_198v (('Mic', 6, 14), ('Nah', 1, 4))] דף 198v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_199r (('Nah', 1, 4), ('Nah', 3, 4))] דף 199r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_199v (('Nah', 3, 4), ('Hab', 1, 12))] דף 199v
-
-=== חבקוק ===
-'''חבקוק ...'''
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_199v (('Nah', 3, 4), ('Hab', 1, 12))] דף 199v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_200r (('Hab', 1, 12), ('Hab', 3, 1))] דף 200r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_200v (('Hab', 3, 1), ('Zeph', 1, 8))] דף 200v
-
-=== צפניה ===
-'''צפניה ...'''
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_200v (('Hab', 3, 1), ('Zeph', 1, 8))] דף 200v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_201r (('Zeph', 1, 8), ('Zeph', 2, 13))] דף 201r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_201v (('Zeph', 2, 13), ('Zeph', 3, 20))] דף 201v
-
-=== זכריה ===
-'''זכריה ...'''
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_202r (('Zech', 9, 17), ('Zech', 11, 13))] דף 202r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_202v (('Zech', 11, 13), ('Zech', 13, 2))] דף 202v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_203r (('Zech', 13, 2), ('Zech', 14, 13))] דף 203r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_203v (('Zech', 14, 13), ('Mal', 1, 12))] דף 203v
-
-=== מלאכי ===
-'''מלאכי ...'''
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_203v (('Zech', 14, 13), ('Mal', 1, 12))] דף 203v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_204r (('Mal', 1, 12), ('Mal', 3, 2))] דף 204r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_204v (('Mal', 3, 2), ('Mal', 3, 24))] דף 204v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_205r (('Mal', 3, 24), ('Mal', 3, 24))] דף 205r
-
-=== דברי הימים א ===
-'''דברי הימים א ...'''
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_205v (('1 Chron', 1, 1), ('1 Chron', 1, 45))] דף 205v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_206r (('1 Chron', 1, 45), ('1 Chron', 2, 26))] דף 206r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_206v (('1 Chron', 2, 26), ('1 Chron', 3, 4))] דף 206v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_207r (('1 Chron', 3, 5), ('1 Chron', 4, 16))] דף 207r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_207v (('1 Chron', 4, 16), ('1 Chron', 5, 2))] דף 207v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_208r (('1 Chron', 5, 3), ('1 Chron', 5, 29))] דף 208r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_208v (('1 Chron', 5, 29), ('1 Chron', 6, 30))] דף 208v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_209r (('1 Chron', 6, 30), ('1 Chron', 6, 58))] דף 209r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_209v (('1 Chron', 6, 58), ('1 Chron', 7, 18))] דף 209v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_210r (('1 Chron', 7, 18), ('1 Chron', 8, 16))] דף 210r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_210v (('1 Chron', 8, 16), ('1 Chron', 9, 13))] דף 210v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_211r (('1 Chron', 9, 13), ('1 Chron', 10, 1))] דף 211r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_211v (('1 Chron', 10, 1), ('1 Chron', 11, 11))] דף 211v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_212r (('1 Chron', 11, 11), ('1 Chron', 11, 40))] דף 212r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_212v (('1 Chron', 11, 40), ('1 Chron', 12, 21))] דף 212v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_213r (('1 Chron', 12, 21), ('1 Chron', 13, 4))] דף 213r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_213v (('1 Chron', 13, 4), ('1 Chron', 14, 16))] דף 213v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_214r (('1 Chron', 14, 16), ('1 Chron', 15, 26))] דף 214r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_214v (('1 Chron', 15, 26), ('1 Chron', 16, 28))] דף 214v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_215r (('1 Chron', 16, 29), ('1 Chron', 17, 11))] דף 215r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_215v (('1 Chron', 17, 11), ('1 Chron', 18, 9))] דף 215v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_216r (('1 Chron', 18, 9), ('1 Chron', 19, 15))] דף 216r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_216v (('1 Chron', 19, 15), ('1 Chron', 21, 8))] דף 216v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_217r (('1 Chron', 21, 8), ('1 Chron', 21, 29))] דף 217r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_217v (('1 Chron', 21, 30), ('1 Chron', 23, 1))] דף 217v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_218r (('1 Chron', 23, 1), ('1 Chron', 23, 32))] דף 218r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_218v (('1 Chron', 23, 32), ('1 Chron', 24, 31))] דף 218v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_219r (('1 Chron', 24, 31), ('1 Chron', 25, 28))] דף 219r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_219v (('1 Chron', 25, 28), ('1 Chron', 26, 27))] דף 219v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_220r (('1 Chron', 26, 27), ('1 Chron', 27, 14))] דף 220r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_220v (('1 Chron', 27, 14), ('1 Chron', 28, 3))] דף 220v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_221r (('1 Chron', 28, 3), ('1 Chron', 28, 21))] דף 221r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_221v (('1 Chron', 28, 21), ('1 Chron', 29, 20))] דף 221v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_222r (('1 Chron', 29, 20), ('2 Chron', 1, 11))] דף 222r
-
-=== דברי הימים ב ===
-'''דברי הימים ב ...'''
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_222r (('1 Chron', 29, 20), ('2 Chron', 1, 11))] דף 222r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_222v (('2 Chron', 1, 11), ('2 Chron', 2, 11))] דף 222v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_223r (('2 Chron', 2, 11), ('2 Chron', 3, 13))] דף 223r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_223v (('2 Chron', 3, 13), ('2 Chron', 4, 16))] דף 223v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_224r (('2 Chron', 4, 16), ('2 Chron', 5, 13))] דף 224r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_224v (('2 Chron', 5, 14), ('2 Chron', 6, 20))] דף 224v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_225r (('2 Chron', 6, 20), ('2 Chron', 6, 35))] דף 225r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_225v (('2 Chron', 6, 35), ('2 Chron', 7, 11))] דף 225v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_226r (('2 Chron', 7, 11), ('2 Chron', 8, 9))] דף 226r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_226v (('2 Chron', 8, 10), ('2 Chron', 9, 9))] דף 226v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_227r (('2 Chron', 9, 9), ('2 Chron', 9, 29))] דף 227r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_227v (('2 Chron', 9, 29), ('2 Chron', 10, 18))] דף 227v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_228r (('2 Chron', 10, 18), ('2 Chron', 12, 2))] דף 228r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_228v (('2 Chron', 12, 2), ('2 Chron', 13, 6))] דף 228v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_229r (('2 Chron', 13, 6), ('2 Chron', 14, 4))] דף 229r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_229v (('2 Chron', 14, 4), ('2 Chron', 15, 11))] דף 229v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_230r (('2 Chron', 15, 11), ('2 Chron', 16, 12))] דף 230r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_230v (('2 Chron', 16, 12), ('2 Chron', 18, 2))] דף 230v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_231r (('2 Chron', 18, 2), ('2 Chron', 18, 22))] דף 231r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_231v (('2 Chron', 18, 22), ('2 Chron', 19, 10))] דף 231v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_232r (('2 Chron', 19, 10), ('2 Chron', 20, 19))] דף 232r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_232v (('2 Chron', 20, 19), ('2 Chron', 21, 3))] דף 232v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_233r (('2 Chron', 21, 3), ('2 Chron', 22, 3))] דף 233r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_233v (('2 Chron', 22, 3), ('2 Chron', 23, 8))] דף 233v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_234r (('2 Chron', 23, 8), ('2 Chron', 24, 6))] דף 234r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_234v (('2 Chron', 24, 6), ('2 Chron', 24, 25))] דף 234v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_235r (('2 Chron', 24, 25), ('2 Chron', 25, 16))] דף 235r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_235v (('2 Chron', 25, 16), ('2 Chron', 26, 7))] דף 235v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_236r (('2 Chron', 26, 8), ('2 Chron', 27, 5))] דף 236r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_236v (('2 Chron', 27, 5), ('2 Chron', 28, 15))] דף 236v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_237r (('2 Chron', 28, 15), ('2 Chron', 29, 10))] דף 237r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_237v (('2 Chron', 29, 10), ('2 Chron', 29, 28))] דף 237v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_238r (('2 Chron', 29, 28), ('2 Chron', 30, 12))] דף 238r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_238v (('2 Chron', 30, 12), ('2 Chron', 31, 2))] דף 238v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_239r (('2 Chron', 31, 2), ('2 Chron', 32, 1))] דף 239r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_239v (('2 Chron', 32, 1), ('2 Chron', 32, 21))] דף 239v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_240r (('2 Chron', 32, 21), ('2 Chron', 33, 8))] דף 240r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_240v (('2 Chron', 33, 8), ('2 Chron', 34, 4))] דף 240v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_241r (('2 Chron', 34, 4), ('2 Chron', 34, 22))] דף 241r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_241v (('2 Chron', 34, 22), ('2 Chron', 35, 7))] דף 241v
-#[None (('2 Chron', 35, 7), ('2 Chron', 35, 25))] דף 241ar
-#[None (('2 Chron', 35, 25), ('2 Chron', 36, 19))] דף 241av
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_242r (('2 Chron', 36, 19), ('Ps', 4, 5))] דף 242r
-
-=== ספר תהלים ===
-'''ספר תהלים ...'''
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_242r (('2 Chron', 36, 19), ('Ps', 4, 5))] דף 242r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_242v (('Ps', 4, 6), ('Ps', 7, 18))] דף 242v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_243r (('Ps', 8, 1), ('Ps', 10, 14))] דף 243r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_243v (('Ps', 10, 14), ('Ps', 14, 7))] דף 243v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_244r (('Ps', 25, 2), ('Ps', 27, 11))] דף 244r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_244v (('Ps', 27, 11), ('Ps', 31, 5))] דף 244v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_245r (('Ps', 31, 6), ('Ps', 33, 12))] דף 245r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_245v (('Ps', 33, 12), ('Ps', 35, 15))] דף 245v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_246r (('Ps', 35, 16), ('Ps', 37, 19))] דף 246r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_246v (('Ps', 37, 20), ('Ps', 39, 5))] דף 246v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_247r (('Ps', 39, 5), ('Ps', 41, 9))] דף 247r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_247v (('Ps', 41, 9), ('Ps', 44, 10))] דף 247v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_248r (('Ps', 44, 11), ('Ps', 46, 8))] דף 248r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_248v (('Ps', 46, 9), ('Ps', 49, 15))] דף 248v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_249r (('Ps', 49, 15), ('Ps', 51, 14))] דף 249r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_249v (('Ps', 51, 14), ('Ps', 55, 6))] דף 249v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_250r (('Ps', 55, 6), ('Ps', 57, 7))] דף 250r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_250v (('Ps', 57, 7), ('Ps', 60, 3))] דף 250v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_251r (('Ps', 60, 4), ('Ps', 63, 6))] דף 251r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_251v (('Ps', 63, 7), ('Ps', 66, 7))] דף 251v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_252r (('Ps', 66, 7), ('Ps', 68, 19))] דף 252r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_252v (('Ps', 68, 19), ('Ps', 69, 19))] דף 252v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_253r (('Ps', 69, 19), ('Ps', 71, 17))] דף 253r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_253v (('Ps', 71, 18), ('Ps', 73, 10))] דף 253v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_254r (('Ps', 73, 11), ('Ps', 74, 22))] דף 254r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_254v (('Ps', 74, 23), ('Ps', 77, 16))] דף 254v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_255r (('Ps', 77, 17), ('Ps', 78, 38))] דף 255r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_255v (('Ps', 78, 38), ('Ps', 79, 7))] דף 255v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_256r (('Ps', 79, 7), ('Ps', 81, 14))] דף 256r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_256v (('Ps', 81, 15), ('Ps', 84, 11))] דף 256v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_257r (('Ps', 84, 11), ('Ps', 87, 6))] דף 257r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_257v (('Ps', 87, 7), ('Ps', 89, 22))] דף 257v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_258r (('Ps', 89, 22), ('Ps', 90, 15))] דף 258r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_258v (('Ps', 90, 15), ('Ps', 94, 5))] דף 258v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_259r (('Ps', 94, 6), ('Ps', 97, 2))] דף 259r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_259v (('Ps', 97, 3), ('Ps', 101, 2))] דף 259v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_260r (('Ps', 101, 3), ('Ps', 103, 9))] דף 260r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_260v (('Ps', 103, 9), ('Ps', 104, 29))] דף 260v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_261r (('Ps', 104, 29), ('Ps', 105, 44))] דף 261r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_261v (('Ps', 105, 45), ('Ps', 106, 45))] דף 261v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_262r (('Ps', 106, 46), ('Ps', 107, 41))] דף 262r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_262v (('Ps', 107, 42), ('Ps', 109, 30))] דף 262v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_263r (('Ps', 109, 30), ('Ps', 114, 1))] דף 263r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_263v (('Ps', 114, 2), ('Ps', 118, 1))] דף 263v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_264r (('Ps', 118, 2), ('Ps', 119, 23))] דף 264r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_264v (('Ps', 119, 24), ('Ps', 119, 72))] דף 264v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_265r (('Ps', 119, 73), ('Ps', 119, 121))] דף 265r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_265v (('Ps', 119, 122), ('Ps', 119, 170))] דף 265v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_266r (('Ps', 119, 171), ('Ps', 124, 5))] דף 266r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_266v (('Ps', 124, 6), ('Ps', 130, 1))] דף 266v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_267r (('Ps', 130, 1), ('Ps', 135, 2))] דף 267r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_267v (('Ps', 135, 3), ('Ps', 137, 4))] דף 267v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_268r (('Ps', 137, 4), ('Ps', 140, 3))] דף 268r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_268v (('Ps', 140, 3), ('Ps', 143, 5))] דף 268v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_269r (('Ps', 143, 5), ('Ps', 145, 20))] דף 269r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_269v (('Ps', 145, 21), ('Ps', 148, 14))] דף 269v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_270r (('Ps', 149, 1), ('Job', 1, 16))] דף 270r
-
-=== ספר איוב ===
-'''ספר איוב ...'''
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_270r (('Ps', 149, 1), ('Job', 1, 16))] דף 270r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_270v (('Job', 1, 16), ('Job', 3, 6))] דף 270v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_271r (('Job', 3, 6), ('Job', 5, 10))] דף 271r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_271v (('Job', 5, 10), ('Job', 6, 30))] דף 271v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_272r (('Job', 7, 1), ('Job', 9, 5))] דף 272r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_272v (('Job', 9, 5), ('Job', 10, 20))] דף 272v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_273r (('Job', 10, 20), ('Job', 13, 2))] דף 273r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_273v (('Job', 13, 2), ('Job', 14, 21))] דף 273v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_274r (('Job', 14, 22), ('Job', 16, 12))] דף 274r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_274v (('Job', 16, 13), ('Job', 19, 6))] דף 274v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_275r (('Job', 19, 7), ('Job', 20, 26))] דף 275r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_275v (('Job', 20, 27), ('Job', 22, 13))] דף 275v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_276r (('Job', 22, 13), ('Job', 24, 14))] דף 276r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_276v (('Job', 24, 15), ('Job', 27, 16))] דף 276v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_277r (('Job', 27, 16), ('Job', 29, 14))] דף 277r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_277v (('Job', 29, 14), ('Job', 31, 6))] דף 277v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_278r (('Job', 31, 7), ('Job', 32, 7))] דף 278r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_278v (('Job', 32, 8), ('Job', 33, 33))] דף 278v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_279r (('Job', 34, 1), ('Job', 35, 10))] דף 279r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_279v (('Job', 35, 10), ('Job', 37, 9))] דף 279v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_280r (('Job', 37, 9), ('Job', 38, 30))] דף 280r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_280v (('Job', 38, 31), ('Job', 40, 5))] דף 280v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_281r (('Job', 40, 6), ('Job', 41, 22))] דף 281r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_281v (('Job', 41, 23), ('Prov', 1, 8))] דף 281v
-
-=== ספר משלי ===
-'''ספר משלי ...'''
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_281v (('Job', 41, 23), ('Prov', 1, 8))] דף 281v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_282r (('Prov', 1, 9), ('Prov', 2, 16))] דף 282r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_282v (('Prov', 2, 16), ('Prov', 4, 1))] דף 282v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_283r (('Prov', 4, 1), ('Prov', 5, 17))] דף 283r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_283v (('Prov', 5, 18), ('Prov', 6, 31))] דף 283v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_284r (('Prov', 6, 31), ('Prov', 8, 13))] דף 284r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_284v (('Prov', 8, 13), ('Prov', 10, 3))] דף 284v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_285r (('Prov', 10, 3), ('Prov', 11, 13))] דף 285r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_285v (('Prov', 11, 14), ('Prov', 12, 25))] דף 285v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_286r (('Prov', 12, 25), ('Prov', 14, 17))] דף 286r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_286v (('Prov', 14, 18), ('Prov', 15, 27))] דף 286v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_287r (('Prov', 15, 28), ('Prov', 17, 8))] דף 287r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_287v (('Prov', 17, 9), ('Prov', 19, 4))] דף 287v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_288r (('Prov', 19, 4), ('Prov', 20, 23))] דף 288r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_288v (('Prov', 20, 23), ('Prov', 22, 10))] דף 288v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_289r (('Prov', 22, 11), ('Prov', 23, 29))] דף 289r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_289v (('Prov', 23, 29), ('Prov', 24, 32))] דף 289v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_290r (('Prov', 24, 33), ('Prov', 26, 12))] דף 290r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_290v (('Prov', 26, 13), ('Prov', 28, 2))] דף 290v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_291r (('Prov', 28, 2), ('Prov', 29, 16))] דף 291r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_291v (('Prov', 29, 17), ('Prov', 30, 24))] דף 291v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_292r (('Prov', 30, 25), ('Prov', 31, 31))] דף 292r
-
-=== מגילת רות ===
-'''מגילת רות ...'''
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_292v (('Ruth', 1, 1), ('Ruth', 2, 3))] דף 292v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_293r (('Ruth', 2, 3), ('Ruth', 3, 2))] דף 293r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_293v (('Ruth', 3, 2), ('Ruth', 4, 7))] דף 293v
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_294r (('Ruth', 4, 7), ('Song', 1, 12))] דף 294r
-
-=== מגילת שיר השירים ===
-'''מגילת שיר השירים ...'''
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_294r (('Ruth', 4, 7), ('Song', 1, 12))] דף 294r
-#[https://barhama.com/aleppocodex/?image=ALEPPO_CODEX_294v (('Song', 1, 12), ('Song', 3, 11))] דף 294v

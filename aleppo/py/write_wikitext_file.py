@@ -20,13 +20,28 @@ def _lines_for_one_book(bkna_and_entries):
 
 def _lines_for_one_entry(entry):
     url = entry["de_url"]
-    visible = str(entry["de_text_range"])
+    visible = _heb_range(entry["de_text_range"])
     anchor = f"[{url} {visible}]"
-    daf_num_ab = entry["de_leaf"]
-    daf = f"דף {daf_num_ab}"
+    daf_num_ab = _rv_ab(entry["de_leaf"])
+    daf = f"(דף {daf_num_ab})"
     return "#" + anchor + " " + daf
+
+
+def _heb_range(text_range):
+    start, stop = text_range
+    return str(text_range)
+
+
+def _rv_ab(leaf):  # r becomes א; v becomes ב
+    return leaf[:-1] + _RV_AB[leaf[-1]]
 
 
 def _write_callback(lines, out_fp):
     for line in lines:
         out_fp.write(line + "\n")
+
+
+_RV_AB = {
+    'r': 'א',
+    'v': 'ב',
+}
