@@ -1,8 +1,8 @@
-""" Exports read_all_books, read. """
+"""Exports read_all_books, read."""
 
 import xml.etree.ElementTree
 
-import my_tanakh_book_names as tbn
+import py.my_tanakh_book_names as tbn
 
 
 def read_all_books(handlers=None):

@@ -1,15 +1,15 @@
 """
-    Exports:
-        calc
-        make_none
-        make_zero
-        get_word_count
-        add
-        subtract
-        rekey
+Exports:
+    calc
+    make_none
+    make_zero
+    get_word_count
+    add
+    subtract
+    rekey
 """
 
-import my_uxlc_cvp as cvp
+import py.my_uxlc_cvp as cvp
 
 
 def calc(uxlc, std_bkid, cvp_range):

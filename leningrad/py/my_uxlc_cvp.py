@@ -1,4 +1,4 @@
-""" Exports make, chapnver, get_povr, decrement_povr, set_povr """
+"""Exports make, chapnver, get_povr, decrement_povr, set_povr"""
 
 
 def make(chnu, vrnu, povr):

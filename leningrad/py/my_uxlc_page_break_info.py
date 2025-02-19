@@ -1,16 +1,16 @@
 """
-    Exports:
-        read_in
-        read_lci_recs_dot_json
-        get_lci_augrecs
-        get_lci_augrecs_real
-        get_page_lengths
-        get_book_order
+Exports:
+    read_in
+    read_lci_recs_dot_json
+    get_lci_augrecs
+    get_lci_augrecs_real
+    get_page_lengths
+    get_book_order
 """
 
 import json
-import my_uxlc_lci_rec as lci_rec
-import my_uxlc_lci_augrec as lci_augrec
+import py.my_uxlc_lci_rec as lci_rec
+import py.my_uxlc_lci_augrec as lci_augrec
 
 
 def read_in(uxlc):
