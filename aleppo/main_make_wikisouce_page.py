@@ -9,7 +9,6 @@ def main():
     data_entries = read_csv_file(_CSV_IN_PATH, _JSON_OUT_PATH_1)
     grouped = group_by_book(data_entries, _JSON_OUT_PATH_2)
     write_wikitext_file(grouped, _WIKITEXT_OUT_PATH)
-    pass
 
 
 _CSV_IN_PATH = "aleppo/J David Stark Aleppo Codex Index.csv"
