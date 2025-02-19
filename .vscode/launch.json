@@ -15,7 +15,8 @@
             "name": "UXLC estimate atom location",
             "type": "debugpy",
             "request": "launch",
-            "program": "leningrad/py/main_uxlc_estimate_atom_loc.py",
+            "cwd": "${workspaceFolder}/leningrad",
+            "program": "main_uxlc_estimate_atom_loc.py",
             "args": ["Genesis", "24", "24", "3"],
             "console": "integratedTerminal"
         }

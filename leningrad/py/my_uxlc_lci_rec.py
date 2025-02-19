@@ -51,18 +51,6 @@ def get_cvp_stop(lci_rec):
     return cvp_range and cvp_range[1]
 
 
-def starts_with_part_b(lcir):
-    """Tell whether the cvp range starts with part b of a verse."""
-    cvp_start = get_cvp_start(lcir)
-    return _bcv_if_povr_is(lcir, cvp_start, "b")
-
-
-def stops_with_part_a(lcir):
-    """Tell whether the cvp range stops with part a of a verse."""
-    cvp_stop = get_cvp_stop(lcir)
-    return _bcv_if_povr_is(lcir, cvp_stop, "a")
-
-
 def set_povrs(lcir, new_start_povr, new_stop_povr):
     """Refine the "part of verse" field of the start and/or stop"""
     pgid = get_pgid(lcir)
@@ -164,12 +152,3 @@ def _unflatten_cvp_range(lci_rec_f):
         return None
     assert all(cvp_range_6tuple)
     return cvp_start, cvp_stop
-
-
-def _bcv_if_povr_is(lcir, the_cvp, a_or_b):
-    bkid = get_bkid(lcir)
-    if bkid is None:
-        return None
-    if cvp.get_povr(the_cvp) != a_or_b:
-        return None
-    return bkid, *cvp.chapnver(the_cvp)
