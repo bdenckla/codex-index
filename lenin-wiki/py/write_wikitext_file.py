@@ -9,26 +9,26 @@ def write_wikitext_file(grouped, out_path):
     my_open.with_tmp_openw(out_path, {}, _write_callback, lines)
 
 
-def _lines_for_one_book(bkna_and_entries):
-    lat_bkna, entries = bkna_and_entries
+def _lines_for_one_book(bkna_and_rows):
+    lat_bkna, rows = bkna_and_rows
     heb_bkna = LATIN_TO_HEBREW[lat_bkna]
     line_1_for_book = "=== " + heb_bkna + " ==="
     line_2_for_book = "'''" + heb_bkna + " ...'''"
-    lines_for_entries = sum_of_map(_lines_for_one_entry, entries)
-    return ["", line_1_for_book, line_2_for_book, *lines_for_entries]
+    lines_for_rows = sum_of_map(_lines_for_one_row, rows)
+    return ["", line_1_for_book, line_2_for_book, *lines_for_rows]
 
 
-def _lines_for_one_entry(entry):
-    url = entry["de_url"]
-    leaf = entry["de_leaf"]
+def _lines_for_one_row(row):
+    url = row["de_url"]
+    leaf = row["de_leaf"]
     if not url:
         return [f'# {leaf} N/A']
-    visible = _heb_range(entry["de_text_range"])
+    visible = _heb_range(row["de_text_range"])
     anchor = f"[{url} {visible}]"
     daf_num_ab = _rv_ab(leaf)
     daf = f"(דף {daf_num_ab})"
     main_line = "#" + anchor + " " + daf
-    gap = entry["de_gap"]
+    gap = row["de_gap"]
     if not gap:
         return [main_line]
     if gap == "Before":

@@ -13,7 +13,7 @@ def main():
     grouped = group_by_book(annotated["body"])
     my_open.json_dump_to_file_path(grouped, _JSON_OUT_PATH_2)
     #
-    # write_wikitext_file(grouped, _WIKITEXT_OUT_PATH)
+    write_wikitext_file(grouped, _WIKITEXT_OUT_PATH)
 
 
 _JSON_IN_PATH = "leningrad/out/UXLC-misc/lci_augrecs.json"
