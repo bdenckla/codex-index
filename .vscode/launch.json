@@ -12,6 +12,13 @@
             "console": "integratedTerminal"
         },
         {
+            "name": "Leningrad make Wikisource page",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "lenin-wiki/main_make_wikisouce_page.py",
+            "console": "integratedTerminal"
+        },
+        {
             "name": "UXLC estimate atom location",
             "type": "debugpy",
             "request": "launch",

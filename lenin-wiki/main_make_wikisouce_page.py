@@ -6,9 +6,9 @@ from py.write_wikitext_file import write_wikitext_file
 
 
 def main():
-    data_entries = read_json_file(_JSON_IN_PATH, _JSON_OUT_PATH_1)
-    grouped = group_by_book(data_entries, _JSON_OUT_PATH_2)
-    write_wikitext_file(grouped, _WIKITEXT_OUT_PATH)
+    rows = read_json_file(_JSON_IN_PATH, _JSON_OUT_PATH_1)
+    # grouped = group_by_book(rows, _JSON_OUT_PATH_2)
+    # write_wikitext_file(grouped, _WIKITEXT_OUT_PATH)
 
 
 _JSON_IN_PATH = "leningrad/out/UXLC-misc/lci_augrecs.json"
