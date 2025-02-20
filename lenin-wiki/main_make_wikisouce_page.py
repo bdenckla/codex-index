@@ -3,11 +3,16 @@
 from py.read_json_file import read_json_file
 from py.group_by_book import group_by_book
 from py.write_wikitext_file import write_wikitext_file
+import py.my_open as my_open
 
 
 def main():
-    rows = read_json_file(_JSON_IN_PATH, _JSON_OUT_PATH_1)
-    # grouped = group_by_book(rows, _JSON_OUT_PATH_2)
+    annotated = read_json_file(_JSON_IN_PATH)
+    my_open.json_dump_to_file_path(annotated, _JSON_OUT_PATH_1)
+    #
+    grouped = group_by_book(annotated["body"])
+    my_open.json_dump_to_file_path(grouped, _JSON_OUT_PATH_2)
+    #
     # write_wikitext_file(grouped, _WIKITEXT_OUT_PATH)
 
 

@@ -178,7 +178,16 @@ def _even_odd_foc(foc_pair, idx_and_elem):
 
 def my_groupby(iterable, keyfunc):
     groups = groupby(iterable, keyfunc)
-    return {k: list(v) for k, v in groups}
+    # This is what we used to do here:
+    #     return {k: list(v) for k, v in groups}
+    # But this isn't what we want if there are noncontiguous groups at the same key.
+    # It isn't what we want because it overwrites in such a case.
+    # We want to assert.
+    out = {}
+    for k, v in groups:
+        assert k not in out
+        out[k] = list(v)
+    return out
 
 
 def sum_of_seqs(seq_of_seqs):
