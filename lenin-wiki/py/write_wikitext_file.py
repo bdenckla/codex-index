@@ -56,7 +56,7 @@ def _mref(row, keyc, keyv, keyp, keyl):
     assert maxp != 1
     if row[keyp] == 1:
         fml = "fml-first"
-    elif row[keyp] == row[keyl]:
+    elif row[keyp] == maxp:
         fml = "fml-last"
     else:
         fml = "fml-mid"
@@ -77,7 +77,7 @@ def _brackets(text_range):
     sta_bcvy, sto_bcvy = text_range
     sta_fml, sto_fml = sta_bcvy[3], sto_bcvy[3]
     sta_brac = "[" if sta_fml == "fml-first" else "("
-    sto_brac = "]" if sta_fml == "fml-last" else ")"
+    sto_brac = "]" if sto_fml == "fml-last" else ")"
     return sta_brac, sto_brac
 
 
