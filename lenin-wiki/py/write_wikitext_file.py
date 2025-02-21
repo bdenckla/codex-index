@@ -1,5 +1,6 @@
 import py.my_open as my_open
 import py.hebrew_verse_numerals as hvn
+import py.image_urls as iu
 from py.mam_book_names_and_std_book_names import he_bk39_name
 from py.my_utils import sum_of_map, sl_map
 
@@ -13,7 +14,7 @@ def _lines_for_one_book(bkna_and_rows):
     bk39id_mostly, rows = bkna_and_rows
     if bk39id_mostly in (_MAS_LISTS_TORAH, _MAS_LISTS_PROPHETS):
         heb_bkna = bk39id_mostly
-        lines_for_rows = sl_map((_line_for_non_bib_row, bk39id_mostly), rows)
+        lines_for_rows = sl_map((_line_for_any_row, bk39id_mostly), rows)
     else:
         heb_bkna = he_bk39_name(bk39id_mostly)
         lines_for_rows = sl_map(_line_for_bib_row, rows)
@@ -23,24 +24,18 @@ def _lines_for_one_book(bkna_and_rows):
 
 
 def _line_for_bib_row(row):
-    page = row["page"]
-    assert page
-    url = f"https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F{page}.jpg"
     visible = _heb_range(_text_range(row))
+    return _line_for_any_row(visible, row)
+
+
+def _line_for_any_row(visible, row):
+    page_ddda = row["page"]
+    assert page_ddda
+    urls = iu.image_urls(page_ddda)
+    url = urls["sefa"]
     anchor = f"[{url} <nowiki>{visible}</nowiki>]"
     # We use <nowiki>...</nowiki> to avoid problems when there are square brackets in "visible".
-    daf_num_ab = _cacb_hahb(page)
-    daf = f"(דף {daf_num_ab})"
-    main_line = "#" + anchor + " " + daf
-    return main_line
-
-
-def _line_for_non_bib_row(visible, row):
-    page = row["page"]
-    assert page
-    url = f"https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F{page}.jpg"
-    anchor = f"[{url} {visible}]"
-    daf_num_ab = _cacb_hahb(page)
+    daf_num_ab = _cacb_hahb(page_ddda)
     daf = f"(דף {daf_num_ab})"
     main_line = "#" + anchor + " " + daf
     return main_line

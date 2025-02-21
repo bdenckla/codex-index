@@ -262,8 +262,8 @@
 
 === Masoretic lists: Number of verses and the sections in the Torah ===
 '''Masoretic lists: Number of verses and the sections in the Torah ...'''
-#[https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F120B.jpg Masoretic lists: Number of verses and the sections in the Torah] (דף 120ב)
-#[https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F121A.jpg Masoretic lists: Number of verses and the sections in the Torah] (דף 121א)
+#[https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F120B.jpg <nowiki>Masoretic lists: Number of verses and the sections in the Torah</nowiki>] (דף 120ב)
+#[https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F121A.jpg <nowiki>Masoretic lists: Number of verses and the sections in the Torah</nowiki>] (דף 121א)
 
 === יהושע ===
 '''יהושע ...'''
@@ -763,7 +763,7 @@
 
 === Masoretic lists: Number of verses and the sections in the Prophets ===
 '''Masoretic lists: Number of verses and the sections in the Prophets ...'''
-#[https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F326B.jpg Masoretic lists: Number of verses and the sections in the Prophets] (דף 326ב)
+#[https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F326B.jpg <nowiki>Masoretic lists: Number of verses and the sections in the Prophets</nowiki>] (דף 326ב)
 
 === דברי הימים א ===
 '''דברי הימים א ...'''
