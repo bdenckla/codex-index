@@ -27,7 +27,8 @@ def _line_for_bib_row(row):
     assert page
     url = f"https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F{page}.jpg"
     visible = _heb_range(_text_range(row))
-    anchor = f"[{url} {visible}]"
+    anchor = f"[{url} <nowiki>{visible}</nowiki>]"
+    # We use <nowiki>...</nowiki> to avoid problems when there are square brackets in "visible".
     daf_num_ab = _cacb_hahb(page)
     daf = f"(דף {daf_num_ab})"
     main_line = "#" + anchor + " " + daf
