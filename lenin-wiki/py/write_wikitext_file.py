@@ -32,13 +32,12 @@ def _line_for_any_row(visible, row):
     page_ddda = row["page"]
     assert page_ddda
     urls = iu.image_urls(page_ddda)
-    url = urls["sefa"]
-    anchor = f"[{url} <nowiki>{visible}</nowiki>]"
+    anchor_lcci = f"[{urls['lcci']} <nowiki>{visible}</nowiki>]"
+    anchor_sefa = f"[{urls['sefa']} ספריא]"
     # We use <nowiki>...</nowiki> to avoid problems when there are square brackets in "visible".
     daf_num_ab = _cacb_hahb(page_ddda)
     daf = f"(דף {daf_num_ab})"
-    main_line = "#" + anchor + " " + daf
-    return main_line
+    return f"# {anchor_lcci} / {anchor_sefa} {daf}"
 
 
 def _text_range(row):
