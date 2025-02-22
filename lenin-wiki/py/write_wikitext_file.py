@@ -1,6 +1,8 @@
 import py.my_open as my_open
 import py.hebrew_verse_numerals as hvn
 import py.image_urls as iu
+import py.my_locales as tbn
+import py.get_cvm_rec_from_bcvt as gcrfb
 from py.mam_book_names_and_std_book_names import he_bk39_name
 from py.my_utils import sum_of_map, sl_map
 
@@ -85,6 +87,9 @@ def _abbreviated_sto(sta, sto):
 
 
 def _heb_bcv(bcv):
+    bcvtbhs = tbn.mk_bcvtbhs(*bcv)
+    cvm_rec = gcrfb.get_cvm_rec_from_bcvt(bcvtbhs)
+    assert cvm_rec is None
     bk39id, int_chnu, int_vrnu = bcv
     heb_bkna = he_bk39_name(bk39id)
     heb_chnu = hvn.INT_TO_STR_DIC[int_chnu]
