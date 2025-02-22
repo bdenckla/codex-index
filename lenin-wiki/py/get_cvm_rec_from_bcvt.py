@@ -26,7 +26,7 @@ def _mk_dic_from_bcvt_to_cvm_rec(vtrad):
             cvve_type = helpers.cvve_get_type(cvve_xxx)
             bcvtxxx = tbn.mk_bcvt(bk39id, cvtxxx)
             cvtmam = tbn.bcvt_get_cvt(bcvtmam)
-            if cvve_type == helpers.CVVE_TYPE_SAME_CONTENTS:
+            if cvve_type == helpers.CvveType.SAME_CONTENTS:
                 if tbn.eq_mod_vtrad(cvtxxx, cvtmam):
                     continue
             # It just so happens that the mapping from

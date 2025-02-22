@@ -3,6 +3,7 @@ import py.hebrew_verse_numerals as hvn
 import py.image_urls as iu
 import py.my_locales as tbn
 import py.get_cvm_rec_from_bcvt as gcrfb
+import py.vtrad_helpers as helpers
 from py.mam_book_names_and_std_book_names import he_bk39_name
 from py.my_utils import sum_of_map, sl_map
 
@@ -62,8 +63,8 @@ def _mref(row, keyc, keyv, keyp, keyl):
 
 def _heb_range(text_range):
     sta_bcvy, sto_bcvy = text_range
-    sta = _heb_bcv(sta_bcvy[:3])
-    sto = _heb_bcv(sto_bcvy[:3])
+    sta = _get_heb_bcv_imt_fr_bcv_ibt(sta_bcvy[:3])
+    sto = _get_heb_bcv_imt_fr_bcv_ibt(sto_bcvy[:3])
     sta_str = f'{sta[0]} {sta[1]},{sta[2]}'
     abbr_sto_str = _abbreviated_sto(sta, sto)
     bracs = _brackets(text_range)
@@ -86,10 +87,19 @@ def _abbreviated_sto(sta, sto):
     return f'{sto[0]} {sto[1]},{sto[2]}'
 
 
-def _heb_bcv(bcv):
-    bcvtbhs = tbn.mk_bcvtbhs(*bcv)
+def _get_heb_bcv_imt_fr_bcv_ibt(bcv_ibt):
+    """Get Hebrew bcv in the MAM vtrad from [Latin/int] bcv in the BHS vtrad """
+    bcvtbhs = tbn.mk_bcvtbhs(*bcv_ibt)
     cvm_rec = gcrfb.get_cvm_rec_from_bcvt(bcvtbhs)
-    assert cvm_rec is None
+    if cvm_rec is None:
+        return _get_heb_bcv(bcv_ibt)
+    cvve_type, cvm = gcrfb.cvm_rec_get_parts(cvm_rec)
+    if cvve_type != helpers.CvveType.SAME_CONTENTS:
+        print("BAD!", bcv_ibt)
+    return _get_heb_bcv((bcv_ibt[0], cvm[0], cvm[1]))
+
+
+def _get_heb_bcv(bcv):
     bk39id, int_chnu, int_vrnu = bcv
     heb_bkna = he_bk39_name(bk39id)
     heb_chnu = hvn.INT_TO_STR_DIC[int_chnu]
