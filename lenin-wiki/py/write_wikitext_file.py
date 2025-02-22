@@ -88,15 +88,25 @@ def _abbreviated_sto(sta, sto):
 
 
 def _get_heb_bcv_imt_fr_bcv_ibt(bcv_ibt):
-    """Get Hebrew bcv in the MAM vtrad from [Latin/int] bcv in the BHS vtrad """
+    """
+    Get a Hebrew bcv IMT from a [Latin/int] bcv IBT.
+    IMT: in the MAM vtrad
+    IBT: in the BHS vtrad
+    """
     bcvtbhs = tbn.mk_bcvtbhs(*bcv_ibt)
     cvm_rec = gcrfb.get_cvm_rec_from_bcvt(bcvtbhs)
     if cvm_rec is None:
         return _get_heb_bcv(bcv_ibt)
     cvve_type, cvm = gcrfb.cvm_rec_get_parts(cvm_rec)
-    if cvve_type != helpers.CvveType.SAME_CONTENTS:
-        print("BAD!", bcv_ibt)
+    assert cvve_type in _PARTIAL_AND_SAME
+    # Partial is okay because partial means that
+    # this is a BHS verse that corresponds to only part of a MAM verse.
+    # I.e. the MAM verse number is "less precise"
+    # than the BHS verse number we're coming from.
     return _get_heb_bcv((bcv_ibt[0], cvm[0], cvm[1]))
+
+
+_PARTIAL_AND_SAME = helpers.CvveType.SAME_CONTENTS, helpers.CvveType.PARTIAL_CONTENTS
 
 
 def _get_heb_bcv(bcv):
