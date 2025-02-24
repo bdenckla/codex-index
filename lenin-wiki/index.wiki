@@ -83,15 +83,12 @@
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n76/mode/1up?view=theater <nowiki>(שמות יג,ט–יד,י)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F039A.jpg ספריא] (דף 039א)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n77/mode/1up?view=theater <nowiki>(שמות יד,י–כח)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F039B.jpg ספריא] (דף 039ב)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n78/mode/1up?view=theater <nowiki>(שמות יד,כח–לא]</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F040A.jpg ספריא] (דף 040א)
-# [https://archive.org/details/Leningrad_Codex_Color_Images/page/n78/mode/1up?view=theater <nowiki>[שמות טו,א–יד)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F040A.jpg ספריא] (דף 040א)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n79/mode/1up?view=theater <nowiki>(שמות טו,יד–טז,ג)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F040B.jpg ספריא] (דף 040ב)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n80/mode/1up?view=theater <nowiki>(שמות טז,ג–כד)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F041A.jpg ספריא] (דף 041א)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n81/mode/1up?view=theater <nowiki>(שמות טז,כד–יז,יא)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F041B.jpg ספריא] (דף 041ב)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n82/mode/1up?view=theater <nowiki>(שמות יז,יא–יח,יט)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F042A.jpg ספריא] (דף 042א)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n83/mode/1up?view=theater <nowiki>(שמות יח,יט–יט,יג)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F042B.jpg ספריא] (דף 042ב)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n84/mode/1up?view=theater <nowiki>(שמות יט,יג–כ,ו]</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F043A.jpg ספריא] (דף 043א)
-# [https://archive.org/details/Leningrad_Codex_Color_Images/page/n84/mode/1up?view=theater <nowiki>[שמות כ,ז–י]</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F043A.jpg ספריא] (דף 043א)
-# [https://archive.org/details/Leningrad_Codex_Color_Images/page/n84/mode/1up?view=theater <nowiki>[שמות כ,יא–יב)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F043A.jpg ספריא] (דף 043א)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n85/mode/1up?view=theater <nowiki>(שמות כ,יב–כא,יח)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F043B.jpg ספריא] (דף 043ב)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n86/mode/1up?view=theater <nowiki>(שמות כא,יח–כב,ו)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F044A.jpg ספריא] (דף 044א)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n87/mode/1up?view=theater <nowiki>(שמות כב,ו–כג,ה)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F044B.jpg ספריא] (דף 044ב)
@@ -198,7 +195,6 @@
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n180/mode/1up?view=theater <nowiki>(במדבר כה,ו–כו,יג)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F091A.jpg ספריא] (דף 091א)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n181/mode/1up?view=theater <nowiki>(במדבר כו,יג–מב)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F091B.jpg ספריא] (דף 091ב)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n182/mode/1up?view=theater <nowiki>(במדבר כו,מב–נא]</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F092A.jpg ספריא] (דף 092א)
-# [https://archive.org/details/Leningrad_Codex_Color_Images/page/n182/mode/1up?view=theater <nowiki>[במדבר כו,נב–כז,ב]</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F092A.jpg ספריא] (דף 092א)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n183/mode/1up?view=theater <nowiki>[במדבר כז,ג–כח,ד)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F092B.jpg ספריא] (דף 092ב)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n184/mode/1up?view=theater <nowiki>(במדבר כח,ד–ל]</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F093A.jpg ספריא] (דף 093א)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n185/mode/1up?view=theater <nowiki>[במדבר כח,לא–כט,כה)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F093B.jpg ספריא] (דף 093ב)
@@ -282,7 +278,6 @@
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n253/mode/1up?view=theater <nowiki>(יהושע י,כה–יא,ב)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F127B.jpg ספריא] (דף 127ב)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n254/mode/1up?view=theater <nowiki>(יהושע יא,ב–כב)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F128A.jpg ספריא] (דף 128א)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n255/mode/1up?view=theater <nowiki>(יהושע יא,כב–יב,ה)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F128B.jpg ספריא] (דף 128ב)
-# [https://archive.org/details/Leningrad_Codex_Color_Images/page/n255/mode/1up?view=theater <nowiki>(יהושע יב,ה–יג,ג)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F128B.jpg ספריא] (דף 128ב)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n256/mode/1up?view=theater <nowiki>(יהושע יג,ג–כט)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F129A.jpg ספריא] (דף 129א)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n257/mode/1up?view=theater <nowiki>(יהושע יג,כט–טו,ב]</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F129B.jpg ספריא] (דף 129ב)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n258/mode/1up?view=theater <nowiki>[יהושע טו,ג–לה)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F130A.jpg ספריא] (דף 130א)
@@ -308,7 +303,6 @@
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n275/mode/1up?view=theater <nowiki>(שופטים ד,כב–ה,יג)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F138B.jpg ספריא] (דף 138ב)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n276/mode/1up?view=theater <nowiki>(שופטים ה,יג–כח)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F139A.jpg ספריא] (דף 139א)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n277/mode/1up?view=theater <nowiki>(שופטים ה,כח–ו,יג)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F139B.jpg ספריא] (דף 139ב)
-# [https://archive.org/details/Leningrad_Codex_Color_Images/page/n277/mode/1up?view=theater <nowiki>(שופטים ו,יג–כ)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F139B.jpg ספריא] (דף 139ב)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n278/mode/1up?view=theater <nowiki>(שופטים ו,כ–ז,א)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F140A.jpg ספריא] (דף 140א)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n279/mode/1up?view=theater <nowiki>(שופטים ז,א–יח)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F140B.jpg ספריא] (דף 140ב)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n280/mode/1up?view=theater <nowiki>(שופטים ז,יח–ח,יג)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F141A.jpg ספריא] (דף 141א)
@@ -381,7 +375,6 @@
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n339/mode/1up?view=theater <nowiki>(שמואל ב ג,כח–ד,ט)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F170B.jpg ספריא] (דף 170ב)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n340/mode/1up?view=theater <nowiki>(שמואל ב ד,ט–ה,כא)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F171A.jpg ספריא] (דף 171א)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n341/mode/1up?view=theater <nowiki>(שמואל ב ה,כא–ו,ג]</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F171B.jpg ספריא] (דף 171ב)
-# [https://archive.org/details/Leningrad_Codex_Color_Images/page/n341/mode/1up?view=theater <nowiki>[שמואל ב ו,ד–יט)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F171B.jpg ספריא] (דף 171ב)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n342/mode/1up?view=theater <nowiki>(שמואל ב ו,יט–ז,כ)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F172A.jpg ספריא] (דף 172א)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n343/mode/1up?view=theater <nowiki>(שמואל ב ז,כ–ח,יד)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F172B.jpg ספריא] (דף 172ב)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n344/mode/1up?view=theater <nowiki>(שמואל ב ח,יד–י,ו)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F173A.jpg ספריא] (דף 173א)
@@ -405,9 +398,7 @@
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n362/mode/1up?view=theater <nowiki>[שמואל ב כב,א–כד]</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F182A.jpg ספריא] (דף 182א)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n363/mode/1up?view=theater <nowiki>[שמואל ב כב,כה–כג,ג)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F182B.jpg ספריא] (דף 182ב)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n364/mode/1up?view=theater <nowiki>(שמואל ב כג,ג–כג]</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F183A.jpg ספריא] (דף 183א)
-# [https://archive.org/details/Leningrad_Codex_Color_Images/page/n364/mode/1up?view=theater <nowiki>[שמואל ב כג,כד–כט)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F183A.jpg ספריא] (דף 183א)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n365/mode/1up?view=theater <nowiki>(שמואל ב כג,כט–לט]</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F183B.jpg ספריא] (דף 183ב)
-# [https://archive.org/details/Leningrad_Codex_Color_Images/page/n365/mode/1up?view=theater <nowiki>[שמואל ב כד,א–טז)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F183B.jpg ספריא] (דף 183ב)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n366/mode/1up?view=theater <nowiki>(שמואל ב כד,טז–כה]</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F184A.jpg ספריא] (דף 184א)
 
 === מלכים א ===
@@ -787,8 +778,6 @@
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n670/mode/1up?view=theater <nowiki>(דברי הימים א יג,י–טו,ז)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F336A.jpg ספריא] (דף 336א)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n671/mode/1up?view=theater <nowiki>(דברי הימים א טו,ז–כט)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F336B.jpg ספריא] (דף 336ב)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n672/mode/1up?view=theater <nowiki>(דברי הימים א טו,כט–טז,ז]</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F337A.jpg ספריא] (דף 337א)
-# [https://archive.org/details/Leningrad_Codex_Color_Images/page/n672/mode/1up?view=theater <nowiki>[דברי הימים א טז,ח–כב]</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F337A.jpg ספריא] (דף 337א)
-# [https://archive.org/details/Leningrad_Codex_Color_Images/page/n672/mode/1up?view=theater <nowiki>[דברי הימים א טז,כג–לה)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F337A.jpg ספריא] (דף 337א)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n673/mode/1up?view=theater <nowiki>(דברי הימים א טז,לה–יז,יד]</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F337B.jpg ספריא] (דף 337ב)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n674/mode/1up?view=theater <nowiki>[דברי הימים א יז,טו–יח,ט]</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F338A.jpg ספריא] (דף 338א)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n675/mode/1up?view=theater <nowiki>[דברי הימים א יח,י–יט,יג)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F338B.jpg ספריא] (דף 338ב)
@@ -850,8 +839,6 @@
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n727/mode/1up?view=theater <nowiki>(דברי הימים ב לד,לא–לה,טז)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F364B.jpg ספריא] (דף 364ב)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n728/mode/1up?view=theater <nowiki>(דברי הימים ב לה,טז–לו,ח)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F365A.jpg ספריא] (דף 365א)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n729/mode/1up?view=theater <nowiki>(דברי הימים ב לו,ח–טו)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F365B.jpg ספריא] (דף 365ב)
-# [https://archive.org/details/Leningrad_Codex_Color_Images/page/n729/mode/1up?view=theater <nowiki>(דברי הימים ב לו,טו–כא)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F365B.jpg ספריא] (דף 365ב)
-# [https://archive.org/details/Leningrad_Codex_Color_Images/page/n729/mode/1up?view=theater <nowiki>(דברי הימים ב לו,כא–כג]</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F365B.jpg ספריא] (דף 365ב)
 
 === תהלים ===
 '''תהלים ...'''
@@ -950,7 +937,6 @@
 === משלי ===
 '''משלי ...'''
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n817/mode/1up?view=theater <nowiki>[משלי א,א–ז]</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F409B.jpg ספריא] (דף 409ב)
-# [https://archive.org/details/Leningrad_Codex_Color_Images/page/n817/mode/1up?view=theater <nowiki>[משלי א,ח–יט]</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F409B.jpg ספריא] (דף 409ב)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n818/mode/1up?view=theater <nowiki>[משלי א,כ–ג,ד]</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F410A.jpg ספריא] (דף 410א)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n819/mode/1up?view=theater <nowiki>[משלי ג,ה–ד,ח)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F410B.jpg ספריא] (דף 410ב)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n820/mode/1up?view=theater <nowiki>(משלי ד,ח–ה,כג]</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F411A.jpg ספריא] (דף 411א)
@@ -996,10 +982,6 @@
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n848/mode/1up?view=theater <nowiki>[קהלת א,א–יג)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F425A.jpg ספריא] (דף 425א)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n849/mode/1up?view=theater <nowiki>(קהלת א,יג–ב,טז]</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F425B.jpg ספריא] (דף 425ב)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n850/mode/1up?view=theater <nowiki>[קהלת ב,יז–כד)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F426A.jpg ספריא] (דף 426א)
-# [https://archive.org/details/Leningrad_Codex_Color_Images/page/n850/mode/1up?view=theater <nowiki>(קהלת ב,כד–ג,ב)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F426A.jpg ספריא] (דף 426א)
-# [https://archive.org/details/Leningrad_Codex_Color_Images/page/n850/mode/1up?view=theater <nowiki>(קהלת ג,ב–ו)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F426A.jpg ספריא] (דף 426א)
-# [https://archive.org/details/Leningrad_Codex_Color_Images/page/n850/mode/1up?view=theater <nowiki>(קהלת ג,ו–ט)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F426A.jpg ספריא] (דף 426א)
-# [https://archive.org/details/Leningrad_Codex_Color_Images/page/n850/mode/1up?view=theater <nowiki>(קהלת ג,ט–יג)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F426A.jpg ספריא] (דף 426א)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n851/mode/1up?view=theater <nowiki>(קהלת ג,יג–ד,יג)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F426B.jpg ספריא] (דף 426ב)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n852/mode/1up?view=theater <nowiki>(קהלת ד,יג–ה,יט)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F427A.jpg ספריא] (דף 427א)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n853/mode/1up?view=theater <nowiki>(קהלת ה,יט–ז,יז)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F427B.jpg ספריא] (דף 427ב)
@@ -1007,8 +989,6 @@
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n855/mode/1up?view=theater <nowiki>(קהלת ח,יד–ט,יב)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F428B.jpg ספריא] (דף 428ב)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n856/mode/1up?view=theater <nowiki>(קהלת ט,יב–יא,ג)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F429A.jpg ספריא] (דף 429א)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n857/mode/1up?view=theater <nowiki>(קהלת יא,ג–יב,א)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F429B.jpg ספריא] (דף 429ב)
-# [https://archive.org/details/Leningrad_Codex_Color_Images/page/n857/mode/1up?view=theater <nowiki>(קהלת יב,א–ו]</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F429B.jpg ספריא] (דף 429ב)
-# [https://archive.org/details/Leningrad_Codex_Color_Images/page/n857/mode/1up?view=theater <nowiki>[קהלת יב,ז–יד]</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F429B.jpg ספריא] (דף 429ב)
 
 === איכה ===
 '''איכה ...'''
@@ -1032,8 +1012,6 @@
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n871/mode/1up?view=theater <nowiki>(אסתר ח,ח–ט,ה]</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F436B.jpg ספריא] (דף 436ב)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n872/mode/1up?view=theater <nowiki>[אסתר ט,ו–כד)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F437A.jpg ספריא] (דף 437א)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n873/mode/1up?view=theater <nowiki>(אסתר ט,כד–כט)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F437B.jpg ספריא] (דף 437ב)
-# [https://archive.org/details/Leningrad_Codex_Color_Images/page/n873/mode/1up?view=theater <nowiki>(אסתר ט,כט–י,ג)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F437B.jpg ספריא] (דף 437ב)
-# [https://archive.org/details/Leningrad_Codex_Color_Images/page/n873/mode/1up?view=theater <nowiki>(אסתר י,ג–ג]</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F437B.jpg ספריא] (דף 437ב)
 
 === דניאל ===
 '''דניאל ...'''
@@ -1086,8 +1064,6 @@
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n912/mode/1up?view=theater <nowiki>[נחמיה ה,יז–ו,טז)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F457A.jpg ספריא] (דף 457א)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n913/mode/1up?view=theater <nowiki>(נחמיה ו,טז–ז,כה]</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F457B.jpg ספריא] (דף 457ב)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n914/mode/1up?view=theater <nowiki>[נחמיה ז,כו–לח)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F458A.jpg ספריא] (דף 458א)
-# [https://archive.org/details/Leningrad_Codex_Color_Images/page/n914/mode/1up?view=theater <nowiki>(נחמיה ז,לח–נג)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F458A.jpg ספריא] (דף 458א)
-# [https://archive.org/details/Leningrad_Codex_Color_Images/page/n914/mode/1up?view=theater <nowiki>(נחמיה ז,נג–סה)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F458A.jpg ספריא] (דף 458א)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n915/mode/1up?view=theater <nowiki>(נחמיה ז,סה–ח,ט)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F458B.jpg ספריא] (דף 458ב)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n916/mode/1up?view=theater <nowiki>(נחמיה ח,ט–ט,ח)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F459A.jpg ספריא] (דף 459א)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n917/mode/1up?view=theater <nowiki>(נחמיה ט,ח–כה)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F459B.jpg ספריא] (דף 459ב)
@@ -1098,4 +1074,3 @@
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n922/mode/1up?view=theater <nowiki>(נחמיה יב,כו–מז)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F462A.jpg ספריא] (דף 462א)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n923/mode/1up?view=theater <nowiki>(נחמיה יב,מז–יג,יט)</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F462B.jpg ספריא] (דף 462ב)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n924/mode/1up?view=theater <nowiki>(נחמיה יג,יט–כה]</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F463A.jpg ספריא] (דף 463א)
-# [https://archive.org/details/Leningrad_Codex_Color_Images/page/n924/mode/1up?view=theater <nowiki>[נחמיה יג,כו–לא]</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F463A.jpg ספריא] (דף 463א)
