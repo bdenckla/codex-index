@@ -1946,12 +1946,12 @@
       },
       "stoprec": {
         "colnu": 3,
-        "linenu": 20,
+        "linenu": 27,
         "chnu": 20,
-        "vrnu": 11,
-        "wordnu": 26,
-        "word_count": 317,
-        "max_wordnu": 26
+        "vrnu": 15,
+        "wordnu": 1,
+        "word_count": 337,
+        "max_wordnu": 2
       },
       "page": "043A",
       "bkid": "Exodus",
@@ -15984,12 +15984,12 @@
       },
       "stoprec": {
         "colnu": 2,
-        "linenu": 15,
+        "linenu": 27,
         "chnu": 16,
-        "vrnu": 22,
-        "wordnu": 6,
-        "word_count": 195,
-        "max_wordnu": 6
+        "vrnu": 35,
+        "wordnu": 5,
+        "word_count": 303,
+        "max_wordnu": 13
       },
       "page": "337A",
       "bkid": "1Chronicles",
@@ -17319,13 +17319,13 @@
         "max_wordnu": 19
       },
       "stoprec": {
-        "colnu": 2,
-        "linenu": 27,
+        "colnu": 3,
+        "linenu": 16,
         "chnu": 36,
-        "vrnu": 21,
-        "wordnu": 7,
-        "word_count": 198,
-        "max_wordnu": 17
+        "vrnu": 23,
+        "wordnu": 30,
+        "word_count": 262,
+        "max_wordnu": 30
       },
       "page": "365B",
       "bkid": "2Chronicles",
@@ -20206,13 +20206,13 @@
         "max_wordnu": 15
       },
       "stoprec": {
-        "colnu": 2,
-        "linenu": 10,
+        "colnu": 3,
+        "linenu": 26,
         "chnu": 3,
-        "vrnu": 2,
-        "wordnu": 1,
-        "word_count": 155,
-        "max_wordnu": 9
+        "vrnu": 13,
+        "wordnu": 11,
+        "word_count": 275,
+        "max_wordnu": 12
       },
       "page": "426A",
       "bkid": "Ecclesiastes",
@@ -20367,13 +20367,13 @@
         "max_wordnu": 18
       },
       "stoprec": {
-        "colnu": 2,
-        "linenu": 26,
+        "colnu": 3,
+        "linenu": 24,
         "chnu": 12,
-        "vrnu": 6,
-        "wordnu": 17,
-        "word_count": 205,
-        "max_wordnu": 17
+        "vrnu": 14,
+        "wordnu": 14,
+        "word_count": 296,
+        "max_wordnu": 14
       },
       "page": "429B",
       "bkid": "Ecclesiastes",
@@ -20762,12 +20762,12 @@
         "max_wordnu": 18
       },
       "stoprec": {
-        "colnu": 2,
-        "linenu": 27,
+        "colnu": 3,
+        "linenu": 2,
         "chnu": 10,
         "vrnu": 3,
-        "wordnu": 11,
-        "word_count": 207,
+        "wordnu": 18,
+        "word_count": 214,
         "max_wordnu": 18
       },
       "page": "437B",
@@ -21757,13 +21757,13 @@
         "max_wordnu": 7
       },
       "stoprec": {
-        "colnu": 2,
+        "colnu": 3,
         "linenu": 27,
         "chnu": 7,
-        "vrnu": 53,
-        "wordnu": 3,
-        "word_count": 184,
-        "max_wordnu": 6
+        "vrnu": 65,
+        "wordnu": 1,
+        "word_count": 291,
+        "max_wordnu": 13
       },
       "page": "458A",
       "bkid": "Nehemiah",

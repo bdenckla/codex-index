@@ -3,7 +3,7 @@ from py.my_utils import my_groupby
 
 def s1_collapse_rows(rows):
     grouped_by_pb = my_groupby(rows, _get_pb)
-    return list(map(_collapse_rows_of_one_pb, grouped_by_pb.values()))
+    return list(map(_collapse_rows, grouped_by_pb.values()))
 
 
 def _get_pb(row):
@@ -22,8 +22,8 @@ def _get_book(row):
     return key
 
 
-def _collapse_rows_of_one_pb(rows_of1pb):
-    # pb: page/book pair
+def _collapse_rows(rows_of1pb):
+    # collapse the rows belonging to one pb (page/book pair)
     if len(rows_of1pb) == 1:
         return rows_of1pb[0]
     row1, row2 = rows_of1pb[0], rows_of1pb[1]
@@ -31,7 +31,7 @@ def _collapse_rows_of_one_pb(rows_of1pb):
     sta_r2 = _sta_cvp(row2)
     assert _is_next(sto_r1, sta_r2)
     collapsed = _set_sto(row1, row2)
-    return collapsed
+    return _collapse_rows([collapsed, *rows_of1pb[2:]])
 
 
 def _is_next(cvp1, cvp2):
