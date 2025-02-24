@@ -1,7 +1,7 @@
 """ Exports main """
 
 from py.read_json_file import read_json_file
-from py.s1_collapse_ranges import s1_collapse_rows
+from py.s1_collapse_rows import s1_collapse_rows
 from py.s2_group_by_book import s2_group_by_book
 from py.write_wikitext_file import write_wikitext_file
 import py.my_open as my_open

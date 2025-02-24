@@ -30,7 +30,7 @@ def _collapse_rows_of_one_pb(rows_of1pb):
     sto_r1 = _sto_cvp(row1)
     sta_r2 = _sta_cvp(row2)
     assert _is_next(sto_r1, sta_r2)
-    collapsed = _set_sto(row1, _sto_cvp(row2))
+    collapsed = _set_sto(row1, row2)
     return collapsed
 
 
@@ -42,28 +42,15 @@ def _nexts(cvp):
     return ((cvp[0], cvp[1], cvp[2] + 1), (cvp[0], cvp[1] + 1, 1), (cvp[0] + 1, 1, 1))
 
 
-def _sta_cvp(row):
-    return _get3(row, *_STA_KEYS)
+def _sta_cvp(row): return _get_cvp(row, "startrec")
 
 
-def _sto_cvp(row):
-    return _get3(row, *_STO_KEYS)
+def _sto_cvp(row): return _get_cvp(row, "stoprec")
 
 
-def _set_sta(row, cvp): return _ovr(row, _STA_KEYS, cvp)
+def _set_sto(row1, row2): return {**row1, "stoprec": row2["stoprec"]}
 
 
-def _set_sto(row, cvp): return _ovr(row, _STO_KEYS, cvp)
-
-
-_STA_KEYS = "startc", "startv", "startp"
-_STO_KEYS = "stopc", "stopv", "stopp"
-
-
-def _get3(row, keyc, keyv, keyp):
-    return row[keyc], row[keyv], row[keyp]
-
-
-def _ovr(row, ovr_keys, ovr_vals):
-    overrides = dict(zip(ovr_keys, ovr_vals))
-    return {**row, **overrides}
+def _get_cvp(row, stxkey):  # stxkey: "startrec" or "stoprec"
+    stxrec = row[stxkey]
+    return stxrec["chnu"], stxrec["vrnu"], stxrec["wordnu"]

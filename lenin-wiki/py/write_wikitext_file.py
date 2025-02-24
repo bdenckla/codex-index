@@ -44,21 +44,22 @@ def _line_for_any_row(visible, row):
 
 
 def _text_range(row):
-    sta_bcvy = _mref(row, "startc", "startv", "startp", "startl")
-    sto_bcvy = _mref(row, "stopc", "stopv", "stopp", "stopl")
+    sta_bcvy = _mref(row, "startrec", "chnu", "vrnu", "wordnu", "max_wordnu")
+    sto_bcvy = _mref(row, "stoprec", "chnu", "vrnu", "wordnu", "max_wordnu")
     return sta_bcvy, sto_bcvy
 
 
-def _mref(row, keyc, keyv, keyp, keyl):
-    maxp = row[keyl]  # max value of p is the length of the verse
+def _mref(row, stxkey, keyc, keyv, keyp, keyl):
+    stxrec = row[stxkey]
+    maxp = stxrec[keyl]  # max value of p is the length of the verse
     assert maxp != 1
-    if row[keyp] == 1:
+    if stxrec[keyp] == 1:
         fml = "fml-first"
-    elif row[keyp] == maxp:
+    elif stxrec[keyp] == maxp:
         fml = "fml-last"
     else:
         fml = "fml-mid"
-    return row["bkid"], row[keyc], row[keyv], fml
+    return row["bkid"], stxrec[keyc], stxrec[keyv], fml
 
 
 def _heb_range(text_range):
