@@ -1,7 +1,7 @@
 from py.my_utils import my_groupby
 
 
-def group_by_book(rows):
+def s2_group_by_book(rows):
     return my_groupby(rows, _get_assigned_book)
 
 
