@@ -68,16 +68,17 @@ def _heb_range(text_range):
     sto = _get_heb_bcv_imt_fr_bcv_ibt(sto_bcvy[:3])
     sta_str = f"{sta[0]} {sta[1]},{sta[2]}"
     abbr_sto_str = _abbreviated_sto(sta, sto)
-    bracs = _brackets(text_range)
-    return f"{bracs[0]}{sta_str}{_EN_DASH}{abbr_sto_str}{bracs[1]}"
+    pasus = _pasu(text_range)
+    return f"{sta_str}{pasus[0]}{_EN_DASH}{abbr_sto_str}{pasus[1]}"
 
 
-def _brackets(text_range):
+def _pasu(text_range):
+    # pasu: partial suffix: 2 for mid-verse start, 1 for mid-verse stop
     sta_bcvy, sto_bcvy = text_range
     sta_fml, sto_fml = sta_bcvy[3], sto_bcvy[3]
-    sta_brac = "[" if sta_fml == "fml-first" else "("
-    sto_brac = "]" if sto_fml == "fml-last" else ")"
-    return sta_brac, sto_brac
+    sta_pasu = "" if sta_fml == "fml-first" else "2"
+    sto_pasu = "" if sto_fml == "fml-last" else "1"
+    return sta_pasu, sto_pasu
 
 
 def _abbreviated_sto(sta, sto):
