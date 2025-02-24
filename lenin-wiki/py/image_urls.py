@@ -3,7 +3,7 @@ def image_urls(page_ddda):
     page_n = _get_page_n(page_ddda)
     return {
         "sefa": f"{_PRE_SEFA}BIB_LENCDX_F{page_ddda}.jpg",
-        "lcci": f"{_PRE_LCCI}n{page_n}/mode/1up?view=theater"
+        "lcci": f"{_PRE_LCCI}n{page_n}/mode/1up?view=theater",
     }
 
 

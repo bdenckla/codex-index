@@ -22,7 +22,7 @@ def _lines_for_one_entry(entry):
     url = entry["de_url"]
     leaf = entry["de_leaf"]
     if not url:
-        return [f'# {leaf} N/A']
+        return [f"# {leaf} N/A"]
     visible = _heb_range(entry["de_text_range"])
     anchor = f"[{url} {visible}]"
     daf_num_ab = _rv_ab(leaf)
@@ -32,9 +32,9 @@ def _lines_for_one_entry(entry):
     if not gap:
         return [main_line]
     if gap == "Before":
-        return ['# gap', main_line]
+        return ["# gap", main_line]
     if gap == "After":
-        return [main_line, '# gap']
+        return [main_line, "# gap"]
     assert False, gap
 
 
@@ -42,7 +42,7 @@ def _heb_range(text_range):
     start_bcv, stop_bcv = text_range
     sta = _heb_bcv(start_bcv)
     sto = _heb_bcv(stop_bcv)
-    sta_str = f'{sta[0]} {sta[1]},{sta[2]}'
+    sta_str = f"{sta[0]} {sta[1]},{sta[2]}"
     abbr_stop_str = _abbreviated_stop(sta, sto)
     return f"{sta_str}{_EN_DASH}{abbr_stop_str}"
 
@@ -51,8 +51,8 @@ def _abbreviated_stop(sta, sto):
     if sta[0] == sto[0]:
         if sta[1] == sto[1]:
             return sto[2]
-        return f'{sto[1]},{sto[2]}'
-    return f'{sto[0]} {sto[1]},{sto[2]}'
+        return f"{sto[1]},{sto[2]}"
+    return f"{sto[0]} {sto[1]},{sto[2]}"
 
 
 def _heb_bcv(bcv):
@@ -74,6 +74,6 @@ def _write_callback(lines, out_fp):
 
 _EN_DASH = "–"
 _RV_AB = {
-    'r': 'א',
-    'v': 'ב',
+    "r": "א",
+    "v": "ב",
 }

@@ -65,7 +65,7 @@ def _heb_range(text_range):
     sta_bcvy, sto_bcvy = text_range
     sta = _get_heb_bcv_imt_fr_bcv_ibt(sta_bcvy[:3])
     sto = _get_heb_bcv_imt_fr_bcv_ibt(sto_bcvy[:3])
-    sta_str = f'{sta[0]} {sta[1]},{sta[2]}'
+    sta_str = f"{sta[0]} {sta[1]},{sta[2]}"
     abbr_sto_str = _abbreviated_sto(sta, sto)
     bracs = _brackets(text_range)
     return f"{bracs[0]}{sta_str}{_EN_DASH}{abbr_sto_str}{bracs[1]}"
@@ -83,8 +83,8 @@ def _abbreviated_sto(sta, sto):
     if sta[0] == sto[0]:
         if sta[1] == sto[1]:
             return sto[2]
-        return f'{sto[1]},{sto[2]}'
-    return f'{sto[0]} {sto[1]},{sto[2]}'
+        return f"{sto[1]},{sto[2]}"
+    return f"{sto[0]} {sto[1]},{sto[2]}"
 
 
 def _get_heb_bcv_imt_fr_bcv_ibt(bcv_ibt):
@@ -129,6 +129,8 @@ def _write_callback(lines, out_fp):
 
 
 _EN_DASH = "–"
-_CACB_HAHB = {'A': 'א', 'B': 'ב'}
+_CACB_HAHB = {"A": "א", "B": "ב"}
 _MAS_LISTS_TORAH = "Masoretic lists: Number of verses and the sections in the Torah"
-_MAS_LISTS_PROPHETS = 'Masoretic lists: Number of verses and the sections in the Prophets'
+_MAS_LISTS_PROPHETS = (
+    "Masoretic lists: Number of verses and the sections in the Prophets"
+)
