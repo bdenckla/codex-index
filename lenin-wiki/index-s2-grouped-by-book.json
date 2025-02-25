@@ -15532,6 +15532,29 @@
       "page": "326B",
       "bkid": null,
       "note": "Masoretic lists: Number of verses and the sections in the Prophets"
+    },
+    {
+      "startrec": {
+        "colnu": null,
+        "linenu": null,
+        "chnu": null,
+        "vrnu": null,
+        "wordnu": null,
+        "word_count": null,
+        "max_wordnu": null
+      },
+      "stoprec": {
+        "colnu": null,
+        "linenu": null,
+        "chnu": null,
+        "vrnu": null,
+        "wordnu": null,
+        "word_count": null,
+        "max_wordnu": null
+      },
+      "page": "327A",
+      "bkid": null,
+      "note": "Masoretic lists: Number of verses and the sections in the Prophets"
     }
   ],
   "1Chronicles": [
