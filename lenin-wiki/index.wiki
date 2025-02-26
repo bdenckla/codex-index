@@ -1075,3 +1075,9 @@
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n922/mode/1up?view=theater <nowiki>נחמיה יב,כו2–מז1</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F462A.jpg ספריא] (דף 462א)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n923/mode/1up?view=theater <nowiki>נחמיה יב,מז2–יג,יט1</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F462B.jpg ספריא] (דף 462ב)
 # [https://archive.org/details/Leningrad_Codex_Color_Images/page/n924/mode/1up?view=theater <nowiki>נחמיה יג,יט2–לא</nowiki>] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F463A.jpg ספריא] (דף 463א)
+
+=== Masorah finalis folios 02 and beyond (skipping 01 because it is not simple) ===
+#[https://archive.org/details/Leningrad_Codex_Color_Images/page/n926/mode/1up?view=theater מסורה סופית 02 (א)] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F464A.jpg ספריא] (464א)
+#[https://archive.org/details/Leningrad_Codex_Color_Images/page/n927/mode/1up?view=theater מסורה סופית 02 (ב)] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F464B.jpg ספריא] (464ב)
+#[https://archive.org/details/Leningrad_Codex_Color_Images/page/n928/mode/1up?view=theater מסורה סופית 03 (א)] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F465A.jpg ספריא] (465א)
+#[https://archive.org/details/Leningrad_Codex_Color_Images/page/n929/mode/1up?view=theater מסורה סופית 03 (ב)] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F465B.jpg ספריא] (465ב)
