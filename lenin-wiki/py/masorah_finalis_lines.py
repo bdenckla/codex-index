@@ -13,6 +13,10 @@ def _get_page_ddas(ddd):
 
 
 def _line_for_page(page_ddda):
+    return _line_for_vis_and_page(_vis_for_page(page_ddda), page_ddda)
+
+
+def _vis_for_page(page_ddda):
     ddda_ddd, ddda_a = page_ddda[:3], page_ddda[3]
     ddd_int = int(ddda_ddd)
     n_mafi = ddd_int - 462 
@@ -20,7 +24,7 @@ def _line_for_page(page_ddda):
     hahb = iu.CACB_HAHB[ddda_a]
     visible = f"מסורה סופית {dd_mafi} ({hahb})"
     # E.g. visible == "מסורה סופית 03 (ב)"
-    return _line_for_vis_and_page(visible, page_ddda)
+    return visible
 
 
 def _line_for_vis_and_page(visible, page_ddda):
