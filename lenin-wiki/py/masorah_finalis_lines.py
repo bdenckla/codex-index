@@ -1,8 +1,29 @@
-def masorah_finalis_lines():
-    return ["", _SECTION_HEADER, _LINE_1, _LINE_2, _LINE_3, _LINE_4]
+import py.image_urls as iu
 
+
+def masorah_finalis_lines():
+    core = list(map(_line_for_page, _PAGES))
+    return ["", _SECTION_HEADER, *core]
+
+_PAGES = ["464A", "464B", "465A",  "465B"]
 _SECTION_HEADER = "=== Masorah finalis folios 02 and beyond (skipping 01 because it is not simple) ==="
-_LINE_1 = '#[https://archive.org/details/Leningrad_Codex_Color_Images/page/n926/mode/1up?view=theater מסורה סופית 02 (א)] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F464A.jpg ספריא] (464א)'
-_LINE_2 = '#[https://archive.org/details/Leningrad_Codex_Color_Images/page/n927/mode/1up?view=theater מסורה סופית 02 (ב)] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F464B.jpg ספריא] (464ב)'
-_LINE_3 = '#[https://archive.org/details/Leningrad_Codex_Color_Images/page/n928/mode/1up?view=theater מסורה סופית 03 (א)] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F465A.jpg ספריא] (465א)'
-_LINE_4 = '#[https://archive.org/details/Leningrad_Codex_Color_Images/page/n929/mode/1up?view=theater מסורה סופית 03 (ב)] / [https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F465B.jpg ספריא] (465ב)'
+
+
+def _line_for_page(page_ddda):
+    ddda_ddd, ddda_a = page_ddda[:3], page_ddda[3]
+    ddd_int = int(ddda_ddd)
+    n_mafi = ddd_int - 462 
+    dd_mafi = f"{n_mafi:02}"  # E.g. "03" if n_mafi == 3
+    hahb = iu.CACB_HAHB[ddda_a]
+    visible = f"מסורה סופית {dd_mafi} ({hahb})"
+    # E.g. visible == "מסורה סופית 03 (ב)"
+    return _line_for_vis_and_page(visible, page_ddda)
+
+
+def _line_for_vis_and_page(visible, page_ddda):
+    urls = iu.image_urls(page_ddda)
+    anchor_lcci = f"[{urls['lcci']} {visible}]"
+    anchor_sefa = f"[{urls['sefa']} ספריא]"
+    daf_num_ab = iu.cacb_hahb(page_ddda)
+    daf = f"({daf_num_ab})"
+    return f"#{anchor_lcci} / {anchor_sefa} {daf}"

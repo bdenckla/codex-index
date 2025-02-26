@@ -41,7 +41,7 @@ def _line_for_any_row(visible, row):
     anchor_lcci = f"[{urls['lcci']} <nowiki>{visible}</nowiki>]"
     anchor_sefa = f"[{urls['sefa']} ספריא]"
     # We use <nowiki>...</nowiki> to avoid problems when there are square brackets in "visible".
-    daf_num_ab = _cacb_hahb(page_ddda)
+    daf_num_ab = iu.cacb_hahb(page_ddda)
     daf = f"(דף {daf_num_ab})"
     return f"# {anchor_lcci} / {anchor_sefa} {daf}"
 
@@ -122,19 +122,12 @@ def _get_heb_bcv(bcv):
     return heb_bkna, heb_chnu, heb_vrnu
 
 
-def _cacb_hahb(leaf):
-    # A (ca) (cap A) becomes א (ha) (Hebrew alef)
-    # B (cb) (cap B) becomes ב (hb) (Hebrew bet)
-    return leaf[:-1] + _CACB_HAHB[leaf[-1]]
-
-
 def _write_callback(lines, out_fp):
     for line in lines:
         out_fp.write(line + "\n")
 
 
 _EN_DASH = "–"
-_CACB_HAHB = {"A": "א", "B": "ב"}
 _MAS_LISTS_TORAH = "Masoretic lists: Number of verses and the sections in the Torah"
 _MAS_LISTS_PROPHETS = (
     "Masoretic lists: Number of verses and the sections in the Prophets"
