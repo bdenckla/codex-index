@@ -1,12 +1,15 @@
 import py.image_urls as iu
+from py.my_utils import sum_of_map
 
 
 def masorah_finalis_lines():
-    core = list(map(_line_for_page, _PAGES))
+    page_ddas = sum_of_map(_get_page_ddas, range(464, 492))
+    core = list(map(_line_for_page, page_ddas))
     return ["", _SECTION_HEADER, *core]
 
-_PAGES = ["464A", "464B", "465A",  "465B"]
-_SECTION_HEADER = "=== Masorah finalis folios 02 and beyond (skipping 01 because it is not simple) ==="
+
+def _get_page_ddas(ddd):
+    return [f"{ddd}A", f"{ddd}B"]
 
 
 def _line_for_page(page_ddda):
@@ -27,3 +30,6 @@ def _line_for_vis_and_page(visible, page_ddda):
     daf_num_ab = iu.cacb_hahb(page_ddda)
     daf = f"({daf_num_ab})"
     return f"#{anchor_lcci} / {anchor_sefa} {daf}"
+
+
+_SECTION_HEADER = "=== Masorah finalis folios 02 and beyond (skipping 01 because it is not simple) ==="
