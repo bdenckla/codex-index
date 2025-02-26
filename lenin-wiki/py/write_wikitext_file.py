@@ -4,12 +4,15 @@ import py.image_urls as iu
 import py.my_locales as tbn
 import py.get_cvm_rec_from_bcvt as gcrfb
 import py.vtrad_helpers as helpers
+import py.masorah_finalis_lines as mfl
 from py.mam_book_names_and_std_book_names import he_bk39_name
 from py.my_utils import sum_of_map, sl_map
 
 
 def write_wikitext_file(grouped, out_path):
-    lines = sum_of_map(_lines_for_one_book, grouped.items())
+    main_lines = sum_of_map(_lines_for_one_book, grouped.items())
+    mafi_lines = mfl.masorah_finalis_lines()
+    lines = main_lines + mafi_lines
     my_open.with_tmp_openw(out_path, {}, _write_callback, lines)
 
 
