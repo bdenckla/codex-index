@@ -177,16 +177,17 @@ def _even_odd_foc(foc_pair, idx_and_elem):
 
 
 def my_groupby(iterable, keyfunc):
-    groups = groupby(iterable, keyfunc)
-    # This is what we used to do here:
-    #     return {k: list(v) for k, v in groups}
-    # But this isn't what we want if there are noncontiguous groups at the same key.
-    # It isn't what we want because it overwrites in such a case.
-    # We want to assert.
+    # I used to implement this using itertools.groupby.
+    # But it does something different than what we need.
+    # If input=[(1, 10), (1, 11), (2, 12), (1, 13)]
+    # and output=[(x, list(y)) for x,y in groupby(input, lambda z: z[0])],
+    # then output is a list having the following values:
+    #    (1, [(1, 10), (1, 11)]),
+    #    (2, [(2, 12)]),
+    #    (1, [(1, 13)])
     out = {}
-    for k, v in groups:
-        assert k not in out
-        out[k] = list(v)
+    for elem in iterable:
+        append_at_key(out, keyfunc(elem), elem)
     return out
 
 
