@@ -8,14 +8,14 @@
             "name": "Aleppo make Wikisource page",
             "type": "debugpy",
             "request": "launch",
-            "program": "aleppo/main_make_wikisouce_page.py",
+            "program": "aleppo/main_make_wikisource_page.py",
             "console": "integratedTerminal"
         },
         {
             "name": "Leningrad make Wikisource page",
             "type": "debugpy",
             "request": "launch",
-            "program": "lenin-wiki/main_make_wikisouce_page.py",
+            "program": "lenin-wiki/main_make_wikisource_page.py",
             "console": "integratedTerminal"
         },
         {
