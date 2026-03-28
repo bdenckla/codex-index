@@ -19,7 +19,7 @@ def main():
     write_wikitext_file(s2_grouped, _WIKITEXT_OUT_PATH)
 
 
-_JSON_IN_PATH = "leningrad/out/UXLC-misc/lci_augrecs.json"
+_JSON_IN_PATH = "leningrad/data/lci_augrecs.json"
 _JSON_OUT_PATH_S0 = "lenin-wiki/index-s0-annotated.json"
 _JSON_OUT_PATH_S2 = "lenin-wiki/index-s2-grouped-by-book.json"
 _WIKITEXT_OUT_PATH = "lenin-wiki/index.wiki"
