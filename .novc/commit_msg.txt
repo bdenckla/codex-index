@@ -1,0 +1,5 @@
+Replace warning file with shared-files doc
+
+Replace warning-do-not-edit-these-files.txt with
+shared-with-UXLC-utils.md documenting a two-way relationship
+between the repos (instead of the old one-way copy model).

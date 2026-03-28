@@ -22,9 +22,9 @@
             "name": "UXLC estimate atom location",
             "type": "debugpy",
             "request": "launch",
-            "cwd": "${workspaceFolder}/leningrad",
+            "cwd": "${workspaceFolder}/UXLC-utils-sparse",
             "program": "main_uxlc_estimate_atom_loc.py",
-            "args": ["Genesis", "24", "24", "3"],
+            "args": ["Genesis", "24:24", "וַתֹּ֣אמֶר"],
             "console": "integratedTerminal"
         }
     ]

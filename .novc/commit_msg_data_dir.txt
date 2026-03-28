@@ -1,0 +1,5 @@
+Move lci JSON files from in/out to data/ directory
+
+From codex-index's perspective both lci_recs.json and lci_augrecs.json
+are input files; the in/out split only made sense in UXLC-utils. Flatten
+them into a single data/ directory to avoid confusion.

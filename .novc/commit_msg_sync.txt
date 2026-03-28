@@ -1,0 +1,4 @@
+Remove "Known divergence" from shared-files doc
+
+The UXLC-utils copy of main_uxlc_estimate_atom_loc.py has been
+synced to match, so the divergence note is no longer needed.

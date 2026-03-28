@@ -1,0 +1,6 @@
+Rename leningrad/ to UXLC-utils-sparse/
+
+The directory is a sparse subset of the UXLC-utils repo; the new name
+makes that relationship explicit. Simplify the shared-files doc from a
+two-column table to a plain list, since every path is the same in both
+repos (just prefixed with UXLC-utils-sparse/ in codex-index).
